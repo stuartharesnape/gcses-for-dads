@@ -65,9 +65,7 @@ Chemical energy → muscles → movement (kinetic energy)
 
 ## 3. Energy Transfers
 
-Energy moves between stores in four ways
-
-Transfer - #### Example  
+Energy moves (transfers) between stores in four ways
 
 - Mechanically - pushing an object  
 - Electrically - current in a wire  
@@ -76,7 +74,7 @@ Transfer - #### Example
 
 #### Example: Kettle  
 
-Electricity → heating → hot water
+![Kettle Energy Transfer Diagram](./images/kettle-energy-diagram.svg)
 
 ---
 
