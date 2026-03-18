@@ -1,0 +1,84 @@
+<svg width="900" height="520" viewBox="0 0 900 520" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title { font: bold 28px Arial, sans-serif; fill: #111; }
+      .label { font: 20px Arial, sans-serif; fill: #111; }
+      .small { font: 17px Arial, sans-serif; fill: #111; }
+      .wire { stroke: #111; stroke-width: 4; fill: none; }
+      .device { stroke: #111; stroke-width: 3; fill: #f8f8f8; rx: 10; ry: 10; }
+      .switch { stroke: #111; stroke-width: 3; fill: none; }
+      .note { font: 18px Arial, sans-serif; fill: #111; }
+      .good { fill: #0a7a0a; font: bold 18px Arial, sans-serif; }
+      .bad { fill: #b00020; font: bold 18px Arial, sans-serif; }
+    </style>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#111"/>
+    </marker>
+  </defs>
+
+  <text x="450" y="40" text-anchor="middle" class="title">Why House Circuits Are Wired in Parallel</text>
+
+  <!-- Supply rails -->
+  <line x1="120" y1="90" x2="120" y2="390" class="wire"/>
+  <line x1="780" y1="90" x2="780" y2="390" class="wire"/>
+
+  <!-- Top and bottom connectors -->
+  <line x1="120" y1="90" x2="780" y2="90" class="wire"/>
+  <line x1="120" y1="390" x2="780" y2="390" class="wire"/>
+
+  <!-- AC supply -->
+  <circle cx="70" cy="240" r="32" stroke="#111" stroke-width="3" fill="white"/>
+  <text x="70" y="247" text-anchor="middle" class="label">AC</text>
+  <line x1="102" y1="240" x2="120" y2="240" class="wire"/>
+  <text x="35" y="292" class="small">230 V</text>
+
+  <!-- Branch 1 -->
+  <line x1="120" y1="150" x2="250" y2="150" class="wire"/>
+  <line x1="650" y1="150" x2="780" y2="150" class="wire"/>
+  <line x1="250" y1="150" x2="290" y2="150" class="switch"/>
+  <line x1="290" y1="150" x2="315" y2="135" class="switch"/>
+  <circle cx="320" cy="150" r="4" fill="#111"/>
+  <rect x="340" y="125" width="180" height="50" class="device"/>
+  <text x="430" y="157" text-anchor="middle" class="label">Lamp</text>
+  <line x1="520" y1="150" x2="650" y2="150" class="wire"/>
+  <text x="210" y="135" class="small">Switch</text>
+  <text x="355" y="110" class="good">Full voltage across lamp</text>
+
+  <!-- Branch 2 -->
+  <line x1="120" y1="240" x2="250" y2="240" class="wire"/>
+  <line x1="650" y1="240" x2="780" y2="240" class="wire"/>
+  <line x1="250" y1="240" x2="290" y2="240" class="switch"/>
+  <line x1="290" y1="240" x2="315" y2="225" class="switch"/>
+  <circle cx="320" cy="240" r="4" fill="#111"/>
+  <rect x="340" y="215" width="180" height="50" class="device"/>
+  <text x="430" y="247" text-anchor="middle" class="label">TV</text>
+  <line x1="520" y1="240" x2="650" y2="240" class="wire"/>
+  <text x="210" y="225" class="small">Switch</text>
+  <text x="550" y="228" class="good">Works independently</text>
+
+  <!-- Branch 3 broken -->
+  <line x1="120" y1="330" x2="250" y2="330" class="wire"/>
+  <line x1="650" y1="330" x2="780" y2="330" class="wire"/>
+  <line x1="250" y1="330" x2="290" y2="330" class="switch"/>
+  <line x1="290" y1="330" x2="315" y2="315" class="switch"/>
+  <circle cx="320" cy="330" r="4" fill="#111"/>
+  <rect x="340" y="305" width="180" height="50" class="device"/>
+  <text x="430" y="337" text-anchor="middle" class="label">Kettle</text>
+  <line x1="520" y1="330" x2="585" y2="330" class="wire"/>
+  <line x1="600" y1="315" x2="635" y2="345" stroke="#b00020" stroke-width="4"/>
+  <line x1="600" y1="345" x2="635" y2="315" stroke="#b00020" stroke-width="4"/>
+  <line x1="635" y1="330" x2="650" y2="330" class="wire"/>
+  <text x="210" y="315" class="small">Switch</text>
+  <text x="548" y="315" class="bad">Fault here</text>
+  <text x="548" y="352" class="good">Other branches still work</text>
+
+  <!-- Callout box -->
+  <rect x="560" y="415" width="290" height="85" rx="12" ry="12" fill="#f8f8f8" stroke="#111" stroke-width="2"/>
+  <text x="580" y="442" class="note">Why parallel is used in homes:</text>
+  <text x="580" y="466" class="note">• Each appliance gets full voltage</text>
+  <text x="580" y="488" class="note">• Each branch works separately</text>
+
+  <!-- Arrow to show one failure doesn't stop others -->
+  <path d="M710 405 C710 375, 690 360, 635 340" class="wire" marker-end="url(#arrow)"/>
+
+</svg>

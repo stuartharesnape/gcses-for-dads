@@ -1,8 +1,9 @@
-# GCSEs for Dads – GCSE Physics
+# GCSEs for Dads – Physics 1: Energy
 
-**Don’t worry about reading the formulas now, just know that they are at the top of this page and easy to find. Scroll down to start. I just put this here to make it easy to find.**
 
-You don’t need to memorise these formulas. Just know that they are here for you.
+**Don’t worry about reading the formulas now. Just know they’re here at the top if you need them. Scroll down to start.**
+
+You don’t need to memorise these formulas. Just know where to find them.
 
 
 ---
@@ -18,7 +19,7 @@ You don’t need to memorise these formulas. Just know that they are here for yo
 | Gravitational Potential Energy | Ep = mgh | mass × gravity × height |
 | Elastic Potential Energy | Ee = ½ke² | spring constant × extension² ÷ 2 |
 | Work Done | W = F × d | force × distance moved |
-| Efficiency | efficiency = useful energy output  / total energy input | useful energy ÷ total energy |
+| Efficiency | efficiency = useful energy output / total energy input | useful energy ÷ total energy |
 
 </div>
 
@@ -27,23 +28,25 @@ You don’t need to memorise these formulas. Just know that they are here for yo
 # Physics 1: Energy
 
 ## 1. The Big Idea (30 seconds)
+
 - Energy cannot be created or destroyed  
-- It only moves between different energy stores
+- It only moves between different energy stores  
 
 #### Example
 
 A roller coaster starts at the top:
+
 - Gravitational energy is high  
-- As it drops energy transfers to kinetic energy (movement)  
+- As it drops, energy transfers to kinetic energy (movement)  
 - Some energy is transferred to thermal energy (lost as heat) due to friction  
 
-**Key takeaway:** Total energy stays the same
+**Key takeaway:** Total energy stays the same  
 
 ---
 
 ## 2. Energy Stores
 
-Energy can exist in different places called stores
+Energy exists in different places called stores
 
 - Kinetic - moving bike  
 - Thermal - hot object  
@@ -63,11 +66,11 @@ Advanced (rarely seen in GCSE)
 
 ## 3. Energy Transfers
 
-Energy moves (transfers) between stores in four ways
+Energy transfers between stores in four ways
 
 - Mechanically - pushing an object  
 - Electrically - current in a wire  
-- Heating - hot object warming another  
+- Heating - warming objects  
 - Radiation - sunlight or infrared  
 
 ![Kettle Energy Transfer Diagram](./images/kettle-energy-diagram.svg)
@@ -79,13 +82,13 @@ Energy moves (transfers) between stores in four ways
 Energy is conserved  
 
 - Total energy never disappears  
-- It just transfers to different stores  
+- It only transfers between stores  
 
 Energy is often wasted, usually as heat or sound  
 
 #### Example: Driving  
 
-Car engine → movement + heat
+Car engine → movement + heat  
 
 ---
 
@@ -94,8 +97,6 @@ Car engine → movement + heat
 ![Energy Transfer Diagram](./images/energy-diagram.svg)
 
 ---
-
-## 6. 15-Minute Learning Mode (watch together)
 
 ## 6. 15-Minute Learning Mode (watch together)
 
@@ -119,18 +120,18 @@ Explain why the roller coaster moves faster as it goes downhill
 
 **Answer**
 
-- At the top the roller coaster has gravitational potential energy  
-- As it moves down the hill this energy is transferred into kinetic energy  
+- At the top, the roller coaster has gravitational potential energy  
+- As it moves down, this energy transfers into kinetic energy  
 - Kinetic energy is the energy of movement, so the coaster speeds up  
 
-For a bonus point why does it slow down on the way up?  
+For a bonus point, why does it slow down on the way up?  
 
-- As the coaster goes uphill, its kinetic energy is converted back into gravitational potential energy  
-- This means it loses movement energy and slows down  
+- As the coaster goes uphill, kinetic energy is transferred back into gravitational potential energy  
+- This reduces movement energy, so it slows down  
 
-For another point why didn’t it reach the same height?  
+For another point, why doesn’t it reach the same height?  
 
-- Some energy is also lost as heat and sound due to friction, so the coaster cannot reach the same height again  
+- Some energy is transferred to heat and sound due to friction, so less energy remains  
 
 ---
 
@@ -141,5 +142,5 @@ A car brakes suddenly and the brakes become very hot. Why?
 **Answer**
 
 - The car has kinetic energy because it is moving  
-- When the brakes are applied, friction slows the car down  
-- This transfers the kinetic energy into thermal energy, heating the brakes  
+- Braking creates friction, which slows the car  
+- This transfers kinetic energy into thermal energy, heating the brakes  
