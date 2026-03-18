@@ -57,9 +57,7 @@ Advanced (rarely seen in GCSE)
 - Magnetic  
 - Electrostatic  
 
-#### Example: Food  
-
-Chemical energy → muscles → movement (kinetic energy)
+![Food Energy Transfer Diagram](./images/food-energy-diagram.svg)
 
 ---
 
@@ -71,8 +69,6 @@ Energy moves (transfers) between stores in four ways
 - Electrically - current in a wire  
 - Heating - hot object warming another  
 - Radiation - sunlight or infrared  
-
-#### Example: Kettle  
 
 ![Kettle Energy Transfer Diagram](./images/kettle-energy-diagram.svg)
 
@@ -101,11 +97,15 @@ Car engine → movement + heat
 
 ## 6. 15-Minute Learning Mode (watch together)
 
+## 6. 15-Minute Learning Mode (watch together)
+
 Watch 3 short videos:
 
-- Energy stores and transfers  
-- Kinetic and gravitational energy  
-- Power and efficiency  
+[Energy stores and transfers](https://youtu.be/JGwcDCeYRYo?si=YV2PrX3YIe4ItV_n)
+
+[Kinetic and gravitational energy](https://youtu.be/244-42IQGYU?si=Tm8SliTGuoQ7qxmn)
+
+[Power and efficiency](https://youtu.be/KbrqbW0um0Y?si=J8xJlmdxEVv8MA3i)
 
 ---
 
