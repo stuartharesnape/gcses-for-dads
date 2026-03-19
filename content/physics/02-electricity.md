@@ -39,7 +39,7 @@ You don’t need to memorise these formulas. Just know where to find them.
 
 Electricity is the flow of electric charge through a complete circuit.
 
-- A complete circuit is needed for electricity to flow- .
+A complete circuit is needed for electricity to flow.
 
 Key parts of a circuit:
 
@@ -51,7 +51,7 @@ Key parts of a circuit:
 
 ## 2. Electric Charge and Current
 
-Inside metal wires there are tiny particles called electrons.
+Inside metal wires are tiny particles called electrons.
 
 When a battery is connected, it pushes electrons around the circuit.
 
@@ -65,22 +65,21 @@ Current is the rate of flow of charge.
 
 Unit: Amps (A)
 
-- A coulomb is simply a unit used to measure electric charge.
-- 1 amp means 1 coulomb of charge flows each second.
-- A coulomb is a large bundle of electrons.
+- A coulomb is a unit used to measure charge  
+- 1 amp means 1 coulomb flows each second  
+- A coulomb is a large bundle of electrons  
 
-Big current means lots of charge moving.  
-Small current means little charge moving.
+Big current means lots of charge moving  
+Small current means little charge moving  
 
 Charge equation:
 
-- Q = I × t
+- Q = I × t  
 
 Example:
 
-If 2 A flows for 5 seconds:
-
-- Q = 2 × 5 = 10 C
+- If 2 A flows for 5 seconds:
+- Q = 2 × 5 = 10 C  
 
 ---
 
@@ -90,8 +89,8 @@ Voltage is the energy transferred to each unit of charge.
 
 Think of it like pressure pushing electricity through the circuit.
 
-- Unit: Volts (V)
-- Higher voltage means a stronger push.
+- Unit: Volts (V)  
+- Higher voltage means a stronger push  
 
 ---
 
@@ -100,13 +99,12 @@ Think of it like pressure pushing electricity through the circuit.
 Resistance is how much a component opposes the current.
 
 Think of it like narrowing a pipe.
-
-Unit: Ohms (Ω)
+- Unit: Ohms (Ω)
 
 Example:
 
-- Thin wire means high resistance.  
-- Thick wire means low resistance.
+- Thin wire means high resistance  
+- Thick wire means low resistance  
 
 ---
 
@@ -114,21 +112,21 @@ Example:
 
 Relationship between voltage, current and resistance:
 
-- V = I × R
+V = I × R  
 
 This is Ohm’s Law.
 
-- Voltage is the push.  
-- Current is the flow.  
-- Resistance is the restriction.
+- Voltage is the push  
+- Current is the flow  
+- Resistance is the restriction  
 
 So:
 
-Push = Flow × Restriction
+Push = Flow × Restriction  
 
-- Voltage does not flow.  
-- Current flows.  
-- Resistance controls the flow.
+- Voltage does not flow  
+- Current flows  
+- Resistance controls the flow  
 
 ---
 
@@ -140,16 +138,15 @@ A series circuit has one loop.
 
 Rules:
 
-- Current is the same everywhere.  
-- Voltage is shared between components.  
-- Total resistance = sum of resistances.
+- Current is the same everywhere  
+- Voltage is shared between components  
+- Total resistance = sum of resistances  
 
 Example:
 
-R₁ = 3Ω  
-R₂ = 2Ω  
-
-Total resistance = 5Ω  
+- R₁ = 3Ω  
+- R₂ = 2Ω  
+- Total resistance = 5Ω  
 
 If one component breaks, the whole circuit stops.
 
@@ -163,16 +160,16 @@ A parallel circuit has multiple paths.
 
 Rules:
 
-- Voltage is the same across each branch.  
-- Current splits across branches.  
-- Resistance decreases when more branches are added.
+- Voltage is the same across each branch  
+- Current splits across branches  
+- Resistance decreases when more branches are added  
 
 Example:
 
-- If one lamp breaks, the others still work because each branch is its own circuit.
-- This is why homes use parallel circuits.
+- If one lamp breaks, the others still work because each branch is its own circuit  
+- This is why homes use parallel circuits  
 
-![Why house circuits are wired in parallel](./images/parallel-house-circuits.svg)
+![](./images/parallel-house-circuits.svg)
 
 ---
 
@@ -183,11 +180,14 @@ Power is the rate energy is transferred.
 - Unit: Watts (W)
 
 Equation:
-- P = V × I
+
+- P = V × I  
 
 Example:
-- 230 V appliance drawing 2 A
-- P = 230 × 2 = 460 W
+
+- 230 V appliance drawing 2 A  
+- P = 230 × 2 = 460 W  
+
 ---
 
 ## 9. Mains Electricity (UK)
@@ -199,7 +199,7 @@ UK mains supply:
 - 230 V  
 - 50 Hz  
 
-Dangerous because high voltage can push large currents through the body.
+High voltage can push dangerous currents through the body.
 
 ---
 
@@ -207,10 +207,10 @@ Dangerous because high voltage can push large currents through the body.
 
 Homes use several safety devices.
 
-- Fuse – melts and breaks the circuit if current gets too high.  
-- Circuit breaker (MCB) – switches off automatically if current is too large.  
-- Earth wire – protects users if metal casing becomes live.  
-- Double insulation – used in appliances like phone chargers.
+- Fuse – melts and breaks the circuit if current gets too high  
+- Circuit breaker (MCB) – switches off automatically  
+- Earth wire – protects if metal casing becomes live  
+- Double insulation – used in appliances like chargers  
 
 ---
 
@@ -233,10 +233,10 @@ Homes use several safety devices.
 
 ## Now watch these
 
-[GCSE Physics - Current, Voltage & Resistance](https://www.youtube.com/watch?v=rFd-vzU4_pg&utm)
+[GCSE Physics - Current, Voltage & Resistance](https://www.youtube.com/watch?v=rFd-vzU4_pg)
 
-[GCSE Physics - Voltage, Current & Resistance (V = IR)](hhttps://www.youtube.com/watch?v=BbizKa6eywo&utm)
+[GCSE Physics - Voltage, Current & Resistance (V = IR)](https://www.youtube.com/watch?v=BbizKa6eywo)
 
-[GCSE Physics - Series Circuits](https://www.youtube.com/watch?v=Hk4JEB5DITw&utm)
+[GCSE Physics - Series Circuits](https://www.youtube.com/watch?v=Hk4JEB5DITw)
 
-[GCSE Physics - Parallel Circuits](https://www.youtube.com/watch?v=GIvE5Zlpea8&utm)
+[GCSE Physics - Parallel Circuits](https://www.youtube.com/watch?v=GIvE5Zlpea8)
