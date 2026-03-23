@@ -6,7 +6,6 @@ You don’t need to memorise these formulas. Just know where to find them.
 
 ---
 
-<div class="formula-sheet">
 
 ## Particle Model Formulas
 
@@ -27,7 +26,7 @@ You don’t need to memorise these formulas. Just know where to find them.
 | ρ | Density | kg/m³ |
 | V | Volume | m³ |
 
-</div>
+
 
 ---
 

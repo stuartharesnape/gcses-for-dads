@@ -8,7 +8,6 @@ You don’t need to memorise these formulas. Just know where to find them.
 
 ---
 
-<div class="formula-sheet">
 
 ## Formulas
 
@@ -21,7 +20,7 @@ You don’t need to memorise these formulas. Just know where to find them.
 | Symbol | Meaning | Unit |
 |--------|--------|------|
 
-</div>
+
 
 ---
 

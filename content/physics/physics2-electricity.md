@@ -6,7 +6,6 @@ You don’t need to memorise these formulas. Just know where to find them.
 
 ---
 
-<div class="formula-sheet">
 
 ## Electricity Formulas
 
@@ -29,7 +28,7 @@ You don’t need to memorise these formulas. Just know where to find them.
 | E | Energy | Joules (J) |
 | t | Time | Seconds (s) |
 
-</div>
+
 
 ---
 

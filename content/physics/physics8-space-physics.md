@@ -6,7 +6,6 @@ You don’t need to memorise these formulas. Just know where to find them.
 
 ---
 
-<div class="formula-sheet">
 
 ## Space Physics Formulas
 
@@ -25,7 +24,7 @@ You don’t need to memorise these formulas. Just know where to find them.
 | T | Time period | seconds (s) |
 | π | Pi | no unit |
 
-</div>
+
 
 ---
 

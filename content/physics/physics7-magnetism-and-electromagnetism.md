@@ -6,7 +6,6 @@ You don’t need to memorise these formulas. Just know where to find them.
 
 ---
 
-<div class="formula-sheet">
 
 ## Magnetism and Electromagnetism Formulas
 
@@ -24,7 +23,7 @@ You don’t need to memorise these formulas. Just know where to find them.
 | I | Current | Ampere (A) |
 | L | Length of wire in magnetic field | metres (m) |
 
-</div>
+
 
 ---
 

@@ -1,0 +1,108 @@
+<!-- ../images/physics8_star_lifecycle.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="560" viewBox="0 0 980 560">
+  <defs>
+    <style>
+      .bg { fill: #0e1224; }
+      .title { fill: #ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 26px; font-weight: bold; }
+      .label { fill: #eef2ff; font-family: Arial, Helvetica, sans-serif; font-size: 16px; }
+      .small { fill: #cad3f5; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+      .box { fill: #18203a; stroke: #43507a; stroke-width: 2; rx: 14; ry: 14; }
+      .arrow { stroke: #9db0ff; stroke-width: 3; fill: none; marker-end: url(#arrowhead); }
+      .nebula { fill: #c46cff; opacity: 0.8; }
+      .protostar { fill: #ffb14a; }
+      .mainstar { fill: #ffd34d; }
+      .redgiant { fill: #ff6b5c; }
+      .whitedwarf { fill: #f4f7ff; stroke: #b9c5e2; stroke-width: 2; }
+      .blackdwarf { fill: #2a2f3d; stroke: #5a647d; stroke-width: 2; }
+      .supernova { fill: #ffec8a; stroke: #ff8e4a; stroke-width: 4; }
+      .neutron { fill: #8fd3ff; }
+      .blackhole { fill: #000000; stroke: #8a72ff; stroke-width: 4; }
+    </style>
+    <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <polygon points="0 0, 10 3, 0 6" fill="#9db0ff"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="980" height="560"/>
+
+  <text class="title" x="30" y="40">Life Cycle of Stars</text>
+  <text class="small" x="30" y="65">All stars begin in a nebula. What happens next depends on the star’s mass.</text>
+
+  <!-- Left branch -->
+  <text class="label" x="70" y="110">Star like the Sun</text>
+
+  <rect class="box" x="40" y="130" width="130" height="90"/>
+  <circle class="nebula" cx="105" cy="175" r="26"/>
+  <circle class="nebula" cx="88" cy="170" r="18"/>
+  <circle class="nebula" cx="122" cy="168" r="17"/>
+  <text class="label" x="72" y="208">Nebula</text>
+
+  <rect class="box" x="210" y="130" width="130" height="90"/>
+  <circle class="protostar" cx="275" cy="175" r="18"/>
+  <text class="label" x="240" y="208">Protostar</text>
+
+  <rect class="box" x="380" y="130" width="130" height="90"/>
+  <circle class="mainstar" cx="445" cy="175" r="20"/>
+  <text class="label" x="396" y="208">Main sequence</text>
+
+  <rect class="box" x="550" y="130" width="130" height="90"/>
+  <circle class="redgiant" cx="615" cy="175" r="28"/>
+  <text class="label" x="579" y="208">Red giant</text>
+
+  <rect class="box" x="720" y="130" width="130" height="90"/>
+  <circle class="whitedwarf" cx="785" cy="175" r="16"/>
+  <text class="label" x="749" y="208">White dwarf</text>
+
+  <rect class="box" x="840" y="130" width="110" height="90"/>
+  <circle class="blackdwarf" cx="895" cy="175" r="15"/>
+  <text class="label" x="865" y="208">Black dwarf</text>
+
+  <path class="arrow" d="M170 175 L210 175"/>
+  <path class="arrow" d="M340 175 L380 175"/>
+  <path class="arrow" d="M510 175 L550 175"/>
+  <path class="arrow" d="M680 175 L720 175"/>
+  <path class="arrow" d="M850 175 L840 175"/>
+
+  <!-- Right branch -->
+  <text class="label" x="70" y="320">Massive star</text>
+
+  <rect class="box" x="40" y="340" width="130" height="90"/>
+  <circle class="nebula" cx="105" cy="385" r="26"/>
+  <circle class="nebula" cx="88" cy="380" r="18"/>
+  <circle class="nebula" cx="122" cy="378" r="17"/>
+  <text class="label" x="72" y="418">Nebula</text>
+
+  <rect class="box" x="210" y="340" width="130" height="90"/>
+  <circle class="protostar" cx="275" cy="385" r="18"/>
+  <text class="label" x="240" y="418">Protostar</text>
+
+  <rect class="box" x="380" y="340" width="130" height="90"/>
+  <circle class="mainstar" cx="445" cy="385" r="20"/>
+  <text class="label" x="396" y="418">Main sequence</text>
+
+  <rect class="box" x="550" y="340" width="130" height="90"/>
+  <circle class="redgiant" cx="615" cy="385" r="32"/>
+  <text class="label" x="562" y="418">Red supergiant</text>
+
+  <rect class="box" x="720" y="340" width="130" height="90"/>
+  <polygon class="supernova" points="785,348 796,372 824,368 804,388 818,414 790,402 768,420 772,392 746,382 772,372"/>
+  <text class="label" x="751" y="418">Supernova</text>
+
+  <rect class="box" x="840" y="310" width="110" height="90"/>
+  <circle class="neutron" cx="895" cy="355" r="14"/>
+  <text class="small" x="858" y="387">Neutron star</text>
+
+  <rect class="box" x="840" y="430" width="110" height="90"/>
+  <circle class="blackhole" cx="895" cy="475" r="16"/>
+  <circle fill="none" stroke="#7b5cff" stroke-width="3" cx="895" cy="475" r="24" opacity="0.7"/>
+  <text class="small" x="866" y="507">Black hole</text>
+
+  <path class="arrow" d="M170 385 L210 385"/>
+  <path class="arrow" d="M340 385 L380 385"/>
+  <path class="arrow" d="M510 385 L550 385"/>
+  <path class="arrow" d="M680 385 L720 385"/>
+  <path class="arrow" d="M850 375 L840 355"/>
+  <path class="arrow" d="M850 395 L840 475"/>
+
+  <text class="small" x="30" y="525">Massive stars can end as neutron stars or black holes depending on the mass of the core left behind.</text>
+</svg>

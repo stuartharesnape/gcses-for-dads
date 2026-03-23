@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="520" viewBox="0 0 800 520">
+  <rect width="100%" height="100%" fill="white"/>
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="28" text-anchor="middle" font-weight="bold">Structure of an Atom</text>
+
+  <circle cx="400" cy="270" r="55" fill="#f3f4f6" stroke="#111" stroke-width="2"/>
+
+  <circle cx="382" cy="250" r="12" fill="#dbeafe" stroke="#111"/>
+  <text x="382" y="255" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">p+</text>
+
+  <circle cx="420" cy="248" r="12" fill="#dbeafe" stroke="#111"/>
+  <text x="420" y="253" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">p+</text>
+
+  <circle cx="395" cy="286" r="12" fill="#e5e7eb" stroke="#111"/>
+  <text x="395" y="291" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">n</text>
+
+  <circle cx="430" cy="285" r="12" fill="#e5e7eb" stroke="#111"/>
+  <text x="430" y="290" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">n</text>
+
+  <circle cx="400" cy="270" r="120" fill="none" stroke="#555" stroke-width="2"/>
+  <circle cx="400" cy="270" r="180" fill="none" stroke="#999" stroke-width="2" stroke-dasharray="8 6"/>
+
+  <circle cx="520" cy="270" r="11" fill="#fff7ed" stroke="#111" stroke-width="2"/>
+  <text x="520" y="275" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">e-</text>
+
+  <circle cx="400" cy="150" r="11" fill="#fff7ed" stroke="#111" stroke-width="2"/>
+  <text x="400" y="155" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">e-</text>
+
+  <circle cx="400" cy="90" r="11" fill="#fff7ed" stroke="#111" stroke-width="2"/>
+  <text x="400" y="95" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">e-</text>
+
+  <circle cx="556" cy="360" r="11" fill="#fff7ed" stroke="#111" stroke-width="2"/>
+  <text x="556" y="365" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">e-</text>
+
+  <line x1="470" y1="215" x2="590" y2="170" stroke="#111" stroke-width="2"/>
+  <text x="605" y="168" font-family="Arial, sans-serif" font-size="20">Nucleus</text>
+  <text x="605" y="193" font-family="Arial, sans-serif" font-size="16">Contains protons and neutrons</text>
+
+  <line x1="520" y1="270" x2="650" y2="270" stroke="#111" stroke-width="2"/>
+  <text x="662" y="275" font-family="Arial, sans-serif" font-size="20">Electron</text>
+
+  <line x1="500" y1="120" x2="650" y2="90" stroke="#111" stroke-width="2"/>
+  <text x="662" y="95" font-family="Arial, sans-serif" font-size="20">Shell / energy level</text>
+
+  <text x="400" y="485" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">Atoms are mostly empty space with a tiny dense nucleus at the centre.</text>
+</svg>

@@ -1,0 +1,37 @@
+<!-- ../images/physics7_bar_magnet_field.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L10,5 L0,10 z" fill="#333"/>
+    </marker>
+    <style>
+      .label { font: 700 24px Arial, sans-serif; fill: #111; }
+      .small { font: 18px Arial, sans-serif; fill: #222; }
+      .line { fill: none; stroke: #333; stroke-width: 3; marker-end: url(#arrow); }
+    </style>
+  </defs>
+
+  <rect width="100%" height="100%" fill="#fff"/>
+
+  <text x="450" y="40" text-anchor="middle" class="label">Magnetic field around a bar magnet</text>
+
+  <rect x="300" y="160" width="300" height="90" rx="8" fill="#e8eefc" stroke="#222" stroke-width="3"/>
+  <rect x="300" y="160" width="150" height="90" rx="8" fill="#dbe8ff" stroke="#222" stroke-width="3"/>
+  <rect x="450" y="160" width="150" height="90" rx="8" fill="#ffe3e3" stroke="#222" stroke-width="3"/>
+
+  <text x="375" y="215" text-anchor="middle" class="label">N</text>
+  <text x="525" y="215" text-anchor="middle" class="label">S</text>
+
+  <path class="line" d="M 315 150 C 240 110, 190 95, 135 105 C 70 120, 60 180, 110 205 C 165 235, 230 250, 300 258"/>
+  <path class="line" d="M 320 132 C 240 70, 170 55, 100 70 C 35 85, 20 155, 75 185 C 130 212, 210 230, 305 238"/>
+  <path class="line" d="M 325 115 C 245 35, 145 20, 75 40 C 10 58, -5 145, 60 180 C 125 212, 210 220, 308 220"/>
+
+  <path class="line" d="M 585 150 C 660 110, 710 95, 765 105 C 830 120, 840 180, 790 205 C 735 235, 670 250, 600 258"/>
+  <path class="line" d="M 580 132 C 660 70, 730 55, 800 70 C 865 85, 880 155, 825 185 C 770 212, 690 230, 595 238"/>
+  <path class="line" d="M 575 115 C 655 35, 755 20, 825 40 C 890 58, 905 145, 840 180 C 775 212, 690 220, 592 220"/>
+
+  <path class="line" d="M 308 285 C 240 325, 175 338, 115 322 C 62 308, 53 257, 110 240 C 170 221, 235 220, 300 214"/>
+  <path class="line" d="M 592 285 C 660 325, 725 338, 785 322 C 838 308, 847 257, 790 240 C 730 221, 665 220, 600 214"/>
+
+  <text x="450" y="385" text-anchor="middle" class="small">Field lines go from north to south outside the magnet</text>
+</svg>

@@ -6,7 +6,6 @@ You don’t need to memorise these formulas. Just know where to find them.
 
 ---
 
-<div class="formula-sheet">
 
 ## Forces Formulas
 
@@ -33,7 +32,7 @@ You don’t need to memorise these formulas. Just know where to find them.
 | P | Pressure | Pascals (Pa) |
 | A | Area | m² |
 
-</div>
+
 
 ---
 

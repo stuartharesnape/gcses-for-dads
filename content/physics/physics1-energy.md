@@ -8,7 +8,6 @@ You don’t need to memorise these formulas. Just know where to find them.
 
 ---
 
-<div class="formula-sheet">
 
 ## Energy Formulas
 
@@ -21,7 +20,7 @@ You don’t need to memorise these formulas. Just know where to find them.
 | Work Done | W = F × d | force × distance moved |
 | Efficiency | efficiency = useful energy output / total energy input | useful energy ÷ total energy |
 
-</div>
+
 
 ---
 

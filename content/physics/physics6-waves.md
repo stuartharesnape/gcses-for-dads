@@ -6,7 +6,6 @@ You don’t need to memorise these formulas. Just know where to find them.
 
 ---
 
-<div class="formula-sheet">
 
 ## Waves Formulas
 
@@ -25,7 +24,7 @@ You don’t need to memorise these formulas. Just know where to find them.
 | λ | Wavelength | metres (m) |
 | T | Period | seconds (s) |
 
-</div>
+
 
 ---
 

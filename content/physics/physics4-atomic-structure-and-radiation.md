@@ -6,7 +6,6 @@ You don’t need to memorise these formulas. Just know where to find them.
 
 ---
 
-<div class="formula-sheet">
 
 ## Atomic Structure and Radiation Formulas
 
@@ -27,7 +26,7 @@ You don’t need to memorise these formulas. Just know where to find them.
 | D | Absorbed dose | Gray (Gy) |
 | t½ | Half-life | time |
 
-</div>
+
 
 ---
 

@@ -1,0 +1,64 @@
+<!-- ../images/physics8_red_shift.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="420" viewBox="0 0 920 420">
+  <defs>
+    <style>
+      .bg { fill: #f8fafc; }
+      .title { fill: #1e293b; font-family: Arial, Helvetica, sans-serif; font-size: 24px; font-weight: bold; }
+      .label { fill: #334155; font-family: Arial, Helvetica, sans-serif; font-size: 16px; }
+      .small { fill: #475569; font-family: Arial, Helvetica, sans-serif; font-size: 14px; }
+      .box { fill: #ffffff; stroke: #cbd5e1; stroke-width: 2; rx: 12; ry: 12; }
+      .line1 { stroke: #2563eb; stroke-width: 4; }
+      .line2 { stroke: #10b981; stroke-width: 4; }
+      .line3 { stroke: #f59e0b; stroke-width: 4; }
+      .line4 { stroke: #ef4444; stroke-width: 4; }
+      .arrow { stroke: #7c3aed; stroke-width: 3; fill: none; marker-end: url(#arrowhead); }
+    </style>
+    <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <polygon points="0 0, 10 3, 0 6" fill="#7c3aed"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="920" height="420"/>
+
+  <text class="title" x="30" y="40">Red Shift</text>
+  <text class="small" x="30" y="65">When a galaxy moves away, its light stretches, so spectral lines shift towards the red end.</text>
+
+  <!-- spectrum -->
+  <rect x="70" y="100" width="320" height="28" fill="url(#spec1)" stroke="#cbd5e1"/>
+  <defs>
+    <linearGradient id="spec1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="25%" stop-color="#22c55e"/>
+      <stop offset="50%" stop-color="#facc15"/>
+      <stop offset="75%" stop-color="#fb923c"/>
+      <stop offset="100%" stop-color="#ef4444"/>
+    </linearGradient>
+  </defs>
+  <text class="label" x="70" y="92">Light spectrum</text>
+  <text class="small" x="70" y="145">blue end</text>
+  <text class="small" x="342" y="145">red end</text>
+
+  <!-- normal -->
+  <rect class="box" x="70" y="180" width="340" height="120"/>
+  <text class="label" x="90" y="210">Lab spectrum / nearby source</text>
+  <line class="line1" x1="130" y1="240" x2="130" y2="285"/>
+  <line class="line2" x1="190" y1="240" x2="190" y2="285"/>
+  <line class="line3" x1="255" y1="240" x2="255" y2="285"/>
+  <line class="line4" x1="320" y1="240" x2="320" y2="285"/>
+
+  <!-- shifted -->
+  <rect class="box" x="500" y="180" width="340" height="120"/>
+  <text class="label" x="520" y="210">Distant galaxy moving away</text>
+  <line class="line1" x1="170" y1="0" x2="170" y2="0" opacity="0"/>
+  <line class="line1" x1="575" y1="240" x2="575" y2="285"/>
+  <line class="line2" x1="640" y1="240" x2="640" y2="285"/>
+  <line class="line3" x1="710" y1="240" x2="710" y2="285"/>
+  <line class="line4" x1="780" y1="240" x2="780" y2="285"/>
+
+  <path class="arrow" d="M390 330 C470 330, 500 330, 560 330"/>
+  <text class="small" x="420" y="355">shift towards red</text>
+
+  <rect x="500" y="85" width="300" height="55" rx="10" ry="10" fill="#ede9fe" stroke="#c4b5fd"/>
+  <text class="label" x="520" y="110">GCSE idea to remember</text>
+  <text class="small" x="520" y="128">Bigger red shift = galaxy moving away faster</text>
+</svg>
