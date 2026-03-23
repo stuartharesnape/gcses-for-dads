@@ -65,7 +65,7 @@ The solar system consists of the Sun, planets, dwarf planets, moons, asteroids a
 - Earth orbits the Sun once every **year**.
 - The Moon orbits Earth about once every **month**.
 
-![Solar system diagram](./images/physics8_solar_system.svg)
+![Solar system diagram](../images/physics8_solar_system.svg)
 
 ---
 
@@ -94,7 +94,7 @@ In a circular orbit:
 - The Moon stays in orbit around Earth because Earth’s gravity pulls it inward.
 - An artificial satellite stays in orbit for the same reason.
 
-![Orbit diagram](./images/physics8_orbit.svg)
+![Orbit diagram](../images/physics8_orbit.svg)
 
 ---
 
@@ -184,7 +184,7 @@ A much more massive star becomes a **red supergiant**.
 - This explosion spreads heavy elements into space.
 - The remains can become a **neutron star** or, if the core is massive enough, a **black hole**.
 
-![Life cycle of stars](./images/physics8_star_lifecycle.svg)
+![Life cycle of stars](../images/physics8_star_lifecycle.svg)
 
 ---
 
@@ -207,7 +207,7 @@ This is important evidence that the universe is expanding.
 
 It is a bit like how the sound of a vehicle changes as it moves away, except this is **light** rather than sound.
 
-![Red shift diagram](./images/physics8_red_shift.svg)
+![Red shift diagram](../images/physics8_red_shift.svg)
 
 ---
 

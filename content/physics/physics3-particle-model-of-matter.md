@@ -126,7 +126,7 @@ Matter can change state when energy is added or removed.
 | Boiling | liquid → gas |
 | Condensing | gas → liquid |
 
-![Changes of state diagram](./images/states_of_matter_change.svg)
+![Changes of state diagram](../images/states_of_matter_change.svg)
 
 The particles do not change, only their movement and spacing.
 
@@ -193,7 +193,7 @@ When temperature increases:
 Example:
 A sealed aerosol can becomes dangerous if heated.
 
-![Gas pressure diagram](./images/gas_pressure.svg)
+![Gas pressure diagram](../images/gas_pressure.svg)
 
 Gas pressure is the force per unit area caused by particle collisions with the container walls.
 

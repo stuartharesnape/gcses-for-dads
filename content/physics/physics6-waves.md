@@ -38,7 +38,7 @@ You don’t need to memorise these formulas. Just know where to find them.
 - In many waves, particles just vibrate around a fixed position.
 - The energy moves through the medium, not the material itself.
 
-![Wave energy transfer](./images/physics6_wave_energy_transfer.svg)
+![Wave energy transfer](../images/physics6_wave_energy_transfer.svg)
 
 ### Think of it like this:
 
@@ -59,7 +59,7 @@ There are two main types you need to know.
   - light waves
   - all electromagnetic waves
 
-![Transverse wave](./images/physics6_transverse_wave.svg)
+![Transverse wave](../images/physics6_transverse_wave.svg)
 
 Key parts:
 - **crest** = highest point
@@ -72,7 +72,7 @@ Key parts:
 - That means the particles move back and forth in the same direction the wave travels.
 - Main example: **sound waves**
 
-![Longitudinal wave](./images/physics6_longitudinal_wave.svg)
+![Longitudinal wave](../images/physics6_longitudinal_wave.svg)
 
 Key parts:
 - **compression** = particles close together
@@ -110,7 +110,7 @@ All waves have a few core properties you need to recognise.
 - High frequency means short period.
 - Low frequency means long period.
 
-![Wave properties](./images/physics6_wave_properties.svg)
+![Wave properties](../images/physics6_wave_properties.svg)
 
 ---
 
@@ -170,7 +170,7 @@ Reflection is used in:
 - echo sounding
 - ultrasound imaging
 
-![Reflection](./images/physics6_reflection.svg)
+![Reflection](../images/physics6_reflection.svg)
 
 ---
 
@@ -191,7 +191,7 @@ Because the wave changes speed, it often changes direction too.
 
 A classic example is a straw looking bent in a glass of water. That is light being refracted.
 
-![Refraction](./images/physics6_refraction.svg)
+![Refraction](../images/physics6_refraction.svg)
 
 ---
 

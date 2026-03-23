@@ -96,7 +96,7 @@ Examples:
 **Example:**  
 The Earth pulls objects downward using gravity even though nothing is physically touching them.
 
-![Contact and non-contact forces](./images/physics5_contact_noncontact_forces.svg)
+![Contact and non-contact forces](../images/physics5_contact_noncontact_forces.svg)
 
 ---
 
@@ -168,7 +168,7 @@ Unbalanced forces mean the resultant force is **not zero**.
 **Example:**  
 If you push a shopping trolley harder than friction pushes back, it accelerates forward.
 
-![Balanced and unbalanced forces](./images/physics5_resultant_forces.svg)
+![Balanced and unbalanced forces](../images/physics5_resultant_forces.svg)
 
 ---
 
@@ -224,7 +224,7 @@ Beyond that point:
 - force and extension are no longer proportional
 - the spring may not return to its original shape
 
-![Hooke's law spring extension](./images/physics5_hookes_law.svg)
+![Hooke's law spring extension](../images/physics5_hookes_law.svg)
 
 ---
 
@@ -261,7 +261,7 @@ For an object in balance:
 
 **clockwise moments = anticlockwise moments**
 
-![Moments and pivot](./images/physics5_moments.svg)
+![Moments and pivot](../images/physics5_moments.svg)
 
 ---
 
@@ -297,7 +297,7 @@ In liquids, pressure increases with:
 **Example:**  
 A diver feels greater pressure the deeper they go.
 
-![Pressure in liquids](./images/physics5_pressure_fluids.svg)
+![Pressure in liquids](../images/physics5_pressure_fluids.svg)
 
 ---
 
@@ -335,7 +335,7 @@ Speed affects stopping distance a lot.
 
 The faster a car is going, the much longer it takes to stop.
 
-![Stopping distance diagram](./images/physics5_stopping_distance.svg)
+![Stopping distance diagram](../images/physics5_stopping_distance.svg)
 
 ---
 

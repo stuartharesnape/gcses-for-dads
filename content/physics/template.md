@@ -60,7 +60,7 @@ Advanced (rarely seen in GCSE)
 - Magnetic  
 - Electrostatic  
 
-![Food Energy Transfer Diagram](./images/food-energy-diagram.svg)
+![Food Energy Transfer Diagram](../images/food-energy-diagram.svg)
 
 ---
 
@@ -73,7 +73,7 @@ Energy transfers between stores in four ways
 - Heating - warming objects  
 - Radiation - sunlight or infrared  
 
-![Kettle Energy Transfer Diagram](./images/kettle-energy-diagram.svg)
+![Kettle Energy Transfer Diagram](../images/kettle-energy-diagram.svg)
 
 ---
 
@@ -94,7 +94,7 @@ Car engine → movement + heat
 
 ## 5. Energy Transfer Diagrams
 
-![Energy Transfer Diagram](./images/energy-diagram.svg)
+![Energy Transfer Diagram](../images/energy-diagram.svg)
 
 ---
 

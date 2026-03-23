@@ -150,7 +150,7 @@ Example:
 
 If one component breaks, the whole circuit stops.
 
-![](./images/series-circuit.svg)
+![](../images/series-circuit.svg)
 
 ---
 
@@ -169,7 +169,7 @@ Example:
 - If one lamp breaks, the others still work because each branch is its own circuit  
 - This is why homes use parallel circuits  
 
-![](./images/parallel-house-circuits.svg)
+![](../images/parallel-house-circuits.svg)
 
 ---
 

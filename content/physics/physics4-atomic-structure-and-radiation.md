@@ -64,7 +64,7 @@ Atoms contain three main particles.
 - 6 neutrons
 - 6 electrons
 
-![Structure of the atom](./images/physics4_atom_structure.svg)
+![Structure of the atom](../images/physics4_atom_structure.svg)
 
 ---
 
@@ -92,7 +92,7 @@ Scientists improved the atomic model over time.
 - Protons and neutrons are in the nucleus.
 - Electrons are in energy levels around the nucleus.
 
-![Atomic model timeline](./images/physics4_atomic_model_timeline.svg)
+![Atomic model timeline](../images/physics4_atomic_model_timeline.svg)
 
 ---
 
@@ -115,7 +115,7 @@ These are called isotopes.
 - Same number of protons = same element
 - Different number of neutrons = different isotope
 
-![Carbon isotopes](./images/physics4_isotopes_carbon.svg)
+![Carbon isotopes](../images/physics4_isotopes_carbon.svg)
 
 ---
 
@@ -183,7 +183,7 @@ Stopped by:
 - thick lead
 - thick concrete
 
-![Alpha beta and gamma radiation](./images/physics4_alpha_beta_gamma.svg)
+![Alpha beta and gamma radiation](../images/physics4_alpha_beta_gamma.svg)
 
 ---
 
@@ -201,7 +201,7 @@ Half-life is the time taken for half of the unstable nuclei in a sample to decay
 
 The amount halves each time.
 
-![Half-life diagram](./images/physics4_half_life.svg)
+![Half-life diagram](../images/physics4_half_life.svg)
 
 ---
 
@@ -236,7 +236,7 @@ Scientists reduce exposure using three main methods:
 - **Distance**: stay further from the source
 - **Shielding**: use dense materials such as lead
 
-![Nuclear safety](./images/physics4_nuclear_safety.svg)
+![Nuclear safety](../images/physics4_nuclear_safety.svg)
 
 ---
 

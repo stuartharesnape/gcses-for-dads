@@ -67,7 +67,7 @@ The field is strongest where the lines are closest together, usually at the pole
 
 **Real-life example:** The Earth has a magnetic field, which is why a compass needle points north.
 
-![Magnetic field around a bar magnet](./images/physics7_bar_magnet_field.svg)
+![Magnetic field around a bar magnet](../images/physics7_bar_magnet_field.svg)
 
 ---
 
@@ -115,7 +115,7 @@ Use the right-hand grip rule to work out the field direction:
 
 **Real-life example:** This effect is used inside electromagnets and motors.
 
-![Magnetic field around a straight wire](./images/physics7_wire_field.svg)
+![Magnetic field around a straight wire](../images/physics7_wire_field.svg)
 
 ---
 
@@ -142,7 +142,7 @@ A **uniform magnetic field** means the field strength is the same all the way th
 
 **Real-life example:** Solenoids are used in relays and electric door locks.
 
-![Magnetic field of a solenoid](./images/physics7_solenoid_field.svg)
+![Magnetic field of a solenoid](../images/physics7_solenoid_field.svg)
 
 ---
 
@@ -187,7 +187,7 @@ Use Fleming’s Left-Hand Rule to work out the direction of the force:
 
 **Real-life example:** Electric motors use the motor effect to create movement.
 
-![Fleming's Left-Hand Rule](./images/physics7_fleming_left_hand_rule.svg)
+![Fleming's Left-Hand Rule](../images/physics7_fleming_left_hand_rule.svg)
 
 ---
 
@@ -206,7 +206,7 @@ Electric motors convert electrical energy into kinetic energy.
 
 **Real-life example:** Electric motors are used in fans, washing machines and electric cars.
 
-![Simple DC motor diagram](./images/physics7_simple_motor.svg)
+![Simple DC motor diagram](../images/physics7_simple_motor.svg)
 
 ---
 
@@ -225,7 +225,7 @@ Loudspeakers use the motor effect to make sound.
 
 **Real-life example:** Headphones, phone speakers and hi-fi speakers all work using this idea.
 
-![Loudspeaker diagram](./images/physics7_loudspeaker.svg)
+![Loudspeaker diagram](../images/physics7_loudspeaker.svg)
 
 ---
 
