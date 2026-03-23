@@ -4,6 +4,7 @@ site_url: https://stuartharesnape.github.io/gcses-for-dads/
 
 theme:
   name: material
+  custom_dir: overrides
 
 nav:
   - Home: index.md
@@ -16,3 +17,15 @@ nav:
       - Physics 6: physics/physics6-waves.md
       - Physics 7: physics/physics7-magnetism-and-electromagnetism.md
       - Physics 8: physics/physics8-space-physics.md
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - tables
+
+extra:
+  generator: false
+  social: []
+
+hooks: []
