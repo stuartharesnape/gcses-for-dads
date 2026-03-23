@@ -1,0 +1,48 @@
+<svg width="820" height="240" viewBox="0 0 820 240" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font: bold 22px Arial, sans-serif; fill: #111; }
+    .subtitle { font: 15px Arial, sans-serif; fill: #555; }
+    .label { font: 19px Arial, sans-serif; fill: #111; }
+    .small { font: 14px Arial, sans-serif; fill: #555; }
+    .box { fill: #f4f7fb; stroke: #2c3e50; stroke-width: 2; rx: 14; }
+    .arrow { stroke: #2c3e50; stroke-width: 3; fill: none; marker-end: url(#arrowhead); }
+  </style>
+
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <polygon points="0 0, 10 3, 0 6" fill="#2c3e50"/>
+    </marker>
+  </defs>
+
+  <text x="40" y="35" class="title">Energy Transfer Diagram</text>
+  <text x="40" y="62" class="subtitle">Example: Kettle</text>
+
+  <!-- Box 1 -->
+  <rect x="40" y="100" width="180" height="70" class="box"/>
+  <text x="130" y="128" text-anchor="middle" class="label">Electrical</text>
+  <text x="130" y="152" text-anchor="middle" class="label">Energy</text>
+
+  <!-- Arrow 1 -->
+  <line x1="220" y1="135" x2="320" y2="135" class="arrow"/>
+  <text x="270" y="120" text-anchor="middle" class="small">transferred by</text>
+  <text x="270" y="182" text-anchor="middle" class="small">heating element</text>
+
+  <!-- Box 2 -->
+  <rect x="320" y="100" width="180" height="70" class="box"/>
+  <text x="410" y="128" text-anchor="middle" class="label">Heating</text>
+  <text x="410" y="152" text-anchor="middle" class="label">Process</text>
+
+  <!-- Arrow 2 -->
+  <line x1="500" y1="135" x2="600" y2="135" class="arrow"/>
+  <text x="550" y="120" text-anchor="middle" class="small">causes</text>
+
+  <!-- Box 3 -->
+  <rect x="600" y="100" width="180" height="70" class="box"/>
+  <text x="690" y="128" text-anchor="middle" class="label">Hot Water</text>
+  <text x="690" y="152" text-anchor="middle" class="small">(thermal energy store)</text>
+
+  <!-- Footer note -->
+  <text x="410" y="215" text-anchor="middle" class="small">
+    Electricity transfers energy to the heating element, which heats the water.
+  </text>
+</svg>

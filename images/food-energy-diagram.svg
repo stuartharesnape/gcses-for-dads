@@ -1,0 +1,47 @@
+<svg width="860" height="240" viewBox="0 0 860 240" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font: bold 22px Arial, sans-serif; fill: #111; }
+    .subtitle { font: 15px Arial, sans-serif; fill: #555; }
+    .label { font: 19px Arial, sans-serif; fill: #111; }
+    .small { font: 14px Arial, sans-serif; fill: #555; }
+    .box { fill: #f4f7fb; stroke: #2c3e50; stroke-width: 2; rx: 14; }
+    .arrow { stroke: #2c3e50; stroke-width: 3; fill: none; marker-end: url(#arrowhead); }
+  </style>
+
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <polygon points="0 0, 10 3, 0 6" fill="#2c3e50"/>
+    </marker>
+  </defs>
+
+  <text x="40" y="35" class="title">Energy Transfer Diagram</text>
+  <text x="40" y="62" class="subtitle">Example: Food</text>
+
+  <!-- Box 1 -->
+  <rect x="40" y="100" width="220" height="70" class="box"/>
+  <text x="150" y="128" text-anchor="middle" class="label">Chemical Energy</text>
+  <text x="150" y="152" text-anchor="middle" class="small">stored in food</text>
+
+  <!-- Arrow 1 -->
+  <line x1="260" y1="135" x2="380" y2="135" class="arrow"/>
+  <text x="320" y="120" text-anchor="middle" class="small">used by</text>
+
+  <!-- Box 2 -->
+  <rect x="380" y="100" width="160" height="70" class="box"/>
+  <text x="460" y="128" text-anchor="middle" class="label">Muscles</text>
+  <text x="460" y="152" text-anchor="middle" class="small">do work</text>
+
+  <!-- Arrow 2 -->
+  <line x1="540" y1="135" x2="660" y2="135" class="arrow"/>
+  <text x="600" y="120" text-anchor="middle" class="small">causes</text>
+
+  <!-- Box 3 -->
+  <rect x="660" y="100" width="160" height="70" class="box"/>
+  <text x="740" y="128" text-anchor="middle" class="label">Movement</text>
+  <text x="740" y="152" text-anchor="middle" class="small">(kinetic energy)</text>
+
+  <!-- Footer note -->
+  <text x="430" y="215" text-anchor="middle" class="small">
+    Chemical energy in food is transferred by muscles into movement.
+  </text>
+</svg>
