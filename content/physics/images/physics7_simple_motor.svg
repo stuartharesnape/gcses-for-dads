@@ -1,0 +1,43 @@
+<!-- ./images/physics7_simple_motor.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="520" viewBox="0 0 920 520">
+  <defs>
+    <marker id="a5" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#333"/>
+    </marker>
+    <style>
+      .title { font: 700 24px Arial, sans-serif; fill: #111; }
+      .text { font: 18px Arial, sans-serif; fill: #222; }
+      .lab { font: 700 20px Arial, sans-serif; fill: #111; }
+      .field { stroke: #333; stroke-width: 3; fill: none; marker-end: url(#a5); }
+    </style>
+  </defs>
+
+  <rect width="100%" height="100%" fill="#fff"/>
+  <text x="460" y="36" text-anchor="middle" class="title">Simple DC motor</text>
+
+  <rect x="120" y="150" width="120" height="220" rx="10" fill="#dbe8ff" stroke="#222" stroke-width="3"/>
+  <rect x="680" y="150" width="120" height="220" rx="10" fill="#ffe3e3" stroke="#222" stroke-width="3"/>
+  <text x="180" y="270" text-anchor="middle" class="lab">N</text>
+  <text x="740" y="270" text-anchor="middle" class="lab">S</text>
+
+  <path class="field" d="M 255 195 L 665 195"/>
+  <path class="field" d="M 255 260 L 665 260"/>
+  <path class="field" d="M 255 325 L 665 325"/>
+
+  <rect x="360" y="170" width="180" height="180" fill="none" stroke="#111" stroke-width="5"/>
+  <line x1="450" y1="350" x2="450" y2="430" stroke="#111" stroke-width="5"/>
+
+  <path d="M420 430 a30 30 0 0 0 60 0 a30 30 0 0 0 -60 0" fill="none" stroke="#111" stroke-width="5"/>
+  <line x1="420" y1="430" x2="392" y2="460" stroke="#111" stroke-width="4"/>
+  <line x1="480" y1="430" x2="508" y2="460" stroke="#111" stroke-width="4"/>
+  <line x1="392" y1="460" x2="392" y2="490" stroke="#111" stroke-width="4"/>
+  <line x1="508" y1="460" x2="508" y2="490" stroke="#111" stroke-width="4"/>
+
+  <path class="field" d="M 340 220 L 340 150"/>
+  <path class="field" d="M 560 300 L 560 370"/>
+
+  <text x="290" y="145" class="text">Force up</text>
+  <text x="570" y="392" class="text">Force down</text>
+  <text x="525" y="455" class="text">Split-ring commutator</text>
+  <text x="365" y="506" class="text">Brushes connect to the power supply</text>
+</svg>

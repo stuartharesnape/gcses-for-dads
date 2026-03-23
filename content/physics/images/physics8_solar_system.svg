@@ -1,0 +1,77 @@
+<!-- ./images/physics8_solar_system.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420">
+  <defs>
+    <style>
+      .bg { fill: #0b1020; }
+      .orbit { fill: none; stroke: #5b6785; stroke-width: 1.5; opacity: 0.75; }
+      .label { fill: #eaf0ff; font-family: Arial, Helvetica, sans-serif; font-size: 16px; }
+      .small { fill: #cfd8f6; font-family: Arial, Helvetica, sans-serif; font-size: 13px; }
+      .title { fill: #ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 24px; font-weight: bold; }
+      .sun { fill: #ffbf3c; stroke: #ffdf8c; stroke-width: 4; }
+      .mercury { fill: #a7a7a7; }
+      .venus { fill: #d6b37a; }
+      .earth { fill: #4da3ff; }
+      .mars { fill: #d46a4c; }
+      .jupiter { fill: #d9b38c; }
+      .saturn { fill: #d8c17d; }
+      .uranus { fill: #89d7e8; }
+      .neptune { fill: #477dff; }
+      .ring { fill: none; stroke: #e6d7a8; stroke-width: 4; opacity: 0.8; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="900" height="420"/>
+
+  <text class="title" x="30" y="40">The Solar System</text>
+  <text class="small" x="30" y="65">Not to scale. The Sun is at the centre. Planets orbit in roughly circular paths.</text>
+
+  <!-- orbits -->
+  <ellipse class="orbit" cx="220" cy="220" rx="70" ry="45"/>
+  <ellipse class="orbit" cx="220" cy="220" rx="105" ry="68"/>
+  <ellipse class="orbit" cx="220" cy="220" rx="145" ry="92"/>
+  <ellipse class="orbit" cx="220" cy="220" rx="185" ry="116"/>
+  <ellipse class="orbit" cx="220" cy="220" rx="250" ry="150"/>
+  <ellipse class="orbit" cx="220" cy="220" rx="310" ry="180"/>
+  <ellipse class="orbit" cx="220" cy="220" rx="370" ry="205"/>
+  <ellipse class="orbit" cx="220" cy="220" rx="430" ry="230"/>
+
+  <!-- Sun -->
+  <circle class="sun" cx="220" cy="220" r="28"/>
+  <text class="label" x="200" y="270">Sun</text>
+
+  <!-- planets -->
+  <circle class="mercury" cx="290" cy="220" r="5"/>
+  <text class="small" x="300" y="224">Mercury</text>
+
+  <circle class="venus" cx="325" cy="220" r="7"/>
+  <text class="small" x="337" y="224">Venus</text>
+
+  <circle class="earth" cx="365" cy="220" r="7"/>
+  <text class="small" x="377" y="224">Earth</text>
+
+  <circle class="mars" cx="405" cy="220" r="6"/>
+  <text class="small" x="417" y="224">Mars</text>
+
+  <circle class="jupiter" cx="470" cy="220" r="13"/>
+  <text class="small" x="488" y="224">Jupiter</text>
+
+  <circle class="saturn" cx="530" cy="220" r="11"/>
+  <ellipse class="ring" cx="530" cy="220" rx="19" ry="8"/>
+  <text class="small" x="548" y="224">Saturn</text>
+
+  <circle class="uranus" cx="590" cy="220" r="9"/>
+  <text class="small" x="605" y="224">Uranus</text>
+
+  <circle class="neptune" cx="650" cy="220" r="9"/>
+  <text class="small" x="665" y="224">Neptune</text>
+
+  <!-- key -->
+  <rect x="690" y="90" width="170" height="165" rx="12" ry="12" fill="#141b31" stroke="#3b4565"/>
+  <text class="label" x="710" y="120">Quick ideas</text>
+  <text class="small" x="710" y="148">• Inner planets are rocky</text>
+  <text class="small" x="710" y="172">• Outer planets are bigger</text>
+  <text class="small" x="710" y="196">• Earth takes 1 year</text>
+  <text class="small" x="710" y="220">  to orbit the Sun</text>
+  <text class="small" x="710" y="244">• The Moon takes about</text>
+  <text class="small" x="710" y="268">  1 month to orbit Earth</text>
+</svg>

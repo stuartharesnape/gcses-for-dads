@@ -1,0 +1,29 @@
+<!-- ./images/physics6_wave_properties.svg -->
+<svg width="700" height="280" viewBox="0 0 700 280" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .label { font: 16px sans-serif; fill: #222; }
+    .small { font: 13px sans-serif; fill: #333; }
+    .wave { stroke: #222; stroke-width: 3; fill: none; }
+    .guide { stroke: #888; stroke-width: 2; stroke-dasharray: 5 5; }
+    .arrow { stroke: #222; stroke-width: 2.5; fill: none; marker-end: url(#arrow); }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#222"/>
+    </marker>
+  </defs>
+
+  <text x="30" y="30" class="label">Wave properties</text>
+  <line x1="40" y1="150" x2="660" y2="150" class="guide"/>
+  <path d="M60 150 C100 90, 140 90, 180 150 S260 210, 300 150 S380 90, 420 150 S500 210, 540 150 S620 90, 650 150" class="wave"/>
+
+  <line x1="180" y1="150" x2="180" y2="90" class="arrow"/>
+  <text x="190" y="122" class="small">amplitude</text>
+
+  <line x1="180" y1="230" x2="420" y2="230" class="arrow"/>
+  <text x="270" y="252" class="small">wavelength</text>
+
+  <text x="95" y="70" class="small">one complete wave</text>
+  <text x="450" y="60" class="small">frequency = waves per second</text>
+  <text x="450" y="80" class="small">period = time for one wave</text>
+</svg>

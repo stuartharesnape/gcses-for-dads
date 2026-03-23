@@ -1,0 +1,34 @@
+<!-- ./images/physics7_fleming_left_hand_rule.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="520" viewBox="0 0 700 520">
+  <defs>
+    <style>
+      .title { font: 700 24px Arial, sans-serif; fill: #111; }
+      .label { font: 700 20px Arial, sans-serif; fill: #111; }
+      .text { font: 18px Arial, sans-serif; fill: #222; }
+      .hand { fill: #f2d3b1; stroke: #333; stroke-width: 3; }
+      .arrow { stroke: #333; stroke-width: 4; fill: none; marker-end: url(#a4); }
+    </style>
+    <marker id="a4" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#333"/>
+    </marker>
+  </defs>
+
+  <rect width="100%" height="100%" fill="#fff"/>
+  <text x="350" y="36" text-anchor="middle" class="title">Fleming’s Left-Hand Rule</text>
+
+  <rect x="250" y="240" width="110" height="170" rx="20" class="hand"/>
+  <rect x="190" y="180" width="55" height="170" rx="18" class="hand"/>
+  <rect x="365" y="180" width="55" height="155" rx="18" class="hand"/>
+  <rect x="275" y="110" width="55" height="130" rx="18" class="hand"/>
+
+  <path class="arrow" d="M 120 260 L 180 260"/>
+  <text x="40" y="250" class="label">Field</text>
+
+  <path class="arrow" d="M 302 95 L 302 50"/>
+  <text x="250" y="70" class="label">Current</text>
+
+  <path class="arrow" d="M 440 260 L 540 260"/>
+  <text x="548" y="266" class="label">Force</text>
+
+  <text x="350" y="470" text-anchor="middle" class="text">First finger = Field, second finger = Current, thumb = Force</text>
+</svg>

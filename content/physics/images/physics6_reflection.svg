@@ -1,0 +1,26 @@
+<!-- ./images/physics6_reflection.svg -->
+<svg width="700" height="260" viewBox="0 0 700 260" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .label { font: 16px sans-serif; fill: #222; }
+    .small { font: 13px sans-serif; fill: #333; }
+    .line { stroke: #222; stroke-width: 3; }
+    .guide { stroke: #999; stroke-width: 2; stroke-dasharray: 5 5; }
+    .arrow { stroke: #222; stroke-width: 3; fill: none; marker-end: url(#arrow); }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#222"/>
+    </marker>
+  </defs>
+
+  <text x="30" y="30" class="label">Reflection</text>
+  <line x1="350" y1="50" x2="350" y2="210" class="line"/>
+  <line x1="350" y1="130" x2="250" y2="60" class="arrow"/>
+  <line x1="350" y1="130" x2="250" y2="200" class="arrow"/>
+  <line x1="350" y1="40" x2="350" y2="220" class="guide"/>
+
+  <text x="180" y="55" class="small">reflected wave</text>
+  <text x="185" y="215" class="small">incident wave</text>
+  <text x="365" y="130" class="small">mirror / surface</text>
+  <text x="420" y="90" class="small">angle in = angle out</text>
+</svg>

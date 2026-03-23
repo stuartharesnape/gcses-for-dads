@@ -1,0 +1,38 @@
+<!-- ./images/physics7_loudspeaker.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="500" viewBox="0 0 920 500">
+  <defs>
+    <marker id="a6" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#333"/>
+    </marker>
+    <style>
+      .title { font: 700 24px Arial, sans-serif; fill: #111; }
+      .text { font: 18px Arial, sans-serif; fill: #222; }
+      .lab { font: 700 20px Arial, sans-serif; fill: #111; }
+      .arrow { stroke: #333; stroke-width: 3; fill: none; marker-end: url(#a6); }
+    </style>
+  </defs>
+
+  <rect width="100%" height="100%" fill="#fff"/>
+  <text x="460" y="36" text-anchor="middle" class="title">How a loudspeaker works</text>
+
+  <rect x="130" y="130" width="120" height="220" rx="10" fill="#dbe8ff" stroke="#222" stroke-width="3"/>
+  <rect x="610" y="130" width="120" height="220" rx="10" fill="#ffe3e3" stroke="#222" stroke-width="3"/>
+  <text x="190" y="245" text-anchor="middle" class="lab">N</text>
+  <text x="670" y="245" text-anchor="middle" class="lab">S</text>
+
+  <rect x="340" y="180" width="60" height="120" fill="none" stroke="#111" stroke-width="5"/>
+  <path d="M400 160 L530 120 L530 360 L400 320 Z" fill="#f2f2f2" stroke="#111" stroke-width="4"/>
+
+  <path class="arrow" d="M 300 240 L 340 240"/>
+  <path class="arrow" d="M 560 240 L 620 240"/>
+
+  <path d="M760 160 q25 18 50 0 q25 -18 50 0" fill="none" stroke="#333" stroke-width="3"/>
+  <path d="M760 205 q25 18 50 0 q25 -18 50 0" fill="none" stroke="#333" stroke-width="3"/>
+  <path d="M760 250 q25 18 50 0 q25 -18 50 0" fill="none" stroke="#333" stroke-width="3"/>
+  <path d="M760 295 q25 18 50 0 q25 -18 50 0" fill="none" stroke="#333" stroke-width="3"/>
+
+  <text x="305" y="165" class="text">Voice coil</text>
+  <text x="500" y="108" class="text">Cone</text>
+  <text x="760" y="120" class="text">Sound waves</text>
+  <text x="235" y="390" class="text">Alternating current makes the coil move back and forth</text>
+</svg>
