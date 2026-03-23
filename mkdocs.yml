@@ -1,5 +1,6 @@
 site_name: GCSEs for Dads
 docs_dir: content
+site_url: https://stuartharesnape.github.io/gcses-for-dads/
 
 theme:
   name: material
