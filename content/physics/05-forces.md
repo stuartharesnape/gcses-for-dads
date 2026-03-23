@@ -398,6 +398,6 @@ The faster a car is going, the much longer it takes to stop.
 
 ## 14. Now Watch These
 
-- [GCSE Physics - Contact and Non-Contact Forces](https://www.youtube.com/results?search_query=GCSE+Physics+contact+and+non-contact+forces+cognito)
-- [GCSE Physics - Hooke’s Law and Springs](https://www.youtube.com/results?search_query=GCSE+Physics+Hooke%27s+Law+springs+cognito)
-- [GCSE Physics - Stopping Distance](https://www.youtube.com/results?search_query=GCSE+Physics+stopping+distance+cognito)
+- [Contact and Non-Contact Forces](https://youtu.be/xdrE0kP8GTM?si=tem8f5F5-obb-BEf)
+- [Hooke’s Law and Springs](https://youtu.be/abWi5y6bJ9k?si=kVNh03EiTUIkjhc2)
+- [Stopping Distance](https://youtu.be/q0yjYZdTS3I?si=GVVL1AkejeCky8do)

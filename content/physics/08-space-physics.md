@@ -285,6 +285,6 @@ The Milky Way is just one of **billions of galaxies** in the universe.
 
 ## 11. Now Watch These
 
-- Cognito – Space Physics
-- Cognito – The Life Cycle of Stars
-- Cognito – Red Shift and the Big Bang
+- [The Sun, Stars and Universe](https://youtu.be/gNNH7ctGDh0?si=FUFRFTY3AkK-IGr1)
+- [Lifecycle of Stars](https://youtu.be/V69KZun35K8?si=Ew_D1cozlfKCew3d)
+- [Red Shift](https://youtu.be/bWEtm-7cYzM?si=qjjHVNTr000eLo7Q)

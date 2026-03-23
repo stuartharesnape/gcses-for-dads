@@ -265,8 +265,7 @@ Loudspeakers use the motor effect to make sound.
 
 ## 12. YouTube links
 
-- Cognito – Magnetism and Magnetic Fields  
-- Cognito – Electromagnets and Solenoids  
-- Cognito – The Motor Effect and Fleming’s Left-Hand Rule  
+- [Magnets](https://youtu.be/3elpPfyHV0E?si=sURBOvWx1MLQ9cUO)
+- [Electromagnetism](https://youtu.be/LTfP8yPAVFw?si=EAgImsZllDYRkoUs)
 
 ---
