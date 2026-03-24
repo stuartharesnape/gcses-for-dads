@@ -10,14 +10,7 @@ theme:
 nav:
   - Home: index.md
   - Physics:
-      - Physics 1: physics-k7m4/physics1-energy.md
-      - Physics 2: physics-k7m4/physics2-electricity.md
-      - Physics 3: physics-k7m4/physics3-particle-model-of-matter.md
-      - Physics 4: physics-k7m4/physics4-atomic-structure-and-radiation.md
-      - Physics 5: physics-k7m4/physics5-forces.md
-      - Physics 6: physics-k7m4/physics6-waves.md
-      - Physics 7: physics-k7m4/physics7-magnetism-and-electromagnetism.md
-      - Physics 8: physics-k7m4/physics8-space-physics.md
+      - Example Physics Page: physics-k7m4/physics2-electricity.md
 
 extra_css:
   - stylesheets/extra.css

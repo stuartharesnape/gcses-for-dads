@@ -1,4 +1,4 @@
-# GCSEs for Dads
+# GCSEs for Dads (and Mums)
 
 Clear, simple GCSE revision for busy parents and families.
 
@@ -13,7 +13,15 @@ Each chapter is designed to be quick to scan and easy to revisit:
 - quick check-your-understanding questions
 - links for extra support
 
-Physics access is available now. link to sales site going here..
+## Physics
+
+Physics access is available now.
+
+Try a sample chapter:
+[Example Physics Page](physics-k7m4/physics2-electricity/)
+
+Buy the full Physics course for £9:
+[Buy GCSE Physics](#)
 
 ## More subjects coming soon
 
