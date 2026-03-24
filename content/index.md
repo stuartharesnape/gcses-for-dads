@@ -15,15 +15,17 @@ These are built to work from any device allowing you to get an understanding qui
 ## How these guides work
 
 Each chapter is designed to be quick to scan and easy to come back to:
-- understand the topic in 5-10 minutes
-- clear explanations
-- simple diagrams
-- quick check-your-understanding questions
-- curated links to help solidify your child's understanding
+
+- Understand the topic in 5-10 minutes
+- Clear explanations
+- Simple diagrams
+- Quick check-your-understanding questions
+- Curated links to help solidify your child's understanding
 
 ## Physics
 
 The course includes a full understanding of the following topics. 
+
 - Electricity
 - Waves
 - Atomic Structure and Radiation
