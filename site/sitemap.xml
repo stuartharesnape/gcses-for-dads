@@ -1,43 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://stuartharesnape.github.io/gcses-for-dads/</loc>
-         <lastmod>2026-03-23</lastmod>
+         <loc>https://gcsesfordads.uk/</loc>
+         <lastmod>2026-03-24</lastmod>
     </url>
     <url>
-         <loc>https://stuartharesnape.github.io/gcses-for-dads/physics/physics1-energy/</loc>
-         <lastmod>2026-03-23</lastmod>
+         <loc>https://gcsesfordads.uk/physics-hjf223/</loc>
+         <lastmod>2026-03-24</lastmod>
     </url>
     <url>
-         <loc>https://stuartharesnape.github.io/gcses-for-dads/physics/physics2-electricity/</loc>
-         <lastmod>2026-03-23</lastmod>
+         <loc>https://gcsesfordads.uk/physics-ghjs76/physics1-energy/</loc>
+         <lastmod>2026-03-24</lastmod>
     </url>
     <url>
-         <loc>https://stuartharesnape.github.io/gcses-for-dads/physics/physics3-particle-model-of-matter/</loc>
-         <lastmod>2026-03-23</lastmod>
+         <loc>https://gcsesfordads.uk/physics-ghjs76/physics2-electricity/</loc>
+         <lastmod>2026-03-24</lastmod>
     </url>
     <url>
-         <loc>https://stuartharesnape.github.io/gcses-for-dads/physics/physics4-atomic-structure-and-radiation/</loc>
-         <lastmod>2026-03-23</lastmod>
+         <loc>https://gcsesfordads.uk/physics-ghjs76/physics3-particle-model-of-matter/</loc>
+         <lastmod>2026-03-24</lastmod>
     </url>
     <url>
-         <loc>https://stuartharesnape.github.io/gcses-for-dads/physics/physics5-forces/</loc>
-         <lastmod>2026-03-23</lastmod>
+         <loc>https://gcsesfordads.uk/physics-ghjs76/physics4-atomic-structure-and-radiation/</loc>
+         <lastmod>2026-03-24</lastmod>
     </url>
     <url>
-         <loc>https://stuartharesnape.github.io/gcses-for-dads/physics/physics6-waves/</loc>
-         <lastmod>2026-03-23</lastmod>
+         <loc>https://gcsesfordads.uk/physics-ghjs76/physics5-forces/</loc>
+         <lastmod>2026-03-24</lastmod>
     </url>
     <url>
-         <loc>https://stuartharesnape.github.io/gcses-for-dads/physics/physics7-magnetism-and-electromagnetism/</loc>
-         <lastmod>2026-03-23</lastmod>
+         <loc>https://gcsesfordads.uk/physics-ghjs76/physics6-waves/</loc>
+         <lastmod>2026-03-24</lastmod>
     </url>
     <url>
-         <loc>https://stuartharesnape.github.io/gcses-for-dads/physics/physics8-space-physics/</loc>
-         <lastmod>2026-03-23</lastmod>
+         <loc>https://gcsesfordads.uk/physics-ghjs76/physics7-magnetism-and-electromagnetism/</loc>
+         <lastmod>2026-03-24</lastmod>
     </url>
     <url>
-         <loc>https://stuartharesnape.github.io/gcses-for-dads/physics/template/</loc>
-         <lastmod>2026-03-23</lastmod>
+         <loc>https://gcsesfordads.uk/physics-ghjs76/physics8-space-physics/</loc>
+         <lastmod>2026-03-24</lastmod>
+    </url>
+    <url>
+         <loc>https://gcsesfordads.uk/physics-ghjs76/template/</loc>
+         <lastmod>2026-03-24</lastmod>
     </url>
 </urlset>
