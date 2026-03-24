@@ -1,0 +1,56 @@
+<!-- ../images/physics8_orbit.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420">
+  <defs>
+    <style>
+      .bg { fill: #f7f9fc; }
+      .title { fill: #1c2434; font-family: Arial, Helvetica, sans-serif; font-size: 24px; font-weight: bold; }
+      .label { fill: #243047; font-family: Arial, Helvetica, sans-serif; font-size: 16px; }
+      .small { fill: #46526b; font-family: Arial, Helvetica, sans-serif; font-size: 14px; }
+      .planet { fill: #5aa0ff; stroke: #2f5f9d; stroke-width: 3; }
+      .orbit { fill: none; stroke: #6f7f9c; stroke-width: 2.5; stroke-dasharray: 8 7; }
+      .satellite { fill: #d95c5c; stroke: #9d3333; stroke-width: 2; }
+      .arrow { stroke: #1e7a34; stroke-width: 3; fill: none; marker-end: url(#arrowhead); }
+      .grav { stroke: #8a2be2; stroke-width: 3; fill: none; marker-end: url(#arrowhead2); }
+      .straight { stroke: #c97b00; stroke-width: 3; fill: none; stroke-dasharray: 10 8; marker-end: url(#arrowhead3); }
+    </style>
+    <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <polygon points="0 0, 10 3, 0 6" fill="#1e7a34"/>
+    </marker>
+    <marker id="arrowhead2" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <polygon points="0 0, 10 3, 0 6" fill="#8a2be2"/>
+    </marker>
+    <marker id="arrowhead3" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <polygon points="0 0, 10 3, 0 6" fill="#c97b00"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="900" height="420"/>
+
+  <text class="title" x="30" y="40">How an Orbit Works</text>
+  <text class="small" x="30" y="66">Gravity pulls inward while the satellite keeps moving forward, so it follows a curved path.</text>
+
+  <circle class="planet" cx="260" cy="220" r="58"/>
+  <text class="label" x="230" y="225">Earth</text>
+
+  <ellipse class="orbit" cx="260" cy="220" rx="180" ry="120"/>
+
+  <circle class="satellite" cx="440" cy="220" r="10"/>
+  <text class="label" x="456" y="224">Satellite</text>
+
+  <path class="arrow" d="M440 220 C460 190, 470 165, 455 140"/>
+  <text class="small" x="480" y="152">forwards motion</text>
+
+  <path class="grav" d="M430 220 L326 220"/>
+  <text class="small" x="340" y="205">gravity pulls inward</text>
+
+  <path class="straight" d="M440 220 L575 220"/>
+  <text class="small" x="578" y="224">without gravity it would move straight on</text>
+
+  <rect x="610" y="110" width="230" height="180" rx="12" ry="12" fill="#eef3fb" stroke="#cad3e2"/>
+  <text class="label" x="630" y="140">Key idea</text>
+  <text class="small" x="630" y="170">• Gravity changes direction</text>
+  <text class="small" x="630" y="194">• The object still has speed</text>
+  <text class="small" x="630" y="218">• So it keeps “falling around”</text>
+  <text class="small" x="630" y="242">  the planet instead of crashing</text>
+  <text class="small" x="630" y="266">  straight in or flying away</text>
+</svg>

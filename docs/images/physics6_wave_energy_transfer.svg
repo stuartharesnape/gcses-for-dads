@@ -1,0 +1,22 @@
+<!-- ../images/physics6_wave_energy_transfer.svg -->
+<svg width="700" height="220" viewBox="0 0 700 220" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .label { font: 16px sans-serif; fill: #222; }
+    .small { font: 13px sans-serif; fill: #333; }
+    .line { stroke: #222; stroke-width: 3; fill: none; }
+    .arrow { stroke: #222; stroke-width: 3; fill: none; marker-end: url(#arrow); }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#222"/>
+    </marker>
+  </defs>
+
+  <text x="30" y="35" class="label">Energy transfer in a rope wave</text>
+  <line x1="40" y1="120" x2="660" y2="120" stroke="#bbb" stroke-width="2" stroke-dasharray="6 6"/>
+  <path d="M60 120 C100 60, 140 180, 180 120 S260 60, 300 120 S380 180, 420 120 S500 60, 540 120 S620 180, 650 120" class="line"/>
+  <line x1="270" y1="55" x2="380" y2="55" class="arrow"/>
+  <text x="285" y="42" class="small">energy moves this way</text>
+  <line x1="120" y1="120" x2="120" y2="70" class="arrow"/>
+  <text x="65" y="68" class="small">particles vibrate up and down</text>
+</svg>

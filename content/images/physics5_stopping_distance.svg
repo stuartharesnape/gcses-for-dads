@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520">
+  <defs>
+    <style>
+      .title { font: 700 28px Arial, sans-serif; fill: #1f2937; }
+      .subtitle { font: 700 22px Arial, sans-serif; fill: #1f2937; }
+      .label { font: 16px Arial, sans-serif; fill: #1f2937; }
+      .small { font: 14px Arial, sans-serif; fill: #374151; }
+      .panel { fill: #f8fafc; stroke: #cbd5e1; stroke-width: 2; rx: 18; }
+      .road { fill: #4b5563; }
+      .car-body { fill: #93c5fd; stroke: #2563eb; stroke-width: 2; }
+      .car-window { fill: #e0f2fe; stroke: #2563eb; stroke-width: 1.5; }
+      .thinking { fill: #fde68a; stroke: #d97706; stroke-width: 2; }
+      .braking { fill: #fecaca; stroke: #dc2626; stroke-width: 2; }
+      .total { fill: none; stroke: #111827; stroke-width: 2.5; }
+    </style>
+  </defs>
+
+  <text x="500" y="40" text-anchor="middle" class="title">Stopping Distance</text>
+
+  <rect x="60" y="70" width="880" height="390" class="panel"/>
+  <text x="500" y="105" text-anchor="middle" class="subtitle">stopping distance = thinking distance + braking distance</text>
+
+  <rect x="110" y="300" width="780" height="40" class="road"/>
+
+  <g transform="translate(120 205)">
+    <rect x="0" y="25" width="140" height="45" rx="12" class="car-body"/>
+    <path d="M30 25 L55 0 L105 0 L125 25 Z" class="car-body"/>
+    <rect x="58" y="6" width="38" height="16" rx="3" class="car-window"/>
+    <circle cx="35" cy="75" r="16" fill="#1f2937"/>
+    <circle cx="110" cy="75" r="16" fill="#1f2937"/>
+  </g>
+
+  <rect x="300" y="230" width="180" height="32" class="thinking"/>
+  <text x="390" y="251" text-anchor="middle" class="label">thinking distance</text>
+
+  <rect x="480" y="230" width="320" height="32" class="braking"/>
+  <text x="640" y="251" text-anchor="middle" class="label">braking distance</text>
+
+  <rect x="300" y="180" width="500" height="26" class="total"/>
+  <text x="550" y="172" text-anchor="middle" class="label">stopping distance</text>
+
+  <text x="315" y="390" class="small">thinking: tiredness, alcohol, distractions</text>
+  <text x="315" y="415" class="small">braking: speed, tyres, brakes, wet roads</text>
+</svg>

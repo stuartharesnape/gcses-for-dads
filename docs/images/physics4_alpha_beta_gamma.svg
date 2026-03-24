@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="500" viewBox="0 0 1000 500">
+  <rect width="100%" height="100%" fill="white"/>
+
+  <text x="500" y="36" font-family="Arial, sans-serif" font-size="28" text-anchor="middle" font-weight="bold">
+    Alpha, Beta and Gamma Radiation
+  </text>
+
+  <!-- Source -->
+  <circle cx="110" cy="245" r="30" fill="#222"/>
+  <text x="110" y="250" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="white">source</text>
+
+  <!-- Alpha -->
+  <text x="200" y="150" font-family="Arial, sans-serif" font-size="22" font-weight="bold">Alpha (α)</text>
+  <line x1="145" y1="165" x2="290" y2="165" stroke="#222" stroke-width="8"/>
+  <rect x="290" y="130" width="42" height="70" fill="#f1f5f9" stroke="#222" stroke-width="2"/>
+  <text x="311" y="220" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">paper</text>
+  <text x="520" y="150" font-family="Arial, sans-serif" font-size="18">strongly ionising</text>
+  <text x="520" y="175" font-family="Arial, sans-serif" font-size="18">very low penetration</text>
+
+  <!-- Beta -->
+  <text x="200" y="245" font-family="Arial, sans-serif" font-size="22" font-weight="bold">Beta (β)</text>
+  <line x1="145" y1="260" x2="470" y2="260" stroke="#222" stroke-width="4"/>
+  <rect x="470" y="220" width="55" height="80" fill="#d1d5db" stroke="#222" stroke-width="2"/>
+  <text x="497" y="320" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">aluminium</text>
+  <text x="620" y="245" font-family="Arial, sans-serif" font-size="18">medium ionising</text>
+  <text x="620" y="270" font-family="Arial, sans-serif" font-size="18">medium penetration</text>
+
+  <!-- Gamma -->
+  <text x="200" y="350" font-family="Arial, sans-serif" font-size="22" font-weight="bold">Gamma (γ)</text>
+  <line x1="145" y1="365" x2="760" y2="365" stroke="#222" stroke-width="2" stroke-dasharray="10 7"/>
+  <rect x="760" y="310" width="105" height="110" fill="#9ca3af" stroke="#222" stroke-width="2"/>
+  <text x="812" y="440" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">lead / concrete</text>
+  <text x="620" y="348" font-family="Arial, sans-serif" font-size="18">weakly ionising</text>
+  <text x="620" y="373" font-family="Arial, sans-serif" font-size="18">most penetrating</text>
+</svg>

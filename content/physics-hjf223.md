@@ -14,14 +14,14 @@ Pick a subject and begin with the first chapter. Work in short bursts and focus 
 
 Choose a topic:
 
-- [Physics 1: Energy](physics-k7m4/physics1-energy/)
-- [Physics 2: Electricity](physics-k7m4/physics2-electricity/)
-- [Physics 3: Particle Model of Matter](physics-k7m4/physics3-particle-model-of-matter/)
-- [Physics 4: Atomic Structure and Radiation](physics-k7m4/physics4-atomic-structure-and-radiation/)
-- [Physics 5: Forces](physics-k7m4/physics5-forces/)
-- [Physics 6: Waves](physics-k7m4/physics6-waves/)
-- [Physics 7: Magnetism and Electromagnetism](physics-k7m4/physics7-magnetism-and-electromagnetism/)
-- [Physics 8: Space Physics](physics-k7m4/physics8-space-physics/)
+- [Physics 1: Energy](physics-k7m4/physics1-energy.md)
+- [Physics 2: Electricity](physics-k7m4/physics2-electricity.md)
+- [Physics 3: Particle Model of Matter](physics-k7m4/physics3-particle-model-of-matter.md)
+- [Physics 4: Atomic Structure and Radiation](physics-k7m4/physics4-atomic-structure-and-radiation.md)
+- [Physics 5: Forces](physics-k7m4/physics5-forces.md)
+- [Physics 6: Waves](physics-k7m4/physics6-waves.md)
+- [Physics 7: Magnetism and Electromagnetism](physics-k7m4/physics7-magnetism-and-electromagnetism.md)
+- [Physics 8: Space Physics](physics-k7m4/physics8-space-physics.md)
 
 ## How these guides work
 

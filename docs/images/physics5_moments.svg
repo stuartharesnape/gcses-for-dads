@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#2c3e50"/>
+    </marker>
+    <style>
+      .title { font: 700 28px Arial, sans-serif; fill: #1f2937; }
+      .subtitle { font: 700 22px Arial, sans-serif; fill: #1f2937; }
+      .label { font: 16px Arial, sans-serif; fill: #1f2937; }
+      .small { font: 14px Arial, sans-serif; fill: #374151; }
+      .panel { fill: #f8fafc; stroke: #cbd5e1; stroke-width: 2; rx: 18; }
+      .spanner { fill: #dbeafe; stroke: #2563eb; stroke-width: 3; }
+      .bolt { fill: #e5e7eb; stroke: #6b7280; stroke-width: 3; }
+      .arrow { stroke: #dc2626; stroke-width: 4; marker-end: url(#arrow); fill: none; }
+      .measure { stroke: #059669; stroke-width: 3; fill: none; }
+      .pivot { fill: #f59e0b; stroke: #b45309; stroke-width: 2; }
+    </style>
+  </defs>
+
+  <text x="500" y="40" text-anchor="middle" class="title">Moments and Pivot</text>
+
+  <rect x="60" y="70" width="880" height="380" class="panel"/>
+  <text x="500" y="105" text-anchor="middle" class="subtitle">Moment = Force × Distance</text>
+
+  <polygon points="220,260 270,210 760,210 790,240 760,270 270,270" class="spanner"/>
+  <circle cx="220" cy="240" r="48" fill="none" stroke="#2563eb" stroke-width="16"/>
+  <polygon points="220,210 246,225 246,255 220,270 194,255 194,225" class="bolt"/>
+  <circle cx="220" cy="240" r="8" class="pivot"/>
+  <text x="172" y="190" class="label">pivot</text>
+
+  <line x1="730" y1="130" x2="730" y2="200" class="arrow"/>
+  <text x="748" y="145" class="label">force</text>
+
+  <line x1="230" y1="320" x2="730" y2="320" class="measure"/>
+  <line x1="230" y1="308" x2="230" y2="332" class="measure"/>
+  <line x1="730" y1="308" x2="730" y2="332" class="measure"/>
+  <text x="415" y="345" class="label">distance from pivot</text>
+
+  <text x="500" y="395" text-anchor="middle" class="small">A bigger force or a bigger distance gives a bigger turning effect.</text>
+</svg>

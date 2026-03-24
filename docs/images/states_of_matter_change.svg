@@ -1,0 +1,38 @@
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    .box { fill: #f5f5f5; stroke: #333; stroke-width: 2; rx: 10; }
+    .text { font-family: Arial, sans-serif; font-size: 16px; fill: #111; text-anchor: middle; }
+    .label { font-size: 13px; fill: #444; text-anchor: middle; }
+    .arrow { stroke: #333; stroke-width: 2; marker-end: url(#arrowhead); }
+  </style>
+
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#333" />
+    </marker>
+  </defs>
+
+  <!-- Ice -->
+  <rect x="50" y="60" width="150" height="80" class="box"/>
+  <text x="125" y="105" class="text">Ice</text>
+  <text x="125" y="125" class="label">(Solid)</text>
+
+  <!-- Water -->
+  <rect x="325" y="60" width="150" height="80" class="box"/>
+  <text x="400" y="105" class="text">Water</text>
+  <text x="400" y="125" class="label">(Liquid)</text>
+
+  <!-- Steam -->
+  <rect x="600" y="60" width="150" height="80" class="box"/>
+  <text x="675" y="105" class="text">Steam</text>
+  <text x="675" y="125" class="label">(Gas)</text>
+
+  <!-- Arrows -->
+  <line x1="200" y1="100" x2="325" y2="100" class="arrow"/>
+  <text x="262" y="85" class="label">Melting</text>
+
+  <line x1="475" y1="100" x2="600" y2="100" class="arrow"/>
+  <text x="537" y="85" class="label">Boiling</text>
+
+</svg>

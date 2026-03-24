@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="500" viewBox="0 0 1000 500">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#2c3e50"/>
+    </marker>
+    <style>
+      .title { font: 700 28px Arial, sans-serif; fill: #1f2937; }
+      .subtitle { font: 700 22px Arial, sans-serif; fill: #1f2937; }
+      .label { font: 16px Arial, sans-serif; fill: #1f2937; }
+      .small { font: 15px Arial, sans-serif; fill: #374151; }
+      .panel { fill: #f8fafc; stroke: #cbd5e1; stroke-width: 2; rx: 18; }
+      .box { fill: #dbeafe; stroke: #2563eb; stroke-width: 2; }
+      .arrow { stroke: #2c3e50; stroke-width: 5; marker-end: url(#arrow); fill: none; }
+      .accent { fill: #dcfce7; stroke: #16a34a; stroke-width: 2; rx: 12; }
+      .warn { fill: #fee2e2; stroke: #dc2626; stroke-width: 2; rx: 12; }
+    </style>
+  </defs>
+
+  <text x="500" y="40" text-anchor="middle" class="title">Balanced and Unbalanced Forces</text>
+
+  <rect x="50" y="70" width="900" height="160" class="panel"/>
+  <text x="500" y="105" text-anchor="middle" class="subtitle">Balanced forces</text>
+  <rect x="430" y="135" width="140" height="70" rx="8" class="box"/>
+  <line x1="330" y1="170" x2="420" y2="170" class="arrow"/>
+  <line x1="670" y1="170" x2="580" y2="170" class="arrow"/>
+  <text x="300" y="162" class="label">10 N</text>
+  <text x="680" y="162" class="label">10 N</text>
+  <rect x="330" y="245" width="340" height="42" class="accent"/>
+  <text x="500" y="272" text-anchor="middle" class="label">resultant force = 0</text>
+  <text x="500" y="305" text-anchor="middle" class="small">object stays still or moves at constant speed</text>
+
+  <rect x="50" y="320" width="900" height="140" class="panel"/>
+  <text x="500" y="355" text-anchor="middle" class="subtitle">Unbalanced forces</text>
+  <rect x="430" y="380" width="140" height="60" rx="8" class="box"/>
+  <line x1="360" y1="410" x2="420" y2="410" class="arrow"/>
+  <line x1="720" y1="410" x2="580" y2="410" class="arrow"/>
+  <text x="332" y="402" class="label">5 N</text>
+  <text x="730" y="402" class="label">12 N</text>
+  <rect x="310" y="470" width="380" height="42" class="warn"/>
+  <text x="500" y="497" text-anchor="middle" class="label">resultant force to the right</text>
+</svg>

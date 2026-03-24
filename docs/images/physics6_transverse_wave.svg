@@ -1,0 +1,31 @@
+<!-- ../images/physics6_transverse_wave.svg -->
+<svg width="700" height="260" viewBox="0 0 700 260" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .label { font: 16px sans-serif; fill: #222; }
+    .small { font: 13px sans-serif; fill: #333; }
+    .wave { stroke: #222; stroke-width: 3; fill: none; }
+    .guide { stroke: #888; stroke-width: 2; stroke-dasharray: 5 5; }
+    .arrow { stroke: #222; stroke-width: 2.5; fill: none; marker-end: url(#arrow); }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#222"/>
+    </marker>
+  </defs>
+
+  <text x="30" y="30" class="label">Transverse wave</text>
+  <line x1="40" y1="140" x2="660" y2="140" class="guide"/>
+  <path d="M60 140 C100 70, 140 70, 180 140 S260 210, 300 140 S380 70, 420 140 S500 210, 540 140 S620 70, 650 140" class="wave"/>
+
+  <line x1="180" y1="140" x2="180" y2="70" class="arrow"/>
+  <text x="190" y="105" class="small">amplitude</text>
+
+  <line x1="180" y1="220" x2="420" y2="220" class="arrow"/>
+  <text x="255" y="242" class="small">wavelength</text>
+
+  <line x1="500" y1="50" x2="610" y2="50" class="arrow"/>
+  <text x="500" y="35" class="small">direction of travel</text>
+
+  <text x="167" y="62" class="small">crest</text>
+  <text x="288" y="202" class="small">trough</text>
+</svg>

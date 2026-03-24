@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360">
+  <rect width="100%" height="100%" fill="white"/>
+
+  <text x="500" y="36" font-family="Arial, sans-serif" font-size="28" text-anchor="middle" font-weight="bold">
+    How the Atomic Model Changed
+  </text>
+
+  <line x1="90" y1="180" x2="910" y2="180" stroke="#222" stroke-width="4"/>
+
+  <!-- Dalton -->
+  <circle cx="130" cy="180" r="10" fill="#222"/>
+  <text x="130" y="82" font-family="Arial, sans-serif" font-size="22" text-anchor="middle" font-weight="bold">Dalton</text>
+  <text x="130" y="108" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">solid sphere</text>
+  <circle cx="130" cy="235" r="28" fill="#f1f5f9" stroke="#222" stroke-width="2"/>
+
+  <!-- Thomson -->
+  <circle cx="300" cy="180" r="10" fill="#222"/>
+  <text x="300" y="82" font-family="Arial, sans-serif" font-size="22" text-anchor="middle" font-weight="bold">Thomson</text>
+  <text x="300" y="108" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">plum pudding</text>
+  <circle cx="300" cy="235" r="30" fill="#fde68a" stroke="#222" stroke-width="2"/>
+  <circle cx="288" cy="226" r="4" fill="#222"/>
+  <circle cx="312" cy="222" r="4" fill="#222"/>
+  <circle cx="298" cy="246" r="4" fill="#222"/>
+  <circle cx="316" cy="243" r="4" fill="#222"/>
+
+  <!-- Rutherford -->
+  <circle cx="480" cy="180" r="10" fill="#222"/>
+  <text x="480" y="82" font-family="Arial, sans-serif" font-size="22" text-anchor="middle" font-weight="bold">Rutherford</text>
+  <text x="480" y="108" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">nuclear model</text>
+  <circle cx="480" cy="235" r="31" fill="none" stroke="#222" stroke-width="2"/>
+  <circle cx="480" cy="235" r="7" fill="#222"/>
+
+  <!-- Bohr -->
+  <circle cx="670" cy="180" r="10" fill="#222"/>
+  <text x="670" y="82" font-family="Arial, sans-serif" font-size="22" text-anchor="middle" font-weight="bold">Bohr</text>
+  <text x="670" y="108" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">fixed shells</text>
+  <circle cx="670" cy="235" r="10" fill="#222"/>
+  <circle cx="670" cy="235" r="30" fill="none" stroke="#222" stroke-width="2"/>
+  <circle cx="700" cy="235" r="5" fill="#222"/>
+
+  <!-- Modern -->
+  <circle cx="860" cy="180" r="10" fill="#222"/>
+  <text x="860" y="82" font-family="Arial, sans-serif" font-size="22" text-anchor="middle" font-weight="bold">Modern</text>
+  <text x="860" y="108" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">nucleus + shells</text>
+  <circle cx="860" cy="235" r="12" fill="#222"/>
+  <circle cx="860" cy="235" r="30" fill="none" stroke="#222" stroke-width="2"/>
+  <circle cx="860" cy="235" r="52" fill="none" stroke="#666" stroke-width="2"/>
+  <circle cx="890" cy="235" r="5" fill="#222"/>
+  <circle cx="860" cy="183" r="5" fill="#222"/>
+  <circle cx="912" cy="235" r="5" fill="#222"/>
+
+  <text x="500" y="322" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">
+    The model improved as scientists found better evidence.
+  </text>
+</svg>
