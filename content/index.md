@@ -18,7 +18,7 @@ Each chapter is designed to be quick to scan and easy to revisit:
 Physics access is available now.
 
 Try a sample chapter:
-[Example Physics Page](physics-k7m4/physics2-electricity/)
+[Example Physics Page](physics-k7m4/physics2-electricity.md/)
 
 Buy the full Physics course for £9:
 [Buy GCSE Physics](#)
