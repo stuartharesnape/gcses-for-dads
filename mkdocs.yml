@@ -1,7 +1,7 @@
 site_name: GCSEs for Dads
 docs_dir: content
 site_url: https://gcsesfordads.uk/
-site_dir: docs
+site_dir: site
 
 theme:
   name: material
