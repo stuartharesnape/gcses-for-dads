@@ -108,8 +108,8 @@ If:
 OA = ( 2 )  
     ( 3 )
 
-That means point A is:
-- 2 right  
+That means point A is
+- 2 right
 - 3 up from O
 
 ---
