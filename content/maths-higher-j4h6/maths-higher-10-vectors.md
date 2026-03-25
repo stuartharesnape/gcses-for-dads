@@ -51,7 +51,8 @@ A vector can be written as a column:
 ( 3 )  
 ( 2 )
 
-This means:
+This means
+
 - 3 to the right  
 - 2 up  
 
@@ -93,7 +94,6 @@ So the movement from one point to another is:
 A scalar is just a number.
 
 2 × ( 3 )   =   ( 6 )  
-   ( 4 )       ( 8 )
 
 - Everything gets doubled.
 - This stretches the vector.
@@ -104,11 +104,15 @@ A scalar is just a number.
 
 You often see points described using vectors from an origin.
 
+- O is Origin (remember this)
+
 If:
 OA = ( 2 )  
-    ( 3 )
+     ( 3 )
 
 That means point A is 2 right and 3 up from O
+
+![Vector from origin](../images/maths10_vectors_origin.svg)
 
 ---
 
@@ -124,8 +128,9 @@ Example idea:
 
 ![Vector proof: collinear points](../images/maths10_vectors_proof.svg)
 
-Key rule:
-Vectors are parallel if one is a multiple of the other.
+Key rule
+
+- Vectors are parallel if one is a multiple of the other.
 
 ---
 
