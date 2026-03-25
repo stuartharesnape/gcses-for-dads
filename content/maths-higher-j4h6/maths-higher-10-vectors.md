@@ -34,12 +34,14 @@ You don’t need to memorise these formulas. Just know where to find them.
 Vectors describe **movement**.
 
 They tell you
+
 - how far
 - and in what direction
 
 They do **not** care about position, only the journey.
 
 Think of them like instructions
+
 - “go 3 right and 2 up”
 
 ---
@@ -71,6 +73,7 @@ You add vectors by combining movements.
 - Up: 2 + 5 = 7  
 
 So the total movement is:
+
 ( 4 )  
 ( 7 )
 
@@ -84,6 +87,7 @@ Subtracting is just finding the difference.
 ( 7 )   −   ( 4 )   =   ( 3 )
 
 So the movement from one point to another is:
+
 ( 3 )  
 ( 3 )
 
@@ -106,9 +110,8 @@ You often see points described using vectors from an origin.
 
 - O is Origin (remember this)
 
-If:
-OA = ( 2 )  
-     ( 3 )
+If OA = ( 2 )  
+        ( 3 )
 
 That means point A is 2 right and 3 up from O
 
@@ -123,6 +126,7 @@ This is where people panic, but it is just algebra with vectors.
 You might be asked to show points are in a straight line or parallel.
 
 Example idea:
+
 - If AB = kBC  
 - Then they are parallel
 
