@@ -2,7 +2,7 @@
 
 Welcome, and thanks for buying GCSEs for Dads - Physics. I hope this saves you time and helps your child get better grades! 
 
-The topics are all online so follow the Phyics portal link and bookmark that. The links change every few months so if you need access later please just email me. 
+The topics are all online so follow the Physics portal link and bookmark that. The links change every few months so if you need access later please just email me. 
 
 ## Your links
 

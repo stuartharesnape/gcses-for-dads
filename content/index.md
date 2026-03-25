@@ -57,6 +57,12 @@ Even finding short educational videos can be hit and miss and involve time spent
 
 That is what these guides are for. They are not designed to replace school, teachers, or proper revision. They are designed to help parents cut through the noise, refresh their memory fast, and feel confident when homework questions come up.
 
+Buy the full Physics course for £9:
+[Buy GCSE Physics](#)
+
+Try a sample chapter:
+[Example Physics Page](physics-k7m4/physics2-electricity.md/)
+
 ## More subjects coming soon
 
 - Maths
