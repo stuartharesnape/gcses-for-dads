@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="260" viewBox="0 0 700 260">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1f2937"/>
+    </marker>
+    <style>
+      .label { font: 18px Arial, sans-serif; fill: #111827; }
+      .small { font: 16px Arial, sans-serif; fill: #111827; }
+      .title { font: 20px Arial, sans-serif; font-weight: bold; fill: #111827; }
+      .vec { stroke: #1f2937; stroke-width: 4; fill: none; marker-end: url(#arrow); }
+      .pt { fill: #2563eb; }
+      .dash { stroke: #d1d5db; stroke-width: 2; stroke-dasharray: 6 6; }
+    </style>
+  </defs>
+
+  <text x="30" y="35" class="title">Vector proof: points in a straight line</text>
+
+  <!-- Baseline -->
+  <line x1="80" y1="140" x2="620" y2="140" class="dash"/>
+
+  <!-- Points -->
+  <circle cx="120" cy="140" r="6" class="pt"/>
+  <circle cx="300" cy="140" r="6" class="pt"/>
+  <circle cx="390" cy="140" r="6" class="pt"/>
+  <circle cx="570" cy="140" r="6" class="pt"/>
+
+  <!-- Labels -->
+  <text x="112" y="170" class="label">A</text>
+  <text x="292" y="170" class="label">B</text>
+  <text x="382" y="170" class="label">C</text>
+  <text x="562" y="170" class="label">D</text>
+
+  <!-- Vectors -->
+  <line x1="120" y1="120" x2="300" y2="120" class="vec"/>
+  <line x1="300" y1="120" x2="390" y2="120" class="vec"/>
+  <line x1="390" y1="120" x2="570" y2="120" class="vec"/>
+
+  <!-- Vector labels -->
+  <text x="185" y="105" class="small">AB = a</text>
+  <text x="323" y="105" class="small">BC = ½a</text>
+  <text x="455" y="105" class="small">CD = a</text>
+
+  <!-- Explanation box -->
+  <rect x="70" y="195" width="560" height="45" rx="8" ry="8" fill="#f3f4f6" stroke="#d1d5db"/>
+  <text x="90" y="223" class="small">BC = ½AB so BC is a scalar multiple of AB.</text>
+  <text x="90" y="243" class="small">Therefore AB and BC are parallel and A, B, C lie on a straight line.</text>
+</svg>
