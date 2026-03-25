@@ -33,14 +33,14 @@ You don’t need to memorise these formulas. Just know where to find them.
 
 Vectors describe **movement**.
 
-They tell you:
+They tell you
 - how far
 - and in what direction
 
 They do **not** care about position, only the journey.
 
-Think of them like instructions:
-“go 3 right and 2 up”
+Think of them like instructions
+- “go 3 right and 2 up”
 
 ---
 
@@ -64,7 +64,7 @@ You can also draw it as an arrow.
 You add vectors by combining movements.
 
 ( 3 )   +   ( 1 )   =   ( 4 )  
-( 2 )       ( 5 )       ( 7 )
+( 2 )   +   ( 5 )   =   ( 7 )
 
 - Right: 3 + 1 = 4  
 - Up: 2 + 5 = 7  
@@ -80,7 +80,7 @@ So the total movement is:
 Subtracting is just finding the difference.
 
 ( 5 )   −   ( 2 )   =   ( 3 )  
-( 7 )       ( 4 )       ( 3 )
+( 7 )   −   ( 4 )   =   ( 3 )
 
 So the movement from one point to another is:
 ( 3 )  
@@ -153,7 +153,5 @@ Vectors are parallel if one is a multiple of the other.
 ## 10. Suggested Videos
 
 [Vectors](https://youtu.be/PxDfkq3FMaw?si=mCL4iZ6oIabqaEu9)
-
-A
 
 ---
