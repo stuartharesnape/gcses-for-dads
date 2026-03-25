@@ -2,14 +2,11 @@
 
 ## Live
 
-Home  
-https://gcsesfordads.uk/
+[Home](https://gcsesfordads.uk/)
 
-Physics portal  
-https://gcsesfordads.uk/physics-k7m4/
+[Physics portal](https://gcsesfordads.uk/physics-k7m4/) 
 
-Physics example page  
-https://gcsesfordads.uk/physics-k7m4/physics2-electricity/
+[Physics example page](https://gcsesfordads.uk/physics-k7m4/physics2-electricity/)
 
 ---
 
