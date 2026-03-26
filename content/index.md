@@ -36,7 +36,7 @@ The course includes a full understanding of the following topics.
 - Particle Model of Matter
 
 Buy the full Physics course for £9:
-[Buy GCSE Physics](#)
+[Buy GCSE Physics](https://payhip.com/b/edqIx)
 
 Try a sample chapter:
 [Example Physics Page](physics-k7m4/physics2-electricity.md/)
@@ -58,7 +58,7 @@ Even finding short educational videos can be hit and miss and involve time spent
 That is what these guides are for. They are not designed to replace school, teachers, or proper revision. They are designed to help parents cut through the noise, refresh their memory fast, and feel confident when homework questions come up.
 
 Buy the full Physics course for £9:
-[Buy GCSE Physics](#)
+[Buy GCSE Physics](https://payhip.com/b/edqIx)
 
 Try a sample chapter:
 [Example Physics Page](physics-k7m4/physics2-electricity.md/)
