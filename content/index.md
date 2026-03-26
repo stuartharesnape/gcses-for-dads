@@ -41,7 +41,7 @@ Buy the full Physics course for £9:
 [Buy GCSE Physics](https://payhip.com/b/edqIx)
 
 Try a sample chapter:
-[Example Physics Page](physics-k7m4/physics2-electricity.md/)
+[Example Physics Page](physics-k7m4/physics2-electricity.md)
 
 ![Physics Guide](../content/images/papersondesk.png)
 
@@ -67,7 +67,7 @@ Buy the full Physics course for £9:
 [Buy GCSE Physics](https://payhip.com/b/edqIx)
 
 Try a sample chapter:
-[Example Physics Page](physics-k7m4/physics2-electricity.md/)
+[Example Physics Page](physics-k7m4/physics2-electricity.md)
 
 ## More subjects coming soon
 
