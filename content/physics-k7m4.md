@@ -26,6 +26,7 @@ Choose a topic:
 ## How these guides work
 
 Each chapter is designed to be quick to scan and easy to revisit:
+
 - a short big-picture summary
 - clear explanations
 - simple diagrams

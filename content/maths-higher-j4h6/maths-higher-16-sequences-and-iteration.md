@@ -278,4 +278,5 @@ Find x₃
 [Quadratic Nth term](https://youtu.be/7Isa4P8lISc?si=wY8twao-XOf90Kka)
 
 [Finding Nth term for linear](https://youtu.be/RAjTpz3yQ3Q?si=rHeBoeWrMiBdJbwX)
+
 ---

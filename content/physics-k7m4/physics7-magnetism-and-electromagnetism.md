@@ -186,8 +186,8 @@ Use Fleming’s Left-Hand Rule to work out the direction of the force:
 
 **Real-life example:** Electric motors use the motor effect to create movement.
 
-![Fleming's Left-Hand Rule](../images/physics7_fleming_left_hand_rule.svg)
-
+<!--![Fleming's Left-Hand Rule](../images/physics7_fleming_left_hand_rule.svg)
+-->
 ---
 
 ## 8. Electric Motors
