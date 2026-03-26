@@ -4,6 +4,8 @@ Need to help with your child’s homework, but struggle to find the information 
 
 The information is out there, but it is often scattered, overcomplicated, or buried in content made for students rather than busy parents.
 
+![Physics Guide](../content/images/gcsesfordads_physics.png)
+
 **GCSEs for Dads cuts right through that.**
 
 These are quick, clear topic guides designed to help you understand the gist fast. 
@@ -41,6 +43,8 @@ Buy the full Physics course for £9:
 Try a sample chapter:
 [Example Physics Page](physics-k7m4/physics2-electricity.md/)
 
+![Physics Guide](../content/images/papersondesk.png)
+
 ## Why did I build this guide?
 
 I kept finding that when you try to help your child with homework, the hardest part is not that the information does not exist. 
@@ -52,6 +56,8 @@ I wanted something simpler. Something you could **read on your phone in 5 to 10 
 I found it frustrating that my son would guess his way through questions with his homework and then we would have to spend time watching the videos. A short piece of homework might take three times as long or be left incomplete, and I was left scrabbling around trying to find the information quickly. 
 
 Trying to get ahead, I would be sat there in a dark car with text books and a phone trying to get the basics of Biology or Chemstry whilst he played football, and this never really worked. 
+
+![Physics Guide](../content/images/dadnexttopitch.png)
 
 Even finding short educational videos can be hit and miss and involve time spent searching, only to find a set of slides with a science teacher narrating them.
 
