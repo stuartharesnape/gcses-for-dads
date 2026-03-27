@@ -12,12 +12,15 @@
 
 [Maths Higher portal](https://gcsesfordads.uk/maths-higher-j4h6/)
 
+[Chemistry portal](https://gcsesfordads.uk/chemistry-o9o7/)
+
 ---
 
 ## Active Paths
 
 Physics base: /physics-k7m4/  
-Maths base: /maths-higher-j4h6/
+Maths base: /maths-higher-j4h6/  
+Chemistry base: /chemistry-o9o7/
 
 ---
 
