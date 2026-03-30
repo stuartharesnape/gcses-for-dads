@@ -10,23 +10,25 @@ You don’t need to memorise these straight away. Just get familiar with what th
 
 ## Chemical Changes – Key Ideas
 
-| Quantity | Formula | Meaning |
-|----------|---------|---------|
-| Reactivity | no fixed formula | How easily a metal reacts |
-| pH scale | 0–14 | Measures acidity or alkalinity |
-| Electrolysis | uses electricity | Splits compounds |
-| Displacement | more reactive replaces less reactive | Reactivity order |
+## Chemical Changes – Key Ideas
 
-## Symbols and Units
+| Idea | What it means |
+|------|--------------|
+| Reactivity | How easily a metal reacts |
+| pH scale | A scale from 0–14 showing how acidic or alkaline a substance is |
+| Electrolysis | Using electricity to break down a compound |
+| Displacement | A more reactive metal replaces a less reactive one in a compound |
 
-| Symbol | Meaning | Unit |
-|--------|---------|------|
-| H⁺ | Hydrogen ion | no unit |
-| OH⁻ | Hydroxide ion | no unit |
-| (aq) | Aqueous (dissolved) | no unit |
-| (s) | Solid | no unit |
-| (l) | Liquid | no unit |
-| (g) | Gas | no unit |
+## Symbols
+
+| Symbol | Meaning |
+|--------|---------|
+| H⁺ | Hydrogen ion |
+| OH⁻ | Hydroxide ion |
+| (aq) | Aqueous (dissolved) |
+| (s) | Solid |
+| (l) | Liquid |
+| (g) | Gas |
 
 ---
 
@@ -45,18 +47,7 @@ You don’t need to memorise these straight away. Just get familiar with what th
 
 Metals can be placed in order of reactivity.
 
-- Most reactive at the top  
-- Least reactive at the bottom  
-
-Example order:
-
-- Potassium  
-- Sodium  
-- Calcium  
-- Magnesium  
-- Zinc  
-- Iron  
-- Copper  
+![Reactivity series](../images/chemistry4_reactivity_series.svg)
 
 Key idea:
 
@@ -66,37 +57,56 @@ Key idea:
 
 ## 3. Displacement Reactions
 
-A more reactive metal can displace a less reactive metal from a compound.
+### Displacement Reactions (making sense of it)
 
-Example:
+A more reactive metal will **push out** a less reactive metal from a compound.
 
-- Zinc + Copper sulfate → Zinc sulfate + Copper  
+Think of it like this:
+- The compound is already “holding” a metal
+- A stronger (more reactive) metal comes along
+- It takes that metal’s place
 
-Key idea:
+---
 
-- Zinc is more reactive than copper, so it replaces it  
+### Example
+![Displacement reaction](../images/chemistry4_displacement_reaction.svg)
+What’s happening step by step:
+
+- Copper sulfate is a compound containing copper
+- Zinc is added to the solution
+- Zinc is **more reactive than copper**
+- So zinc takes copper’s place in the compound
+- Copper gets kicked out as a solid metal
+
+---
+
+#### What you would actually see
+
+- The blue solution (copper sulfate) starts to fade
+- A reddish-brown solid (copper) appears
+- Zinc slowly dissolves into the solution
+
+---
+
+#### Key idea
+
+More reactive metal wins.
+
+If the metal you add is **higher in the reactivity series**, it will displace the metal in the compound.
+
+If it’s lower, **nothing happens**.
 
 ---
 
 ## 4. Acids and Alkalis
 
-Acids:
+Acids (for example Hydrochloric acid, Sulphuric acid):
 
-- Release H⁺ ions in solution  
+- Release H⁺ ions (Hydrogen Ions) in solution  
 
-Examples:
+Alkalis (Sodium hydroxide, Potassium hydroxide):
 
-- Hydrochloric acid  
-- Sulfuric acid  
-
-Alkalis:
-
-- Release OH⁻ ions in solution  
-
-Examples:
-
-- Sodium hydroxide  
-- Potassium hydroxide  
+- Release OH⁻ ions (Hydroxide ion) in solution  
 
 Key idea:
 
@@ -119,17 +129,59 @@ Key idea:
 
 ---
 
-## 6. Neutralisation
+## 6. Neutralisation (what’s actually going on)
 
-Acid + Base → Salt + Water  
+Neutralisation is when an **acid cancels out a base**.
 
-Example:
+![Neutralisation equation](../images/chemistry4_neutralisation_word_equation.svg)
 
-- Hydrochloric acid + Sodium hydroxide → Sodium chloride + Water  
+---
 
-Key idea:
+#### What are acids and bases doing?
 
-- H⁺ ions combine with OH⁻ ions to form water  
+- Acids contain **H⁺ ions** (hydrogen ions)  
+- Bases (like alkalis) contain **OH⁻ ions** (hydroxide ions)  
+
+These are the parts that actually react.
+
+---
+
+#### The important bit (this is the whole game)
+
+H⁺ + OH⁻ → H₂O  
+
+**That’s it!**
+
+A hydrogen ion and a hydroxide ion combine to make **water**.
+
+---
+
+### Example
+
+Hydrochloric acid + Sodium hydroxide → Sodium chloride + Water  
+
+Break it down:
+
+- Hydrochloric acid provides **H⁺**
+- Sodium hydroxide provides **OH⁻**
+- These form **water**
+- The leftover bits (sodium + chloride) form the **salt**
+
+---
+
+### What is the “salt”?
+
+Salt just means:
+> the leftover ions after H⁺ and OH⁻ have made water
+
+In this case:
+- Sodium (Na⁺) + Chloride (Cl⁻) → Sodium chloride
+
+
+Neutralisation is really just:
+
+- H⁺ and OH⁻ making water  
+- Everything else forming a salt  
 
 ---
 
@@ -163,6 +215,8 @@ Key ideas:
 
 - Positive ions go to the negative electrode  
 - Negative ions go to the positive electrode  
+
+![Electrolysis diagram](../images/chemistry4_electrolysis.svg)
 
 ---
 
@@ -199,4 +253,46 @@ https://www.youtube.com/watch?v=9y6ZpGQnZrM
 https://www.youtube.com/watch?v=2n3s8vX6k2A  
 
 - Cognito – Electrolysis  
-https://www.youtube.com/watch?v=3j3F5mF6z2Q  
+https://www.youtube.com/watch?v=3j3F5mF6z2Q
+
+### Real World Dad Example: Removing Rust (Electrolysis)
+
+You can use electrolysis to clean a rusty bolt.
+
+What you need:
+- A container of water with baking soda (electrolyte)
+- A power supply (baasdttery or charger)
+- The rusty bolt
+- A scrap piece of iron (sacrificial metal)
+
+#### How it works
+
+- Connect the **negative terminal** to the rusty bolt  
+- Connect the **positive terminal** to the scrap metal  
+- Place both in the solution (not touching)
+
+Turn the power on.
+
+#### What happens
+
+- The rusty bolt is the **negative electrode (cathode)**  
+- Rust (iron oxide) is reduced and loosens  
+- The rust flakes off and the metal is cleaned  
+
+- The scrap metal is the **positive electrode (anode)**  
+- It slowly corrodes instead  
+
+You are using electricity to **reverse the oxidation (rusting)**.
+
+#### Important note
+
+This is different from vinegar:
+
+- Vinegar → dissolves rust (chemical reaction)  
+- Electrolysis → removes rust using electricity  
+
+Both work, but electrolysis is closer to what you learn for GCSE.
+
+#### Important note 2
+
+Almost certainly you are going to get bollocked for trying this in the kitchen. Still worth it though. 

@@ -1,0 +1,55 @@
+<svg width="700" height="820" viewBox="0 0 700 820" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title { font: bold 28px Arial, sans-serif; fill: #1f2937; }
+      .subtitle { font: 18px Arial, sans-serif; fill: #374151; }
+      .label { font: bold 18px Arial, sans-serif; fill: #111827; }
+      .metal { font: bold 22px Arial, sans-serif; fill: #111827; }
+      .note { font: 18px Arial, sans-serif; fill: #1f2937; }
+      .small { font: 16px Arial, sans-serif; fill: #374151; }
+      .box { fill: #f3f4f6; stroke: #9ca3af; stroke-width: 2; rx: 12; }
+      .metalBox { fill: #ffffff; stroke: #6b7280; stroke-width: 2; rx: 10; }
+      .arrow { stroke: #111827; stroke-width: 4; fill: none; marker-end: url(#arrowhead); }
+    </style>
+    <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#111827"/>
+    </marker>
+  </defs>
+
+  <text x="350" y="45" text-anchor="middle" class="title">The Reactivity Series</text>
+  <text x="350" y="78" text-anchor="middle" class="subtitle">Metals in order from most reactive to least reactive</text>
+
+  <rect x="120" y="110" width="460" height="520" class="box"/>
+
+  <text x="350" y="145" text-anchor="middle" class="label">Most reactive</text>
+
+  <line x1="350" y1="165" x2="350" y2="600" class="arrow"/>
+
+  <rect x="220" y="175" width="260" height="48" class="metalBox"/>
+  <text x="350" y="206" text-anchor="middle" class="metal">Potassium</text>
+
+  <rect x="220" y="235" width="260" height="48" class="metalBox"/>
+  <text x="350" y="266" text-anchor="middle" class="metal">Sodium</text>
+
+  <rect x="220" y="295" width="260" height="48" class="metalBox"/>
+  <text x="350" y="326" text-anchor="middle" class="metal">Calcium</text>
+
+  <rect x="220" y="355" width="260" height="48" class="metalBox"/>
+  <text x="350" y="386" text-anchor="middle" class="metal">Magnesium</text>
+
+  <rect x="220" y="415" width="260" height="48" class="metalBox"/>
+  <text x="350" y="446" text-anchor="middle" class="metal">Zinc</text>
+
+  <rect x="220" y="475" width="260" height="48" class="metalBox"/>
+  <text x="350" y="506" text-anchor="middle" class="metal">Iron</text>
+
+  <rect x="220" y="535" width="260" height="48" class="metalBox"/>
+  <text x="350" y="566" text-anchor="middle" class="metal">Copper</text>
+
+  <text x="350" y="615" text-anchor="middle" class="label">Least reactive</text>
+
+  <rect x="80" y="670" width="540" height="100" class="box"/>
+  <text x="350" y="705" text-anchor="middle" class="label">Key idea</text>
+  <text x="350" y="735" text-anchor="middle" class="note">More reactive metals lose electrons more easily.</text>
+  <text x="350" y="760" text-anchor="middle" class="small">That is why they react more readily in chemical changes.</text>
+</svg>
