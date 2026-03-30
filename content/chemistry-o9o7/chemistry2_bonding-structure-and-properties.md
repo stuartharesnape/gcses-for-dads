@@ -35,7 +35,10 @@ You don’t need to memorise these straight away. Just get familiar with what th
 
 - Atoms bond to get full outer electron shells  
 - The type of bonding controls the properties of a substance  
-- There are three main types: ionic, covalent, and metallic  
+- There are three main types: 
+    - ionic
+    - covalent
+    - metallic  
 - Structure explains things like melting point, strength, and conductivity  
 
 ---
@@ -196,11 +199,8 @@ Key idea:
 
 ## 9. Useful Videos
 
-- Cognito – Ionic Bonding  
-https://www.youtube.com/watch?v=1vRto-8hP2E  
+- [Ionic Bonding](https://youtu.be/MdU44WeiLps?si=vzUIciGdqQ8twSBo)
 
-- Cognito – Covalent Bonding  
-https://www.youtube.com/watch?v=QXT4OVM4vXI  
+- [Covalent Bonding](https://youtu.be/7IkYm7ZgiAw?si=tXp6Xcv9oNcBVcPB)    
 
-- Cognito – Metallic Bonding  
-https://www.youtube.com/watch?v=Y4WqjZx5x2Y  
+- [Metallic Bonding](https://youtu.be/tRKkGRBndto?si=SqhBR9tczKQrc9at) 

@@ -142,22 +142,58 @@ Examples:
 
 Isotopes are atoms of the same element with different numbers of neutrons.
 
-- Same number of protons  
-- Different number of neutrons  
+This took me a while to get into my head too. Chemistry is so abstract. Hopefully this explains it. 
 
-Example:
+### Isotopes are just different versions of the same element
 
-- Carbon-12 and Carbon-14  
+Example: Lithium
 
-- Both have 6 protons  
-- Different numbers of neutrons  
+- Lithium-6, Lithium-7, Lithium-8
+- All lithium → all have 3 protons
+- The number of neutrons is different
 
-This means:
+Think of it like golf clubs:
 
-- Same chemical properties  
-- Different mass  
+- 1 wood, 3 wood, 5 wood
+- All woods
+- Slightly different versions
 
-- Relative atomic mass (Ar) is an average of all isotopes  
+Simple summary
+
+- The periodic table shows **one box per element**  
+- That box does **not show a single atom**  
+- It shows an **average of all versions of that element**  
+
+Example: Lithium
+
+- There are a few different Lithium isotopes. Such as Lithium-6, 7 and 8.
+- Atomic number = 3 → always 3 protons  
+
+Lithium exists as two main versions:
+
+- Lithium-6 → 3 protons, 3 neutrons  
+- Lithium-7 → 3 protons, 4 neutrons  
+
+The number on top ≈ 7  
+- That “7” is **not Lithium-7 specifically**  
+- It means most lithium atoms are around mass 7  
+
+The versions are called isotopes.  
+
+---
+
+## The key idea (this is the line to remember)
+
+- Same number of protons = same element  
+- Different number of neutrons (than the other isotopes) = different isotope  
+- Isotopes are like a subset of elements. 
+
+
+## One-line version (for exams)
+
+- Isotopes are atoms of the same element with the same number of protons but the number of neutrons differs in each Isotope.
+
+What a headache. Anyway, you're doing great, grab a beer. 
 
 ---
 
@@ -165,7 +201,7 @@ This means:
 
 Early scientists tried to organise elements by properties.
 
-:contentReference[oaicite:0]{index=0} played a key role.
+Dmitri Mendeleev played a key role.
 
 - He arranged elements by mass  
 - He left gaps for unknown elements  
@@ -190,11 +226,8 @@ Modern periodic table:
 
 ## 9. Useful Videos
 
-- Cognito – Atomic Structure  
-https://www.youtube.com/watch?v=Yq4eYhXf0cY  
+- [Atomic Structure](https://youtu.be/GTpo1nAZqFE?si=sas08r1QnP1GJayL)  
 
-- Cognito – The Periodic Table  
-https://www.youtube.com/watch?v=7Tb7sFf0m0M  
+- [The Periodic Table ](https://youtu.be/GTpo1nAZqFE?si=sas08r1QnP1GJayL) 
 
-- Cognito – Isotopes  
-https://www.youtube.com/watch?v=3p3v7x8G0m8  
+- [Isotopes](https://youtu.be/GTpo1nAZqFE?si=l_n4wTu8JAjJBGXT)
