@@ -36,6 +36,15 @@ In the exam you need to remember **mass = moles × Mr**
 
 # Chemistry 3: Quantitative Chemistry
 
+Before we start..Every GCSE question follows the same steps:
+
+- Work out Mr
+- Convert to moles
+- Use the ratio
+- Convert back
+
+If you stick to the method, this becomes one of the easiest topics to score marks on.
+
 ## 1. The Big Idea (30 seconds)
 
 **A mole is just a way of counting atoms or molecules in a practical way.** 1 mole is just a fixed number of particles (see above)
@@ -46,8 +55,10 @@ In the exam you need to remember **mass = moles × Mr**
 
 This is where maths comes into chemistry. A practical tip, one that I've learned along the years, practising calculations will make this sink in. Sorry, sometimes you just need to get down to it.   
 
----
+These elements are used in the examples below.
 
+![Element reference for calculations](../images/chemistry3_element_reference.svg)
+---
 ## 2. Relative Formula Mass (Mr)
 
 This is the total mass of a compound.
@@ -64,7 +75,9 @@ Example:
 
 Key idea:
 
-- Mr tells you the mass of one mole of a substance  
+- Mr tells you the mass of one mole of a substance
+
+
 
 ---
 
@@ -163,9 +176,7 @@ Reasons for low yield:
 - Product lost during transfer  
 - Side reactions  
 
----
-
-## 8. Atom Economy (Higher Tier concept, but useful)
+#### 7.1. Atom Economy (Higher Tier concept, but useful)
 
 Measures how much useful product is made.
 
@@ -177,7 +188,7 @@ Key idea:
 
 ---
 
-## 9. Check Your Understanding
+## 8. Check Your Understanding
 
 - What is Mr? ( total mass of compound )  
 - What is a mole used for? ( counting particles )  
@@ -187,7 +198,7 @@ Key idea:
 
 ---
 
-## 10. Useful Videos
+## 9. Useful Videos
 
 [Moles Explained](https://youtu.be/kBlmEfS_P00?si=1dWFcJvvR0zPtOQy)
 
