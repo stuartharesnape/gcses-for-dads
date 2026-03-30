@@ -1,0 +1,58 @@
+<!-- File: chemistry2_covalent_bonding.svg -->
+<svg width="900" height="420" viewBox="0 0 900 420" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font: bold 28px Arial, sans-serif; fill: #222; }
+    .label { font: 22px Arial, sans-serif; fill: #222; }
+    .small { font: 18px Arial, sans-serif; fill: #333; }
+    .atom { fill: #f8f8f8; stroke: #333; stroke-width: 2; }
+    .shell { fill: none; stroke: #666; stroke-width: 2; }
+    .text { font: bold 24px Arial, sans-serif; fill: #222; }
+    .dot { fill: #222; }
+    .cross { stroke: #222; stroke-width: 2; }
+    .highlight { fill: none; stroke: #222; stroke-width: 2; stroke-dasharray: 5 4; }
+  </style>
+
+  <text x="450" y="40" text-anchor="middle" class="title">Covalent Bonding</text>
+
+  <!-- BEFORE -->
+  <text x="200" y="90" text-anchor="middle" class="label">Before</text>
+
+  <!-- Left atom -->
+  <circle cx="200" cy="230" r="40" class="atom"/>
+  <circle cx="200" cy="230" r="90" class="shell"/>
+  <text x="200" y="238" text-anchor="middle" class="text">H</text>
+  <circle cx="200" cy="140" r="6" class="dot"/>
+
+  <!-- Right atom -->
+  <circle cx="360" cy="230" r="40" class="atom"/>
+  <circle cx="360" cy="230" r="90" class="shell"/>
+  <text x="360" y="238" text-anchor="middle" class="text">H</text>
+  <line x1="360" y1="140" x2="370" y2="150" class="cross"/>
+  <line x1="370" y1="140" x2="360" y2="150" class="cross"/>
+
+  <text x="280" y="330" text-anchor="middle" class="small">Each atom has 1 outer electron</text>
+
+  <!-- AFTER -->
+  <text x="650" y="90" text-anchor="middle" class="label">After</text>
+
+  <!-- Overlapping atoms -->
+  <circle cx="600" cy="230" r="40" class="atom"/>
+  <circle cx="700" cy="230" r="40" class="atom"/>
+  <circle cx="600" cy="230" r="90" class="shell"/>
+  <circle cx="700" cy="230" r="90" class="shell"/>
+
+  <text x="600" y="238" text-anchor="middle" class="text">H</text>
+  <text x="700" y="238" text-anchor="middle" class="text">H</text>
+
+  <!-- Shared electrons -->
+  <circle cx="645" cy="230" r="6" class="dot"/>
+  <line x1="655" y1="225" x2="665" y2="235" class="cross"/>
+  <line x1="665" y1="225" x2="655" y2="235" class="cross"/>
+
+  <!-- Highlight shared region -->
+  <ellipse cx="650" cy="230" rx="35" ry="25" class="highlight"/>
+
+  <text x="650" y="330" text-anchor="middle" class="small">Shared pair of electrons</text>
+  <text x="650" y="355" text-anchor="middle" class="small">Both atoms count them → full outer shell</text>
+
+</svg>

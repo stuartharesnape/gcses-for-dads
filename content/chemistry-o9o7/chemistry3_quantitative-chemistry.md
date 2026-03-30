@@ -17,6 +17,8 @@ You don’t need to memorise these straight away. Just get familiar with what th
 | Concentration | conc = mass ÷ volume | How much is dissolved |
 | Percentage yield | (actual ÷ theoretical) × 100 | Efficiency of reaction |
 
+In the exam you need to remember **mass = moles × Mr**
+
 ## Symbols and Units
 
 | Symbol | Meaning | Unit |
@@ -28,16 +30,21 @@ You don’t need to memorise these straight away. Just get familiar with what th
 | V | Volume | cm³ or dm³ |
 | % | Percentage | % |
 
+1 mole = (6.02 × 10²³) particles (Avogadro’s number. All sounds a bit Harry Potter really)
+
 ---
 
 # Chemistry 3: Quantitative Chemistry
 
 ## 1. The Big Idea (30 seconds)
 
+**A mole is just a way of counting atoms or molecules in a practical way.** 1 mole is just a fixed number of particles (see above)
+
 - Chemistry is not just what reacts, but how much reacts  
 - Moles are used to count particles in a practical way  
 - Balanced equations let you calculate amounts  
-- This is where maths comes into chemistry  
+
+This is where maths comes into chemistry. A practical tip, one that I've learned along the years, practising calculations will make this sink in. Sorry, sometimes you just need to get down to it.   
 
 ---
 
@@ -182,11 +189,53 @@ Key idea:
 
 ## 10. Useful Videos
 
-- Cognito – Moles Explained  
-https://www.youtube.com/watch?v=Vq9dYk0vR8E  
+[Moles Explained](https://youtu.be/kBlmEfS_P00?si=1dWFcJvvR0zPtOQy)
 
-- Cognito – Calculating Moles  
-https://www.youtube.com/watch?v=2F6W4zP7R9A  
+[Calculating Moles](https://youtu.be/MEQ1YGxfAQ4?si=S4PxKEy23ZjTA4Ow)
 
-- Cognito – Percentage Yield  
-https://www.youtube.com/watch?v=0z2qYh0o2sY  
+[Percentage Yield](https://youtu.be/DIird9oZVII?si=eZVdMydYLYtzWboT)
+
+![Relative atomic masses used in this chapter](../images/chemistry3_relative_atomic_masses.svg)
+
+Use the above diagram to work through these
+
+## 9. Practice Calculations
+
+Try these without looking at the answers first.
+
+1. Calculate the relative formula mass (Mr) of H₂O.  
+(2 × 1) + 16 = **18**
+
+2. Calculate the relative formula mass (Mr) of CO₂.  
+12 + (2 × 16) = **44**
+
+3. Calculate the relative formula mass (Mr) of MgO.  
+24 + 16 = **40**
+
+4. Calculate the number of moles in 24 g of magnesium oxide (MgO).  
+Moles = mass ÷ Mr = 24 ÷ 40 = **0.6 mol**
+
+5. Calculate the number of moles in 36 g of water (H₂O).  
+Moles = mass ÷ Mr = 36 ÷ 18 = **2 mol**
+
+6. Calculate the mass of 0.5 mol of carbon dioxide (CO₂).  
+Mass = moles × Mr = 0.5 × 44 = **22 g**
+
+7. Calculate the mass of 3 mol of oxygen molecules (O₂).  
+Mr of O₂ = 2 × 16 = 32  
+Mass = 3 × 32 = **96 g**
+
+8. Calculate the number of moles in 11 g of carbon dioxide (CO₂).  
+Moles = mass ÷ Mr = 11 ÷ 44 = **0.25 mol**
+
+9. In the equation:  
+2H₂ + O₂ → 2H₂O  
+How many moles of water are made from 3 mol of oxygen?  
+1 mol O₂ makes 2 mol H₂O  
+So 3 mol O₂ makes **6 mol H₂O**
+
+10. In the equation:  
+Mg + 2HCl → MgCl₂ + H₂  
+How many moles of hydrochloric acid are needed to react completely with 4 mol of magnesium?  
+1 mol Mg needs 2 mol HCl  
+So 4 mol Mg needs **8 mol HCl**

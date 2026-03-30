@@ -1,0 +1,103 @@
+<!-- File: chemistry2_ionic_bonding.svg -->
+<svg width="980" height="420" viewBox="0 0 980 420" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font: bold 28px Arial, sans-serif; fill: #222; }
+    .heading { font: bold 22px Arial, sans-serif; fill: #222; }
+    .label { font: 20px Arial, sans-serif; fill: #222; }
+    .small { font: 18px Arial, sans-serif; fill: #333; }
+    .atom { fill: none; stroke: #333; stroke-width: 2.5; }
+    .bracket { fill: none; stroke: #333; stroke-width: 3; }
+    .arrow { stroke: #333; stroke-width: 3; fill: none; marker-end: url(#arrowhead); }
+    .dot { fill: #222; }
+    .cross { stroke: #222; stroke-width: 2.5; }
+    .symbol { font: bold 28px Arial, sans-serif; fill: #222; }
+    .charge { font: bold 24px Arial, sans-serif; fill: #222; }
+  </style>
+
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <polygon points="0,0 10,5 0,10" fill="#333"/>
+    </marker>
+  </defs>
+
+  <text x="490" y="40" text-anchor="middle" class="title">Ionic Bonding</text>
+
+  <!-- BEFORE -->
+  <text x="250" y="90" text-anchor="middle" class="heading">Before</text>
+
+  <!-- Sodium -->
+  <circle cx="150" cy="235" r="85" class="atom"/>
+  <text x="150" y="244" text-anchor="middle" class="symbol">Na</text>
+
+  <!-- single cross -->
+  <line x1="150" y1="145" x2="162" y2="157" class="cross"/>
+  <line x1="162" y1="145" x2="150" y2="157" class="cross"/>
+
+  <!-- Chlorine -->
+  <circle cx="350" cy="235" r="85" class="atom"/>
+  <text x="350" y="244" text-anchor="middle" class="symbol">Cl</text>
+
+  <!-- 3 pairs -->
+  <circle cx="350" cy="150" r="5" class="dot"/>
+  <circle cx="362" cy="150" r="5" class="dot"/>
+
+  <circle cx="410" cy="235" r="5" class="dot"/>
+  <circle cx="422" cy="235" r="5" class="dot"/>
+
+  <circle cx="350" cy="320" r="5" class="dot"/>
+  <circle cx="362" cy="320" r="5" class="dot"/>
+
+  <!-- 1 single -->
+  <circle cx="290" cy="235" r="5" class="dot"/>
+
+  <text x="350" y="345" text-anchor="middle" class="small">
+    3 pairs + 1 single electron
+  </text>
+
+  <!-- Arrow -->
+  <path d="M455 180 C535 120, 615 120, 695 180" class="arrow"/>
+
+  <!-- AFTER -->
+  <text x="740" y="90" text-anchor="middle" class="heading">After</text>
+
+  <!-- Na+ -->
+  <path d="M560 150 L540 150 L540 320 L560 320" class="bracket"/>
+  <path d="M680 150 L700 150 L700 320 L680 320" class="bracket"/>
+  <circle cx="620" cy="235" r="85" class="atom"/>
+  <text x="620" y="244" text-anchor="middle" class="symbol">Na</text>
+  <text x="710" y="145" class="charge">+</text>
+
+  <!-- Cl- -->
+  <path d="M760 150 L740 150 L740 320 L760 320" class="bracket"/>
+  <path d="M880 150 L900 150 L900 320 L880 320" class="bracket"/>
+  <circle cx="820" cy="235" r="85" class="atom"/>
+  <text x="820" y="244" text-anchor="middle" class="symbol">Cl</text>
+  <text x="910" y="145" class="charge">−</text>
+
+  <!-- now 4 pairs -->
+
+  <!-- top pair -->
+  <circle cx="820" cy="150" r="5" class="dot"/>
+  <line x1="832" y1="145" x2="844" y2="157" class="cross"/>
+  <line x1="844" y1="145" x2="832" y2="157" class="cross"/>
+
+  <!-- right pair -->
+  <circle cx="880" cy="235" r="5" class="dot"/>
+  <circle cx="892" cy="235" r="5" class="dot"/>
+
+  <!-- bottom pair -->
+  <circle cx="820" cy="320" r="5" class="dot"/>
+  <circle cx="832" cy="320" r="5" class="dot"/>
+
+  <!-- left pair -->
+  <circle cx="760" cy="235" r="5" class="dot"/>
+  <circle cx="772" cy="235" r="5" class="dot"/>
+
+  <text x="820" y="345" text-anchor="middle" class="small">
+    Now 4 full pairs (outer shell complete)
+  </text>
+
+  <text x="490" y="390" text-anchor="middle" class="small">
+    The single electron becomes a pair → full outer shell
+  </text>
+</svg>

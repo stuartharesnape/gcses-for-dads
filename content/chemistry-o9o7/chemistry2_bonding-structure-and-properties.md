@@ -31,10 +31,26 @@ You don’t need to memorise these straight away. Just get familiar with what th
 
 # Chemistry 2: Bonding, Structure and the Properties of Matter
 
+Before we start, the videos linked below are really useful. You will definitely want to read this and watch them and then it should be clear. 
+
 ## 1. The Big Idea (30 seconds)
 
-- Atoms bond to get full outer electron shells  
-- The type of bonding controls the properties of a substance  
+**Atoms bond to get a full outer electron shell.**
+
+...That’s it. That’s the whole game.
+
+- Atoms are most stable when their outer shell is full
+- If it’s not full, they will try to fix that
+- They do this by losing, gaining, or sharing electrons
+
+Think of it like this
+
+- Outer shell not full → unstable → reacts
+    - Reacts just means "The atom rearranges its electrons so it can get a full outer shell"
+- Outer shell full → stable → happy to stay as it is
+
+
+The type of bonding controls the properties of a substance  
 - There are three main types: 
     - ionic
     - covalent
@@ -66,6 +82,7 @@ Properties:
 - Conduct electricity when molten or dissolved  
 - Usually brittle  
 
+![Ionic bonding diagram](../images/chemistry2_ionic_bonding.svg)
 ---
 
 ## 3. Covalent Bonding
@@ -107,6 +124,7 @@ Properties:
 - Very high melting points  
 - Usually do not conduct electricity (except graphite)  
 
+![Covalent bonding diagram](../images/chemistry2_covalent_bonding.svg)
 ---
 
 ## 4. Metallic Bonding
@@ -126,6 +144,7 @@ Properties:
 - Strong but malleable (can be shaped)  
 - High melting points  
 
+![Metallic bonding diagram](../images/chemistry2_metallic_bonding.svg)
 ---
 
 ## 5. States of Matter and Structure
