@@ -14,13 +14,16 @@
 
 [Chemistry portal](https://gcsesfordads.uk/chemistry-o9o7/)
 
+[Biology portal](https://gcsesfordads.uk/biology-6h3a/)
+
 ---
 
 ## Active Paths
 
 Physics base: /physics-k7m4/  
 Maths base: /maths-higher-j4h6/  
-Chemistry base: /chemistry-o9o7/
+Chemistry base: /chemistry-o9o7/  
+Biology base: /biology-6h3a/
 
 ---
 
