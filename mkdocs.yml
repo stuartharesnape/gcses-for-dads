@@ -9,8 +9,8 @@ theme:
 
 nav:
   - Home: index.md
-  - Physics:
-      - Example Physics Page: physics-k7m4/physics2-electricity.md
+  - Free Examples:
+      - Science (Combined): demo/index.md
 
 extra_css:
   - stylesheets/extra.css
