@@ -4,73 +4,117 @@ Need to help with your child’s homework, but struggle to find the information 
 
 The information is out there, but it is often scattered, overcomplicated, or buried in content made for students rather than busy parents.
 
-![Physics Guide](../content/images/gcsesfordads_physics.png)
+![GCSEs for Dads](images/gcsesfordads-combined.png)
 
 **GCSEs for Dads cuts right through that.**
 
-These are quick, clear topic guides designed to help you understand the gist fast. 
+These are quick, clear topic guides designed to help you understand the gist fast.
 
-- In 5 to 10 minutes, you can get your head around a topic, feel confident, and be ready to help without digging through bloated textbooks or awkward PDFs.
+- In 5 to 10 minutes, you can get your head around a topic, feel confident, and be ready to help without digging through bloated textbooks or awkward PDFs
 
-These are built to work from any device allowing you to get an understanding quickly wherever you are.
+Built to work from any device, so you can get up to speed wherever you are.
+
+---
 
 ## How these guides work
 
 Each chapter is designed to be quick to scan and easy to come back to:
 
-- Understand the topic in 5-10 minutes
-- Clear explanations
-- Simple diagrams
-- Quick check-your-understanding questions
-- Curated links to help solidify your child's understanding
+- Understand the topic in 5–10 minutes  
+- Clear explanations  
+- Simple diagrams  
+- Quick check-your-understanding questions  
+- Curated links to help reinforce understanding  
 
-## Physics
+---
 
-The course includes a full understanding of the following topics. 
+## Subjects Available
 
-- Electricity
-- Waves
-- Atomic Structure and Radiation
-- Energy
-- Magnetism and Electromagnetism
-- Forces
-- Space Physics
-- Particle Model of Matter
+### Physics
 
-Buy the full Physics course for £9:
+The course includes:
+
+- Electricity  
+- Waves  
+- Atomic Structure and Radiation  
+- Energy  
+- Magnetism and Electromagnetism  
+- Forces  
+- Space Physics  
+- Particle Model of Matter  
+
+Buy the full Physics course for £9:  
 [Buy GCSE Physics](https://payhip.com/b/edqIx)
 
-Try a sample chapter:
-[Example Physics Page](physics-k7m4/physics2-electricity.md)
+---
 
-![Physics Guide](../content/images/papersondesk.png)
+### Chemistry
 
-## Why did I build this guide?
+The course includes:
 
-I kept finding that when you try to help your child with homework, the hardest part is not that the information does not exist. 
+- Atomic Structure and the Periodic Table  
+- Bonding, Structure and Properties  
+- Quantitative Chemistry  
+- Chemical Changes  
+- Energy Changes  
+- Rate and Extent of Chemical Change  
+- Organic Chemistry  
+- Chemical Analysis  
+- Chemistry of the Atmosphere  
+- Using Resources  
 
-**It is that it takes too long to find**, and when you do find it, it is often buried in revision sites, long videos, or textbooks that are not built for a busy parent trying to get up to speed quickly.
+**Full Chemistry course coming shortly**  
+[View Chemistry Course](#)
+
+---
+
+### Biology
+
+The course includes:
+
+- Cell Biology  
+- Organisation  
+- Infection and Response  
+- Bioenergetics  
+- Homeostasis and Response  
+- Inheritance, Variation and Evolution  
+- Ecology  
+
+**Full Biology course coming shortly**  
+[View Biology Course](#)
+
+---
+
+## Try a free sample
+
+Start here and see how it works:
+
+- [Sample Lessons](demo/index.md)
+
+---
+
+![GCSEs for Dads](images/papersondesk.png)
+
+## Why did I build this?
+
+I kept finding that when you try to help your child with homework, the hardest part is not that the information does not exist.
+
+**It is that it takes too long to find.**
+
+And when you do find it, it is often buried in revision sites, long videos, or textbooks that are not built for a busy parent trying to get up to speed quickly.
 
 I wanted something simpler. Something you could **read on your phone in 5 to 10 minutes** and come away actually understanding the topic well enough to help.
 
-I found it frustrating that my son would guess his way through questions with his homework and then we would have to spend time watching the videos. A short piece of homework might take three times as long or be left incomplete, and I was left scrabbling around trying to find the information quickly. 
+I found it frustrating that my son would guess his way through questions, and then we would have to spend time watching videos. A short piece of homework might take three times as long, or be left incomplete, and I was left scrabbling around trying to find the information quickly.
 
-Trying to get ahead, I would be sat there in a dark car with text books and a phone trying to get the basics of Biology or Chemstry whilst he played football, and this never really worked. 
+Trying to get ahead, I would be sat in a dark car with textbooks and a phone trying to get the basics of Biology or Chemistry whilst he played football. It never really worked.
 
-![Physics Guide](../content/images/dadnexttopitch.png)
+![GCSEs for Dads](images/dadnexttopitch.png)
 
-Even finding short educational videos can be hit and miss and involve time spent searching, only to find a set of slides with a science teacher narrating them.
+Even finding short educational videos can be hit and miss, often involving time spent searching, only to land on a set of slides with a teacher reading them out.
 
-That is what these guides are for. They are not designed to replace school, teachers, or proper revision. They are designed to help parents cut through the noise, refresh their memory fast, and feel confident when homework questions come up.
+That is what these guides are for.
 
-Buy the full Physics course for £9:
-[Buy GCSE Physics](https://payhip.com/b/edqIx)
+They are not designed to replace school, teachers, or proper revision. 
 
-Try a sample chapter:
-[Example Physics Page](physics-k7m4/physics2-electricity.md)
-
-## More subjects coming soon
-
-- Maths
-- Biology
-- Chemistry
+**They are designed to help parents cut through the noise, refresh their memory fast, and feel confident when homework questions come up.**
