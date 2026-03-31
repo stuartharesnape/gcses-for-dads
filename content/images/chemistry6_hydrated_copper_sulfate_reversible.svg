@@ -1,0 +1,36 @@
+<!-- chemistry6_hydrated_copper_sulfate_reversible.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240">
+  <style>
+    .label { font: 24px Arial, sans-serif; fill: #222; }
+    .small { font: 18px Arial, sans-serif; fill: #444; }
+    .formula { font: 26px Arial, sans-serif; font-weight: 600; fill: #1f2937; }
+    .box { fill: #ffffff; stroke: #333; stroke-width: 2; rx: 12; }
+    .arrow { stroke: #374151; stroke-width: 3; fill: none; }
+  </style>
+
+  <defs>
+    <marker id="arrow-right" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto">
+      <polygon points="0,0 10,4 0,8" fill="#374151"/>
+    </marker>
+    <marker id="arrow-left" markerWidth="10" markerHeight="8" refX="1" refY="4" orient="auto">
+      <polygon points="10,0 0,4 10,8" fill="#374151"/>
+    </marker>
+  </defs>
+
+  <!-- Left -->
+  <rect x="50" y="60" width="250" height="100" class="box"/>
+  <text x="175" y="95" text-anchor="middle" class="label">Hydrated copper sulfate</text>
+  <text x="175" y="130" text-anchor="middle" class="formula">CuSO₄·5H₂O</text>
+
+  <!-- Arrows -->
+  <line x1="325" y1="95" x2="505" y2="95" class="arrow" marker-end="url(#arrow-right)"/>
+  <line x1="505" y1="125" x2="325" y2="125" class="arrow" marker-end="url(#arrow-left)"/>
+
+  <text x="415" y="65" text-anchor="middle" class="small">heat</text>
+  <text x="415" y="170" text-anchor="middle" class="small">add water</text>
+
+  <!-- Right -->
+  <rect x="550" y="60" width="250" height="100" class="box"/>
+  <text x="675" y="95" text-anchor="middle" class="label">Anhydrous copper sulfate</text>
+  <text x="675" y="130" text-anchor="middle" class="formula">CuSO₄ + H₂O</text>
+</svg>

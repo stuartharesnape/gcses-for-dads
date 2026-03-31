@@ -10,12 +10,12 @@ You don’t need to memorise these straight away. Just get familiar with what th
 
 ## Energy Changes – Key Ideas
 
-| Quantity | Formula | Meaning |
-|----------|---------|---------|
-| Exothermic reaction | releases energy | Temperature increases |
-| Endothermic reaction | takes in energy | Temperature decreases |
-| Activation energy | no fixed formula | Energy needed to start reaction |
-| Energy profile diagram | shows energy change | Reactants to products |
+| Term | What it means | Key idea |
+|------|----------------|----------|
+| Exothermic reaction | Releases energy to surroundings | Temperature increases |
+| Endothermic reaction | Takes in energy from surroundings | Temperature decreases |
+| Activation energy | Energy needed to start a reaction | Must be overcome for reaction to occur |
+| Energy profile diagram | Graph showing energy changes during a reaction | Shows reactants, products, and activation energy |
 
 ## Symbols and Units
 
@@ -23,8 +23,8 @@ You don’t need to memorise these straight away. Just get familiar with what th
 |--------|---------|------|
 | ΔH | Energy change | kJ |
 | °C | Temperature | degrees Celsius |
-| ↑ | Increase | no unit |
-| ↓ | Decrease | no unit |
+| ↑ | Increase |  |
+| ↓ | Decrease |  |
 
 ---
 
@@ -46,14 +46,17 @@ Exothermic reactions release energy to the surroundings.
 - Temperature increases  
 - Energy is given out  
 
-Examples:
+![Exothermic reaction example](../images/chemistry5_exothermic_fuel.svg)
 
-- Combustion (burning fuels)  
-- Respiration  
+In this case the Product is Carbon Dioxide & Water. Heat is just heat and not a chemcial product. Just energy released to the environment. 
 
 Key idea:
 
 - Products have less energy than reactants  
+
+In plain terms:
+- The reaction “loses” energy to the outside world.
+
 
 ---
 
@@ -64,10 +67,15 @@ Endothermic reactions take in energy from the surroundings.
 - Temperature decreases  
 - Energy is absorbed  
 
-Examples:
+Example: Ice pack
 
-- Thermal decomposition  
-- Some cold packs  
+![Endothermic reaction (ice pack)](../images/chemistry5_endothermic_ice_pack.svg)
+
+Example: Sweat
+
+![Endothermic reaction (sweat evaporation)](../images/chemistry5_endothermic_sweat.svg)
+
+In this case the actual sweat is taking heat into the water from your body and then evaporating. 
 
 Key idea:
 
@@ -93,6 +101,8 @@ Key idea:
 
 - The gap at the start is activation energy  
 
+![Combined energy profile diagrams](../images/chemistry5_energy_profile_combined.svg)
+
 ---
 
 ## 5. Activation Energy
@@ -110,16 +120,20 @@ Key idea:
 - Once started, exothermic reactions keep going  
 
 ---
+### 6. Why reactions release or take in energy
 
-## 6. Bond Energy (Higher Tier concept, but useful)
-
-Energy is needed to break bonds  
-Energy is released when bonds form  
+- Energy is needed to break bonds  
+- Energy is released when new bonds form  
 
 Key idea:
 
 - Breaking bonds = endothermic  
 - Making bonds = exothermic  
+
+Overall:
+
+- If more energy is released than taken in → exothermic  
+- If more energy is taken in than released → endothermic  
 
 ---
 

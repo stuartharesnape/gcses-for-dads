@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+  <style>
+    .axis { stroke: #111; stroke-width: 3; fill: none; marker-end: url(#arrowBlack); }
+    .curveExoBack { fill: none; stroke: #1e3a8a; stroke-width: 10; stroke-linecap: round; }
+    .curveExoFront { fill: none; stroke: #3b82f6; stroke-width: 6; stroke-linecap: round; }
+    .curveEndoBack { fill: none; stroke: #9d174d; stroke-width: 10; stroke-linecap: round; }
+    .curveEndoFront { fill: none; stroke: #ec4899; stroke-width: 6; stroke-linecap: round; }
+    .guide { stroke: #777; stroke-width: 2; }
+    .act { stroke: #1d4ed8; stroke-width: 3; fill: none; marker-start: url(#arrowBlue); marker-end: url(#arrowBlue); }
+    .energy { stroke: #065f46; stroke-width: 3; fill: none; marker-start: url(#arrowGreen); marker-end: url(#arrowGreen); }
+    .text { font-family: Arial, Helvetica, sans-serif; fill: #111; font-size: 20px; }
+    .small { font-family: Arial, Helvetica, sans-serif; fill: #111; font-size: 18px; }
+    .labelBlue { font-family: Arial, Helvetica, sans-serif; fill: #1d4ed8; font-size: 20px; font-weight: bold; }
+    .labelGreen { font-family: Arial, Helvetica, sans-serif; fill: #065f46; font-size: 20px; font-weight: bold; }
+    .title { font-family: Arial, Helvetica, sans-serif; fill: #111; font-size: 24px; font-weight: bold; }
+    .diag { font-family: Arial, Helvetica, sans-serif; fill: #111; font-size: 18px; font-weight: bold; }
+  </style>
+
+  <defs>
+
+    <marker id="arrowBlack" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <polygon points="0,0 10,5 0,10" fill="#111"/>
+    </marker>
+    <marker id="arrowBlue" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto">
+      <polygon points="10,0 0,5 10,10" fill="#1d4ed8"/>
+    </marker>
+    <marker id="arrowGreen" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto">
+      <polygon points="10,0 0,5 10,10" fill="#065f46"/>
+    </marker>
+  </defs>
+
+  
+  <!-- LEFT: Exothermic -->
+  <line class="axis" x1="70" y1="420" x2="560" y2="420"/>
+  <line class="axis" x1="70" y1="420" x2="70" y2="40"/>
+
+  <text class="title" x="260" y="485" text-anchor="middle">Exothermic reaction</text>
+  <text class="title" x="315" y="448" text-anchor="middle">reaction progress</text>
+
+  <text class="title" x="28" y="130">E</text>
+  <text class="title" x="28" y="158">n</text>
+  <text class="title" x="28" y="186">e</text>
+  <text class="title" x="28" y="214">r</text>
+  <text class="title" x="28" y="242">g</text>
+  <text class="title" x="28" y="270">y</text>
+
+  <!-- energy level guides -->
+  <line class="guide" x1="150" y1="135" x2="355" y2="135"/>
+  <line class="guide" x1="70" y1="220" x2="355" y2="220"/>
+  <line class="guide" x1="120" y1="390" x2="285" y2="390"/>
+
+  <!-- exothermic curve -->
+  <path class="curveExoBack" d="M70 215 C135 215, 150 215, 170 210 C195 200, 220 145, 235 135 C250 125, 265 145, 280 190 C300 260, 340 340, 395 375 C445 400, 500 402, 545 402"/>
+  <path class="curveExoFront" d="M70 215 C135 215, 150 215, 170 210 C195 200, 220 145, 235 135 C250 125, 265 145, 280 190 C300 260, 340 340, 395 375 C445 400, 500 402, 545 402"/>
+
+  <!-- activation energy -->
+  <line class="act" x1="230" y1="220" x2="230" y2="135"/>
+  <text class="labelBlue" x="290" y="195" text-anchor="middle">Activation</text>
+  <text class="labelBlue" x="290" y="220" text-anchor="middle">energy</text>
+
+  <!-- energy released -->
+  <line class="energy" x1="175" y1="220" x2="175" y2="390"/>
+
+  <!-- labels -->
+  <text class="diag" x="95" y="60">Average</text>
+  <text class="diag" x="95" y="84">energy</text>
+  <text class="diag" x="95" y="108">of reactants</text>
+
+  <text class="diag" transform="rotate(57 360 305)" x="360" y="305">Average energy of products</text>
+
+  <!-- RIGHT: Endothermic -->
+  <line class="axis" x1="635" y1="420" x2="1125" y2="420"/>
+  <line class="axis" x1="635" y1="420" x2="635" y2="40"/>
+
+  <text class="title" x="880" y="485" text-anchor="middle">Endothermic reaction</text>
+  <text class="title" x="940" y="448" text-anchor="middle">reaction progress</text>
+
+  <text class="title" x="593" y="130">E</text>
+  <text class="title" x="593" y="158">n</text>
+  <text class="title" x="593" y="186">e</text>
+  <text class="title" x="593" y="214">r</text>
+  <text class="title" x="593" y="242">g</text>
+  <text class="title" x="593" y="270">y</text>
+
+  <!-- energy level guides -->
+  <line class="guide" x1="915" y1="135" x2="1070" y2="135"/>
+  <line class="guide" x1="915" y1="390" x2="1065" y2="390"/>
+
+  <!-- endothermic curve -->
+  <path class="curveEndoBack" d="M660 390 C730 390, 775 385, 820 330 C855 285, 880 170, 925 135 C945 120, 965 145, 985 215 C995 250, 1015 255, 1045 250 C1070 247, 1095 245, 1120 245"/>
+  <path class="curveEndoFront" d="M660 390 C730 390, 775 385, 820 330 C855 285, 880 170, 925 135 C945 120, 965 145, 985 215 C995 250, 1015 255, 1045 250 C1070 247, 1095 245, 1120 245"/>
+
+  <!-- energy absorbed -->
+  <line class="energy" x1="945" y1="390" x2="945" y2="245"/>
+  <text class="labelGreen" x="885" y="325" text-anchor="middle">energy</text>
+  <text class="labelGreen" x="885" y="350" text-anchor="middle">absorbed</text>
+
+  <!-- activation energy -->
+  <line class="act" x1="965" y1="390" x2="965" y2="135"/>
+  <text class="labelBlue" x="1035" y="345" text-anchor="middle">Activation</text>
+  <text class="labelBlue" x="1035" y="370" text-anchor="middle">energy</text>
+
+  <!-- labels -->
+  <text class="diag" x="1010" y="60">Average</text>
+  <text class="diag" x="1010" y="84">energy</text>
+  <text class="diag" x="1010" y="108">of products</text>
+
+  <text class="diag" transform="rotate(-63 760 310)" x="760" y="310">Average energy of reactants</text>
+</svg>

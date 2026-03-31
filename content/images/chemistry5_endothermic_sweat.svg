@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="260" viewBox="0 0 920 260">
+  <style>
+    .box { fill: #f7f7f7; stroke: #333; stroke-width: 2; }
+    .arrow { stroke: #333; stroke-width: 3; fill: none; marker-end: url(#arrowhead); }
+    .energy { fill: #eef7ff; stroke: #2b6cb0; stroke-width: 2; }
+    .main { font-family: Arial, Helvetica, sans-serif; font-size: 24px; fill: #111; font-weight: bold; }
+    .sub { font-family: Arial, Helvetica, sans-serif; font-size: 18px; fill: #444; }
+    .energytext { font-family: Arial, Helvetica, sans-serif; font-size: 21px; fill: #1f4e79; font-weight: bold; }
+  </style>
+
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <polygon points="0,0 10,5 0,10" fill="#333"/>
+    </marker>
+    <marker id="arrowheadBlue" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <polygon points="0,0 10,5 0,10" fill="#2b6cb0"/>
+    </marker>
+  </defs>
+
+  <!-- Left box -->
+  <rect class="box" x="40" y="70" width="300" height="95" rx="14" ry="14"/>
+  <text class="main" x="190" y="105" text-anchor="middle">Sweat (liquid)</text>
+  <text class="sub" x="190" y="135" text-anchor="middle">on skin</text>
+
+  <!-- Main arrow -->
+  <line class="arrow" x1="350" y1="115" x2="600" y2="115"/>
+
+  <!-- Right box -->
+  <rect class="box" x="620" y="70" width="260" height="95" rx="14" ry="14"/>
+  <text class="main" x="750" y="105" text-anchor="middle">Water vapour</text>
+  <text class="sub" x="750" y="135" text-anchor="middle">(in air)</text>
+
+  <!-- Energy in -->
+  <line class="arrow" x1="480" y1="210" x2="480" y2="135" marker-end="url(#arrowheadBlue)"/>
+  <rect class="energy" x="340" y="175" width="280" height="45" rx="14" ry="14"/>
+  <text class="energytext" x="480" y="203" text-anchor="middle">Heat taken from skin</text>
+</svg>

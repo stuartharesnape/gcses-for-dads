@@ -12,7 +12,8 @@ You don’t need to memorise these straight away. Just get familiar with what th
 
 | Quantity | Formula | Meaning |
 |----------|---------|---------|
-| Rate of reaction | rate = amount of product ÷ time | How fast a reaction happens |
+| Rate of reaction | rate = Quantity of products formed / time taken (s) | How fast a reaction happens |
+| Rate of reaction | Quantity of reactants used / time taken (s) | How fast a reaction happens |
 | Collision theory | no fixed formula | Particles must collide correctly |
 | Reversible reactions | ⇌ | Reaction can go both ways |
 | Equilibrium | no fixed formula | Forward = backward rate |
@@ -55,6 +56,9 @@ Examples:
 - Gas produced per second  
 - Mass lost per second  
 
+<!-- insertion for chemistry6_rate_of_reaction_graphs.svg -->
+![Rate of reaction graphs](../images/chemistry6_rate_of_reaction_graphs.svg)
+
 ---
 
 ## 3. Collision Theory
@@ -73,30 +77,37 @@ Key idea:
 
 ## 4. Factors Affecting Rate
 
+Key idea:
+
+- Reaction rate increases when:
+  - Particles have more energy  
+  - There are more particles in the same space  
+
 Temperature:
 
 - Higher temperature → particles move faster  
-- More frequent and energetic collisions  
+- Collisions are more energetic  
+- More successful collisions → faster reaction  
 
 Concentration (solutions):
 
-- More particles in same space  
-- More collisions  
+- More particles in the same space  
+- More collisions → faster reaction  
 
 Pressure (gases):
 
-- Particles closer together  
-- More collisions  
+- Particles forced closer together  
+- More collisions → faster reaction  
 
 Surface area:
 
 - Smaller pieces → more exposed area  
-- More collisions  
+- More collisions → faster reaction  
 
 Catalysts:
 
 - Lower activation energy  
-- Increase successful collisions  
+- More collisions are successful → faster reaction  
 
 ---
 
@@ -111,9 +122,10 @@ Shown as:
 
 - ⇌  
 
-Example:
+Example: Copper Sulfate
 
-- Hydrated copper sulfate ⇌ anhydrous copper sulfate + water  
+<!-- insertion for chemistry6_hydrated_copper_sulfate_reversible.svg -->
+![Hydrated copper sulfate reversible reaction](../images/chemistry6_hydrated_copper_sulfate_reversible.svg)
 
 ---
 
@@ -132,39 +144,22 @@ Key idea:
 - Concentrations stay constant  
 - Reactions are still happening  
 
----
+##### The “dynamic” bit (this is what people miss)
 
-## 7. Le Chatelier’s Principle (Higher Tier concept, but useful)
+It’s not static like “nothing is happening”
 
-If conditions change, the system adjusts to reduce the effect.
+It’s more like:
 
-Changes include:
+- molecules breaking apart
+- molecules reforming
 
-- Temperature  
-- Pressure  
-- Concentration  
+…all the time. Just perfectly balanced.
 
-Example:
-
-- Increase pressure → shifts to side with fewer gas molecules  
+Everything is still reacting, it’s just cancelling itself out. That’s it.
 
 ---
 
-## 8. Required Practical (Typical GCSE)
-
-Students often measure rate by:
-
-- Gas collection  
-- Mass loss  
-- Colour change  
-
-Key idea:
-
-- Plot results on a graph  
-
----
-
-## 9. Check Your Understanding
+## 7. Check Your Understanding
 
 - What does rate measure? ( how fast a reaction happens )  
 - What must happen for a reaction to occur? ( successful collisions )  
@@ -172,15 +167,44 @@ Key idea:
 - What is a reversible reaction? ( goes both directions )  
 - What happens at equilibrium? ( forward rate = backward rate )  
 
+## 8. Real World Examples
+
+Striking a match:
+
+- Friction provides energy  
+- Raises temperature quickly  
+- Reaction starts instantly  
+
+Fireworks:
+
+- Very fine powders → huge surface area  
+- Reactions happen extremely fast  
+- Energy released quickly (light, sound, heat)  
+
+Rusting on a car wheel:
+
+- Reaction between iron, oxygen and water  
+- Happens very slowly  
+- Low temperature and low energy → slow rate  
+
+Cooking food:
+
+- Heat increases particle energy  
+- Reactions happen faster  
+- Food changes texture and colour  
+
+Fuel burning in an engine:
+
+- Fuel is mixed with oxygen and compressed  
+- High temperature and pressure  
+- Very fast reaction releases energy  
+
 ---
 
-## 10. Useful Videos
+## 9. Useful Videos
 
-- Cognito – Rates of Reaction  
-https://www.youtube.com/watch?v=1g0RkZ4Q2tA  
+[Rates of Reaction](https://youtu.be/HaQm4pNMZug?si=KV6MsXURS5P6SQgm)  
 
-- Cognito – Collision Theory  
-https://www.youtube.com/watch?v=5y7s4g1H8xQ  
+[Collision Theory](https://youtu.be/JK7yPzO9POU?si=1YmK5O9EvA2LURI6)
 
-- Cognito – Equilibrium  
-https://www.youtube.com/watch?v=3k5p6f9R2yM  
+[Reverseable Reactions & Dynamic Equilibrium](https://youtu.be/5rC6f_P_A48?si=EvHOPu-9ueCPFeJV)

@@ -1,0 +1,50 @@
+<!-- chemistry6_rate_of_reaction_graphs.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="360" viewBox="0 0 980 360">
+  <style>
+    .axis { stroke: #222; stroke-width: 3; }
+    .curve1 { fill: none; stroke: #000; stroke-width: 5; }
+    .curve2 { fill: none; stroke: #000; stroke-width: 5; stroke-dasharray: 8 6; }
+    .label { font: 700 22px Arial, sans-serif; fill: #111; }
+    .axis-text { font: 700 22px Arial, sans-serif; fill: #222; }
+    .small { font: 700 18px Arial, sans-serif; fill: #444; }
+    .number { font: 700 22px Arial, sans-serif; fill: #000; }
+  </style>
+
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="7" refY="5" orient="auto">
+      <polygon points="0,0 10,5 0,10" fill="#222"/>
+    </marker>
+  </defs>
+
+  <!-- Left graph -->
+  <line x1="110" y1="290" x2="420" y2="290" class="axis" marker-end="url(#arrowhead)"/>
+  <line x1="110" y1="290" x2="110" y2="45" class="axis" marker-end="url(#arrowhead)"/>
+
+  <path d="M110,55
+           C118,120 155,200 220,250
+           C270,278 325,288 390,290" class="curve1"/>
+
+   <line x1="92" y1="68" x2="108" y2="68" stroke="#000" stroke-width="3"/>
+
+  <text x="28" y="150" class="label">Mass of</text>
+  <text x="28" y="180" class="label">reactant</text>
+  <text x="28" y="210" class="label">remaining</text>
+
+  <text x="220" y="328" text-anchor="middle" class="axis-text">Time (s)</text>
+
+  <!-- Right graph -->
+  <line x1="560" y1="290" x2="870" y2="290" class="axis" marker-end="url(#arrowhead)"/>
+  <line x1="560" y1="290" x2="560" y2="45" class="axis" marker-end="url(#arrowhead)"/>
+
+  <path d="M560,290
+           C585,290 615,265 650,220
+           C695,160 745,130 810,130
+           C835,130 848,130 860,130" class="curve2"/>
+
+  <text x="505" y="175" class="label">Volume of</text>
+  <text x="505" y="205" class="label">product</text>
+  <text x="505" y="235" class="label">produced</text>
+
+  <text x="548" y="310" class="number">0</text>
+  <text x="670" y="328" text-anchor="middle" class="axis-text">Time (s)</text>
+</svg>
