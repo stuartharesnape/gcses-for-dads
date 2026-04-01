@@ -26,6 +26,9 @@ You don’t need to memorise these straight away. Just get familiar with what th
 | A | Mass number | no unit |
 | Ar | Relative atomic mass | no unit |
 
+There is no point in me printing a period table here. There are thousands available. I like this interactive one
+
+https://inl.gov/periodic-table/
 ---
 
 # Chemistry 1: Atomic Structure and the Periodic Table
@@ -138,7 +141,37 @@ Examples:
 
 ---
 
-## 6. Isotopes
+## 6. Groups You Must Know (GCSE Core)
+
+These are the three groups that come up again and again.
+
+Group 1 (alkali metals):
+
+- Lose 1 electron → form +1 ions  
+- Very reactive  
+- Reactivity increases down the group  
+
+Group 7 (halogens):
+
+- Gain 1 electron → form -1 ions  
+- Reactive non-metals  
+- Reactivity decreases down the group  
+
+Group 0 (noble gases):
+
+- Full outer shell  
+- Very unreactive  
+- Exist as single atoms  
+
+#### The key idea (this is the line to remember)
+
+- Group 1 loses  
+- Group 7 gains  
+- Group 0 does nothing  
+
+---
+
+## 7. Isotopes
 
 Isotopes are atoms of the same element with different numbers of neutrons.
 
@@ -175,6 +208,7 @@ Lithium exists as two main versions:
 - Lithium-7 → 3 protons, 4 neutrons  
 
 The number on top ≈ 7  
+
 - That “7” is **not Lithium-7 specifically**  
 - It means most lithium atoms are around mass 7  
 
@@ -188,16 +222,15 @@ The versions are called isotopes.
 - Different number of neutrons (than the other isotopes) = different isotope  
 - Isotopes are like a subset of elements. 
 
+#### One-line version (for exams)
 
-## One-line version (for exams)
-
-- Isotopes are atoms of the same element with the same number of protons but the number of neutrons differs in each Isotope.
+- Isotopes are atoms of the same element with the same number of protons but the number of neutrons differs in each isotope.
 
 What a headache. Anyway, you're doing great, grab a beer. 
 
 ---
 
-## 7. Development of the Periodic Table
+## 8. Development of the Periodic Table
 
 Early scientists tried to organise elements by properties.
 
@@ -214,20 +247,23 @@ Modern periodic table:
 
 ---
 
-## 8. Check Your Understanding
+## 9. Check Your Understanding
 
 - What is the charge of a proton? ( +1 )  
 - Which particle has almost no mass? ( electron )  
 - What is atomic number? ( number of protons )  
 - What is the outer shell responsible for? ( chemical reactions )  
 - What is an isotope? ( same element, different neutrons )  
+- Which group contains the alkali metals? ( Group 1 )  
+- Which group contains the halogens? ( Group 7 )  
+- Which group is very unreactive? ( Group 0 )  
 
 ---
 
-## 9. Useful Videos
+## 10. Useful Videos
 
 - [Atomic Structure](https://youtu.be/GTpo1nAZqFE?si=sas08r1QnP1GJayL)  
 
-- [The Periodic Table ](https://youtu.be/GTpo1nAZqFE?si=sas08r1QnP1GJayL) 
+- [The Periodic Table](https://youtu.be/NVnnIjUbXNQ?si=rRuXmgDTherAi-Of) 
 
-- [Isotopes](https://youtu.be/GTpo1nAZqFE?si=l_n4wTu8JAjJBGXT)
+- [Isotopes](https://youtu.be/GTpo1nAZqFE?si=l_n4wTu8JAjJBGXT)  

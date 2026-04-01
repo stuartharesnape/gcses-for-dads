@@ -59,6 +59,39 @@ The type of bonding controls the properties of a substance
 
 ---
 
+## Before we go anywhere else I'm going to change your life (in as far as understanding the periodic table goes)
+
+You will read about bonding in a minute. What we know from chapter 1 is that there are shells around the atom. The shells contain electrons. 
+
+This following bit will explain the simple rules on how to read these from the periodic table and how to calculate what will happen. 
+
+
+## The Simplest Way to Read the Periodic Table
+
+Firstly, 
+- Periods (rows in the table) just mean how many shells (rings on the diagram) there are. It's worth remembering this.
+- Groups (columns) just means how many electrons are in the outer shell
+
+Read that twice, or until you get it because that is a big clue. Then...
+
+- The main rule
+    - If an atom has one shell, it’s full at 2. 
+    - If it has more shells, the outer one is full at 8. 
+    - Say it with me. First shell 2, every other shell 8. Not very catchy but whatevs  
+
+- So you have to fill the shells like this. 2 then next one is 8 then the one after is 8 until you get to one that isn't full.  
+
+- If the outer shell isn't 8 (or 2 in the case of only one shell) it will react which just means it bonds with another atom.   
+
+- Then if it will react, just take the easiest route to a complete shell (add or remove electrons)  
+
+So...
+
+- If the outer shell is 1,2 or 3 you need to remove electrons.  
+- If it's 5,6 or 7 then you need to add electrons.  
+- (If it's 4 then it usually shares, so just park that for now)
+
+
 ## 2. Ionic Bonding
 
 Ionic bonding happens between metals and non-metals.
