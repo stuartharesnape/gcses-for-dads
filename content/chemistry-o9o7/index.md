@@ -14,6 +14,7 @@ Pick a subject and begin with the first chapter. Work in short bursts and focus 
 
 Choose a topic:
 
+- [Chemistry 0: How to Read the Periodic Table](chemistry0_how-to-read-the-periodic-table.md)  
 - [Chemistry 1: Atomic Structure and the Periodic Table](chemistry1_atomic-structure-and-periodic-table.md)  
 - [Chemistry 2: Bonding, Structure and the Properties of Matter](chemistry2_bonding-structure-and-properties.md)  
 - [Chemistry 3: Quantitative Chemistry](chemistry3_quantitative-chemistry.md)  

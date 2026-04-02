@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- filename: chemistry0_atomic-number-15-example.svg -->
+
+<svg
+   width="900"
+   height="420"
+   viewBox="0 0 900 420"
+   version="1.1"
+   id="svg464"
+   sodipodi:docname="chemistry0_atomic-number-15-example.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview466"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.4377778"
+     inkscape:cx="450"
+     inkscape:cy="210.04637"
+     inkscape:window-width="2560"
+     inkscape:window-height="1374"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg464" />
+  <style
+     id="style371">
+    text { font-family: Arial, Helvetica, sans-serif; fill: #111; }
+    .title { font-size: 20px; font-weight: 700; }
+    .label { font-size: 14px; }
+    .small { font-size: 13px; }
+    .symbol { font-size: 22px; font-weight: 700; text-anchor: middle; }
+    .num { font-size: 11px; }
+    .name { font-size: 11px; }
+    .atom { stroke: #111; stroke-width: 2; fill: none; }
+    .nucleus { fill: #111; }
+    .electron { fill: #111; }
+    .arrow { stroke: #111; stroke-width: 2; marker-end: url(#arrowhead); }
+  </style>
+  <defs
+     id="defs376">
+    <marker
+       id="arrowhead"
+       markerWidth="10"
+       markerHeight="7"
+       refX="10"
+       refY="3.5"
+       orient="auto">
+      <polygon
+         points="0 0, 10 3.5, 0 7"
+         fill="#111"
+         id="polygon373" />
+    </marker>
+  </defs>
+  <text
+     x="40"
+     y="40"
+     class="title"
+     id="text380">Phosphorus | Atomic number 15 | Group (Column) 5 Period (Row) 3</text>
+  <!-- Phosphorus element box -->
+  <rect
+     x="40"
+     y="140"
+     width="90"
+     height="90"
+     stroke="#111"
+     stroke-width="2"
+     fill="white"
+     id="rect382" />
+  <text
+     x="50"
+     y="155"
+     class="num"
+     id="text384">15</text>
+  <text
+     x="85"
+     y="190"
+     class="symbol"
+     id="text386">P</text>
+  <text
+     x="60"
+     y="220"
+     class="name"
+     id="text388">Phosphorus</text>
+  <!-- Before -->
+  <text
+     x="180"
+     y="90"
+     class="label"
+     id="text390">2,8,5</text>
+  <circle
+     cx="260"
+     cy="200"
+     r="6"
+     class="nucleus"
+     id="circle392" />
+  <circle
+     cx="260"
+     cy="200"
+     r="30"
+     class="atom"
+     id="circle394" />
+  <circle
+     cx="260"
+     cy="200"
+     r="55"
+     class="atom"
+     id="circle396" />
+  <circle
+     cx="260"
+     cy="200"
+     r="80"
+     class="atom"
+     id="circle398" />
+  <!-- electrons -->
+  <!-- shell 1 -->
+  <circle
+     cx="290"
+     cy="200"
+     r="4"
+     class="electron"
+     id="circle400" />
+  <circle
+     cx="230"
+     cy="200"
+     r="4"
+     class="electron"
+     id="circle402" />
+  <!-- shell 2 -->
+  <circle
+     cx="315"
+     cy="200"
+     r="4"
+     class="electron"
+     id="circle404" />
+  <circle
+     cx="295"
+     cy="240"
+     r="4"
+     class="electron"
+     id="circle406" />
+  <circle
+     cx="260"
+     cy="255"
+     r="4"
+     class="electron"
+     id="circle408" />
+  <circle
+     cx="225"
+     cy="240"
+     r="4"
+     class="electron"
+     id="circle410" />
+  <circle
+     cx="205"
+     cy="200"
+     r="4"
+     class="electron"
+     id="circle412" />
+  <circle
+     cx="225"
+     cy="160"
+     r="4"
+     class="electron"
+     id="circle414" />
+  <circle
+     cx="260"
+     cy="145"
+     r="4"
+     class="electron"
+     id="circle416" />
+  <circle
+     cx="295"
+     cy="160"
+     r="4"
+     class="electron"
+     id="circle418" />
+  <!-- shell 3 (5 electrons) -->
+  <circle
+     cx="206"
+     cy="140"
+     r="4"
+     class="electron"
+     id="circle420" />
+  <circle
+     cx="310"
+     cy="260"
+     r="4"
+     class="electron"
+     id="circle422" />
+  <circle
+     cx="260"
+     cy="281"
+     r="4"
+     class="electron"
+     id="circle424" />
+  <circle
+     cx="210"
+     cy="260"
+     r="4"
+     class="electron"
+     id="circle426" />
+  <circle
+     cx="180"
+     cy="200"
+     r="4"
+     class="electron"
+     id="circle428" />
+  <text
+     x="180"
+     y="320"
+     class="small"
+     id="text430">Outer shell not full</text>
+  <!-- Arrow -->
+  <line
+     x1="350"
+     y1="200"
+     x2="500"
+     y2="200"
+     class="arrow"
+     id="line432" />
+  <!-- After -->
+  <text
+     x="518"
+     y="90"
+     class="label"
+     id="text434">2,8,8</text>
+  <circle
+     cx="600"
+     cy="200"
+     r="6"
+     class="nucleus"
+     id="circle436" />
+  <circle
+     cx="600"
+     cy="200"
+     r="30"
+     class="atom"
+     id="circle438" />
+  <circle
+     cx="600"
+     cy="200"
+     r="55"
+     class="atom"
+     id="circle440" />
+  <circle
+     cx="600"
+     cy="200"
+     r="80"
+     class="atom"
+     id="circle442" />
+  <!-- electrons full outer shell -->
+  <circle
+     cx="630"
+     cy="200"
+     r="4"
+     class="electron"
+     id="circle444" />
+  <circle
+     cx="600"
+     cy="256"
+     r="4"
+     class="electron"
+     id="circle446" />
+  <circle
+     cx="600"
+     cy="281"
+     r="4"
+     class="electron"
+     id="circle448" />
+  <circle
+     cx="569.62286"
+     cy="199.85782"
+     r="4"
+     class="electron"
+     id="circle448-3"
+     style="fill:#111111" />
+  <circle
+     cx="545.62286"
+     cy="199.85782"
+     r="4"
+     class="electron"
+     id="circle448-3-6"
+     style="fill:#111111" />
+  <circle
+     cx="599.62286"
+     cy="145.85782"
+     r="4"
+     class="electron"
+     id="circle448-3-6-7"
+     style="fill:#111111" />
+  <circle
+     cx="653.62286"
+     cy="199.85782"
+     r="4"
+     class="electron"
+     id="circle448-3-6-7-5"
+     style="fill:#111111" />
+  <circle
+     cx="639.62286"
+     cy="161.85782"
+     r="4"
+     class="electron"
+     id="circle448-3-6-7-5-3"
+     style="fill:#111111" />
+  <circle
+     cx="561.62286"
+     cy="161.85782"
+     r="4"
+     class="electron"
+     id="circle448-3-6-7-5-3-5"
+     style="fill:#111111" />
+  <circle
+     cx="561.62286"
+     cy="239.85782"
+     r="4"
+     class="electron"
+     id="circle448-3-6-7-5-3-5-6"
+     style="fill:#111111" />
+  <circle
+     cx="641.62286"
+     cy="235.85782"
+     r="4"
+     class="electron"
+     id="circle448-3-6-7-5-3-5-6-2"
+     style="fill:#111111" />
+  <circle
+     cx="661.17468"
+     cy="251.43121"
+     r="4"
+     class="electron"
+     id="circle448-3-6-7-5-3-5-6-2-9-1"
+     style="fill:#111111" />
+  <circle
+     cx="544"
+     cy="258"
+     r="4"
+     class="electron"
+     id="circle450" />
+  <circle
+     cx="520"
+     cy="200"
+     r="4"
+     class="electron"
+     id="circle452" />
+  <circle
+     cx="548"
+     cy="140"
+     r="4"
+     class="electron"
+     id="circle454" />
+  <text
+     x="540"
+     y="320"
+     class="small"
+     id="text460">Full shell</text>
+  <text
+     x="540"
+     y="340"
+     class="small"
+     id="text462">Gained 3 electrons</text>
+  <text
+     xml:space="preserve"
+     style="font-size:25.3548px;fill:#ff0000;stroke-width:2.1129"
+     x="594.26459"
+     y="125.78278"
+     id="text792"><tspan
+       sodipodi:role="line"
+       id="tspan790"
+       x="594.26459"
+       y="125.78278"
+       style="stroke-width:2.1129;fill:#ff0000">x</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:25.3548px;font-family:Arial, Helvetica, sans-serif;fill:#ff0000;stroke-width:2.1129"
+     x="649.01526"
+     y="148.4968"
+     id="text792-2"><tspan
+       sodipodi:role="line"
+       id="tspan790-7"
+       x="649.01526"
+       y="148.4968"
+       style="stroke-width:2.1129;fill:#ff0000">x</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:25.3548px;font-family:Arial, Helvetica, sans-serif;fill:#ff0000;stroke-width:2.1129"
+     x="675.01526"
+     y="206.4968"
+     id="text792-2-0"><tspan
+       sodipodi:role="line"
+       id="tspan790-7-9"
+       x="675.01526"
+       y="206.4968"
+       style="stroke-width:2.1129;fill:#ff0000">x</tspan></text>
+</svg>

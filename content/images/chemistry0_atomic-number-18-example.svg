@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- filename: chemistry0_atomic-number-18-example.svg -->
+
+<svg
+   width="900"
+   height="420"
+   viewBox="0 0 900 420"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text { font-family: Arial, Helvetica, sans-serif; fill: #111; }
+    .title { font-size: 20px; font-weight: 700; }
+    .label { font-size: 14px; }
+    .small { font-size: 13px; }
+    .symbol { font-size: 22px; font-weight: 700; text-anchor: middle; }
+    .num { font-size: 11px; }
+    .name { font-size: 11px; }
+    .atom { stroke: #111; stroke-width: 2; fill: none; }
+    .nucleus { fill: #111; }
+    .electron { fill: #111; }
+  </style>
+
+  <rect x="0" y="0" width="900" height="420" fill="white"/>
+
+  <text x="40" y="40" class="title">Argon | Atomic number 18 | Group (Column) 0 Period (Row) 3</text>
+
+  <!-- Argon element box -->
+  <rect x="40" y="140" width="90" height="90" stroke="#111" stroke-width="2" fill="white"/>
+  <text x="50" y="155" class="num">18</text>
+  <text x="85" y="190" class="symbol">Ar</text>
+  <text x="60" y="220" class="name">Argon</text>
+
+  <!-- Configuration -->
+  <text x="200" y="90" class="label">2,8,8</text>
+
+  <!-- Atom -->
+  <circle cx="360" cy="200" r="6" class="nucleus"/>
+  <circle cx="360" cy="200" r="30" class="atom"/>
+  <circle cx="360" cy="200" r="55" class="atom"/>
+  <circle cx="360" cy="200" r="80" class="atom"/>
+
+  <!-- electrons -->
+  <!-- shell 1 -->
+  <circle cx="390" cy="200" r="4" class="electron"/>
+  <circle cx="330" cy="200" r="4" class="electron"/>
+
+  <!-- shell 2 -->
+  <circle cx="415" cy="200" r="4" class="electron"/>
+  <circle cx="395" cy="240" r="4" class="electron"/>
+  <circle cx="360" cy="255" r="4" class="electron"/>
+  <circle cx="325" cy="240" r="4" class="electron"/>
+  <circle cx="305" cy="200" r="4" class="electron"/>
+  <circle cx="325" cy="160" r="4" class="electron"/>
+  <circle cx="360" cy="145" r="4" class="electron"/>
+  <circle cx="395" cy="160" r="4" class="electron"/>
+
+  <!-- shell 3 -->
+  <circle cx="440" cy="200" r="4" class="electron"/>
+  <circle cx="410" cy="260" r="4" class="electron"/>
+  <circle cx="360" cy="285" r="4" class="electron"/>
+  <circle cx="310" cy="260" r="4" class="electron"/>
+  <circle cx="280" cy="200" r="4" class="electron"/>
+  <circle cx="310" cy="140" r="4" class="electron"/>
+  <circle cx="360" cy="115" r="4" class="electron"/>
+  <circle cx="410" cy="140" r="4" class="electron"/>
+
+  <!-- Notes -->
+  <text x="260" y="320" class="small">Outer shell is full</text>
+  <text x="250" y="350" class="small">Already full</text>
+  <text x="250" y="375" class="small">Does nothing</text>
+
+</svg>

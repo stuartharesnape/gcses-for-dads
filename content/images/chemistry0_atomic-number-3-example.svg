@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- filename: chemistry0_atomic-number-3-example.svg -->
+
+<svg
+   width="900"
+   height="420"
+   viewBox="0 0 900 420"
+   version="1.1"
+   id="svg53"
+   sodipodi:docname="chemistry0_atomic-number-3-example.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview55"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.4377778"
+     inkscape:cx="450"
+     inkscape:cy="210.04637"
+     inkscape:window-width="2560"
+     inkscape:window-height="1374"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg53" />
+  <style
+     id="style2">
+    text { font-family: Arial, Helvetica, sans-serif; fill: #111; }
+    .title { font-size: 20px; font-weight: 700; }
+    .label { font-size: 14px; }
+    .small { font-size: 13px; }
+    .symbol { font-size: 22px; font-weight: 700; text-anchor: middle; }
+    .num { font-size: 11px; }
+    .name { font-size: 11px; }
+    .atom { stroke: #111; stroke-width: 2; fill: none; }
+    .nucleus { fill: #111; }
+    .electron { fill: #111; }
+    .arrow { stroke: #111; stroke-width: 2; marker-end: url(#arrowhead); }
+  </style>
+  <defs
+     id="defs7">
+    <marker
+       id="arrowhead"
+       markerWidth="10"
+       markerHeight="7"
+       refX="10"
+       refY="3.5"
+       orient="auto">
+      <polygon
+         points="0 0, 10 3.5, 0 7"
+         fill="#111"
+         id="polygon4" />
+    </marker>
+  </defs>
+  <text
+     x="40"
+     y="40"
+     class="title"
+     id="text11">Lithium | Atomic number 3 | Group (Column) 1 Period (Row) 2</text>
+  <!-- Lithium element box -->
+  <rect
+     x="40"
+     y="140"
+     width="90"
+     height="90"
+     stroke="#111"
+     stroke-width="2"
+     fill="white"
+     id="rect13" />
+  <text
+     x="50"
+     y="155"
+     class="num"
+     id="text15">3</text>
+  <text
+     x="85"
+     y="190"
+     class="symbol"
+     id="text17">Li</text>
+  <text
+     x="55"
+     y="220"
+     class="name"
+     id="text19">Lithium</text>
+  <!-- Before -->
+  <text
+     x="180"
+     y="90"
+     class="label"
+     id="text21">2,1</text>
+  <circle
+     cx="260"
+     cy="200"
+     r="6"
+     class="nucleus"
+     id="circle23" />
+  <circle
+     cx="260"
+     cy="200"
+     r="35"
+     class="atom"
+     id="circle25" />
+  <circle
+     cx="260"
+     cy="200"
+     r="65"
+     class="atom"
+     id="circle27" />
+  <!-- electrons -->
+  <!-- inner shell -->
+  <circle
+     cx="295"
+     cy="200"
+     r="4"
+     class="electron"
+     id="circle29" />
+  <circle
+     cx="225"
+     cy="200"
+     r="4"
+     class="electron"
+     id="circle31" />
+  <!-- outer shell -->
+  <circle
+     cx="325"
+     cy="200"
+     r="4"
+     class="electron"
+     id="circle33" />
+  <text
+     x="190"
+     y="300"
+     class="small"
+     id="text35">Outer shell not full</text>
+  <!-- Arrow -->
+  <line
+     x1="348"
+     y1="200"
+     x2="488"
+     y2="200"
+     class="arrow"
+     id="line37" />
+  <!-- After -->
+  <text
+     x="452"
+     y="90"
+     class="label"
+     id="text39">2</text>
+  <circle
+     cx="542"
+     cy="200"
+     r="6"
+     class="nucleus"
+     id="circle41" />
+  <circle
+     cx="542"
+     cy="200"
+     r="35"
+     class="atom"
+     id="circle43" />
+  <!-- electrons -->
+  <circle
+     cx="577"
+     cy="200"
+     r="4"
+     class="electron"
+     id="circle45" />
+  <circle
+     cx="507"
+     cy="200"
+     r="4"
+     class="electron"
+     id="circle47" />
+  <text
+     x="502"
+     y="300"
+     class="small"
+     id="text49">Full shell</text>
+  <text
+     x="472"
+     y="330"
+     class="small"
+     id="text51">Loses 1 electron</text>
+</svg>
