@@ -1,4 +1,4 @@
-# GCSEs for Dads
+# GCSE Chemistry (Combined)
 
 Clear, simple GCSE revision for busy parents and families.
 
@@ -6,13 +6,9 @@ Built to work properly on phones, stay easy to update, and help people make stea
 
 ## Start here
 
-Pick a subject and begin with the first chapter. Work in short bursts and focus on understanding before memorising.
+Start at the beginning or jump to the topic you need. Work in short bursts and focus on understanding before memorising.
 
-## Available now
-
-### Chemistry
-
-Choose a topic:
+## Chapters
 
 - [Chemistry 0: How to Read the Periodic Table](chemistry0_how-to-read-the-periodic-table.md)  
 - [Chemistry 1: Atomic Structure and the Periodic Table](chemistry1_atomic-structure-and-periodic-table.md)  
@@ -26,6 +22,8 @@ Choose a topic:
 - [Chemistry 9: Chemistry of the Atmosphere](chemistry9_chemistry-of-the-atmosphere.md)  
 - [Chemistry 10: Using Resources](chemistry10_using-resources.md)  
 
+---
+
 ## How these guides work
 
 Each chapter is designed to be quick to scan and easy to revisit:
@@ -35,3 +33,8 @@ Each chapter is designed to be quick to scan and easy to revisit:
 - simple diagrams  
 - quick check-your-understanding questions  
 - links for extra support  
+
+---
+
+Get full access to all subjects:  
+https://payhip.com/gcsesfordads

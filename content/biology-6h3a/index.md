@@ -1,8 +1,12 @@
 # GCSE Biology (Combined)
 
-Start with the chapter you need.
+Clear, simple GCSE revision for busy parents and families.
 
----
+Designed to help you quickly understand topics so you can support homework and revision with confidence.
+
+## Start here
+
+Start at the beginning or jump to the topic you need. Focus on understanding first, then build from there.
 
 ## Chapters
 
@@ -15,3 +19,18 @@ Start with the chapter you need.
 - [Chapter 7: Ecology](biology7-ecology.md)
 
 ---
+
+## How these guides work
+
+Each chapter is built to be quick and practical:
+
+- a short big-picture summary  
+- clear explanations  
+- simple diagrams  
+- quick check-your-understanding questions  
+- links for extra support  
+
+---
+
+Get full access to all subjects:  
+https://payhip.com/gcsesfordads

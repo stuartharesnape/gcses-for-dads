@@ -1,4 +1,4 @@
-# GCSEs for Dads
+# GCSE Physics (Combined)
 
 Clear, simple GCSE revision for busy parents and families.
 
@@ -6,13 +6,9 @@ Built to work properly on phones, stay easy to update, and help people make stea
 
 ## Start here
 
-Pick a subject and begin with the first chapter. Work in short bursts and focus on understanding before memorising.
+Start at the beginning or jump to the topic you need. Work in short bursts and focus on understanding before memorising.
 
-## Available now
-
-### Physics
-
-Choose a topic:
+## Chapters
 
 - [Physics 1: Energy](physics-k7m4/physics1-energy.md)
 - [Physics 2: Electricity](physics-k7m4/physics2-electricity.md)
@@ -23,14 +19,19 @@ Choose a topic:
 - [Physics 7: Magnetism and Electromagnetism](physics-k7m4/physics7-magnetism-and-electromagnetism.md)
 - [Physics 8: Space Physics](physics-k7m4/physics8-space-physics.md)
 
+---
+
 ## How these guides work
 
 Each chapter is designed to be quick to scan and easy to revisit:
 
-- a short big-picture summary
-- clear explanations
-- simple diagrams
-- quick check-your-understanding questions
-- links for extra support
+- a short big-picture summary  
+- clear explanations  
+- simple diagrams  
+- quick check-your-understanding questions  
+- links for extra support  
 
+---
 
+Get full access to all subjects:  
+https://payhip.com/gcsesfordads
