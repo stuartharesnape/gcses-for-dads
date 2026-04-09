@@ -9,6 +9,7 @@ theme:
 
 nav:
   - Home: index.md
+  - Store: https://payhip.com/gcsesfordads
   - Free Examples:
       - Science (Combined): demo/index.md
 

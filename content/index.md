@@ -1,18 +1,27 @@
 # GCSEs for Dads (and Mums)
 
-Need to help with your child’s homework, but struggle to find the information quickly?
+Need to help with your child’s homework, but can’t quickly remember the topic?
 
-The information is out there, but it is often scattered, overcomplicated, or buried in content made for students rather than busy parents.
+The information is out there, but it’s scattered, overcomplicated, or takes too long to find when you need it.
 
 ![GCSEs for Dads](images/gcsesfordads-combined.png)
 
-**GCSEs for Dads cuts right through that.**
+**GCSEs for Dads cuts through that.**
 
-These are quick, clear topic guides designed to help you understand the gist fast.
+These are simple, clear topic guides designed to help you understand what matters in minutes.
 
-- In 5 to 10 minutes, you can get your head around a topic, feel confident, and be ready to help without digging through bloated textbooks or awkward PDFs
+- Understand the topic in 5 to 10 minutes  
+- Feel confident helping straight away  
+- No digging through textbooks or long videos  
 
 Built to work from any device, so you can get up to speed wherever you are.
+
+---
+
+## Get started
+
+Access all available courses here:  
+https://payhip.com/gcsesfordads
 
 ---
 
@@ -43,8 +52,8 @@ The course includes:
 - Space Physics  
 - Particle Model of Matter  
 
-Buy the full Physics course for £9:  
-[Buy GCSE Physics](https://payhip.com/b/edqIx)
+Get full access here:  
+https://payhip.com/gcsesfordads
 
 ---
 
@@ -63,8 +72,7 @@ The course includes:
 - Chemistry of the Atmosphere  
 - Using Resources  
 
-**Full Chemistry course coming shortly**  
-[View Chemistry Course](#)
+Full Chemistry course coming shortly  
 
 ---
 
@@ -80,8 +88,7 @@ The course includes:
 - Inheritance, Variation and Evolution  
 - Ecology  
 
-**Full Biology course coming shortly**  
-[View Biology Course](#)
+Full Biology course coming shortly  
 
 ---
 
@@ -95,6 +102,8 @@ Start here and see how it works:
 
 ![GCSEs for Dads](images/papersondesk.png)
 
+Used by parents who want to help without wasting time.
+
 ## Why did I build this?
 
 I kept finding that when you try to help your child with homework, the hardest part is not that the information does not exist.
@@ -107,7 +116,7 @@ I wanted something simpler. Something you could **read on your phone in 5 to 10 
 
 I found it frustrating that my son would guess his way through questions, and then we would have to spend time watching videos. A short piece of homework might take three times as long, or be left incomplete, and I was left scrabbling around trying to find the information quickly.
 
-Trying to get ahead, I would be sat in a dark car with textbooks and a phone trying to get the basics of Biology or Chemistry whilst he played football. It never really worked.
+Trying to get ahead, I would be sat in a dark car with textbooks and a phone trying to understand Biology or Chemistry while he played football. It never really worked.
 
 ![GCSEs for Dads](images/dadnexttopitch.png)
 
