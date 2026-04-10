@@ -4,7 +4,7 @@ Need to help with your child’s homework, but can’t quickly remember the topi
 
 The information is out there, but it’s scattered, overcomplicated, or takes too long to find when you need it.
 
-![GCSEs for Dads](images/gcsesfordads-combined.png)
+[![GCSEs for Dads](images/gcsesfordads-combined.png)](https://payhip.com/gcsesfordads)
 
 **GCSEs for Dads cuts through that.**
 
@@ -70,7 +70,7 @@ The course includes:
 - Chemistry of the Atmosphere  
 - Using Resources  
 
-Full Chemistry course coming shortly  
+[Get full access here](https://payhip.com/gcsesfordads)  
 
 ---
 
@@ -86,7 +86,7 @@ The course includes:
 - Inheritance, Variation and Evolution  
 - Ecology  
 
-Full Biology course coming shortly  
+[Get full access here](https://payhip.com/gcsesfordads)  
 
 ---
 
