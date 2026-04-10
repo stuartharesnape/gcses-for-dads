@@ -176,6 +176,8 @@ Used in:
 Example:
 - Oxygen moving into cells  
 
+![Diffusion across a membrane](../images/biology1_diffusion.svg)
+
 **Key idea:**  
 Particles spread out naturally.
 

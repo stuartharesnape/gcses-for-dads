@@ -26,9 +26,7 @@ You don’t need to memorise these straight away. Just get familiar with what th
 | A | Mass number | no unit |
 | Ar | Relative atomic mass | no unit |
 
-There is no point in me printing a period table here. There are thousands available. I like this interactive one
-
-https://inl.gov/periodic-table/
+![Periodic Table](../images/chemistry0_periodic_table_modern_gcse.svg)
 ---
 
 # Chemistry 1: Atomic Structure and the Periodic Table

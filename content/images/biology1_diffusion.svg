@@ -1,0 +1,58 @@
+<!-- filename: biology1_diffusion.svg -->
+<svg width="760" height="300" viewBox="0 0 760 300" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font: bold 24px Arial, sans-serif; fill: #111; }
+    .label { font: 18px Arial, sans-serif; fill: #111; }
+    .small { font: 15px Arial, sans-serif; fill: #333; }
+    .box { fill: none; stroke: #111; stroke-width: 2.5; }
+    .membrane { stroke: #111; stroke-width: 3; stroke-dasharray: 8 6; }
+    .particle { fill: #111; }
+    .arrow { stroke: #111; stroke-width: 2.5; fill: none; marker-end: url(#arrowhead); }
+  </style>
+
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="8" refX="8" refY="4" orient="auto">
+      <polygon points="0,0 10,4 0,8" fill="#111"/>
+    </marker>
+  </defs>
+
+  <text x="380" y="34" text-anchor="middle" class="title">Diffusion</text>
+
+  <!-- Main box -->
+  <rect x="80" y="60" width="600" height="180" rx="8" ry="8" class="box"/>
+
+  <!-- Membrane -->
+  <line x1="380" y1="60" x2="380" y2="240" class="membrane"/>
+  <text x="395" y="155" class="small">Partially permeable membrane</text>
+
+  <!-- Left side: high concentration -->
+  <text x="170" y="90" class="label">High concentration</text>
+
+  <circle cx="130" cy="125" r="7" class="particle"/>
+  <circle cx="165" cy="118" r="7" class="particle"/>
+  <circle cx="200" cy="132" r="7" class="particle"/>
+  <circle cx="235" cy="120" r="7" class="particle"/>
+  <circle cx="270" cy="135" r="7" class="particle"/>
+  <circle cx="145" cy="165" r="7" class="particle"/>
+  <circle cx="185" cy="175" r="7" class="particle"/>
+  <circle cx="225" cy="162" r="7" class="particle"/>
+  <circle cx="260" cy="178" r="7" class="particle"/>
+  <circle cx="155" cy="208" r="7" class="particle"/>
+  <circle cx="205" cy="218" r="7" class="particle"/>
+  <circle cx="250" cy="205" r="7" class="particle"/>
+
+  <!-- Right side: low concentration -->
+  <text x="500" y="90" class="label">Low concentration</text>
+
+  <circle cx="485" cy="135" r="7" class="particle"/>
+  <circle cx="545" cy="175" r="7" class="particle"/>
+  <circle cx="610" cy="210" r="7" class="particle"/>
+
+  <!-- Arrows showing net movement -->
+  <line x1="300" y1="135" x2="455" y2="135" class="arrow"/>
+  <line x1="285" y1="175" x2="470" y2="175" class="arrow"/>
+  <line x1="300" y1="210" x2="455" y2="210" class="arrow"/>
+
+  <!-- Bottom key idea -->
+  <text x="380" y="275" text-anchor="middle" class="label">Particles move from high concentration to low concentration</text>
+</svg>

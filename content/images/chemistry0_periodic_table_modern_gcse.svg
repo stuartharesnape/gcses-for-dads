@@ -2762,7 +2762,7 @@
      transform="rotate(-90,65.402408,379.61428)"><tspan
        x="48.823444"
        y="369.59744"
-       id="tspan2977">Periood (Rows)</tspan></text>
+       id="tspan2977">Periods (Rows)</tspan></text>
   <text
      xml:space="preserve"
      style="fill:#000000"
@@ -2772,5 +2772,5 @@
        sodipodi:role="line"
        id="tspan2450"
        x="576.73938"
-       y="112.85652">Groupss (Columns)</tspan></text>
+       y="112.85652">Groups (Columns)</tspan></text>
 </svg>
