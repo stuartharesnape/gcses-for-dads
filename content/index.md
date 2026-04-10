@@ -51,8 +51,7 @@ The course includes:
 - Space Physics  
 - Particle Model of Matter  
 
-Get full access here:  
-https://payhip.com/gcsesfordads
+[Get full access here](https://payhip.com/gcsesfordads) 
 
 ---
 
