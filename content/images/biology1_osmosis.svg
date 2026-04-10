@@ -1,0 +1,13 @@
+<!-- filename: biology1_osmosis.svg -->
+<svg width="520" height="220" viewBox="0 0 520 220" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .label { font: 14px Arial; fill: #111; }
+    .line { stroke: #111; stroke-width: 2; }
+  </style>
+  <line x1="260" y1="20" x2="260" y2="200" class="line"/>
+  <text x="150" y="30" class="label">Dilute</text>
+  <text x="320" y="30" class="label">Concentrated</text>
+  <line x1="200" y1="120" x2="320" y2="120" class="line"/>
+  <polygon points="320,120 300,110 300,130" fill="#111"/>
+  <text x="200" y="150" class="label">Water →</text>
+</svg>

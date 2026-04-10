@@ -1,198 +1,234 @@
-# GCSE Biology (Combined)  
-## Chapter 1: Cell Biology
+<!-- filename: biology1_cell-biology.md -->
+
+# GCSEs for Dads – Biology 1: Cell Biology
+
+You don’t need to memorise everything here.
+
+Get the core ideas clear first. That’s enough to help with most homework questions.
+
+Scroll down to start.
+
+---
+
+## Key Ideas
+
+| Quantity | Key Idea | Meaning |
+|----------|----------|---------|
+| Cell | Basic unit of life | Smallest part of a living organism |
+| Diffusion | High → low | Particles spread out naturally |
+| Osmosis | Water movement | Water moves across a membrane |
+| Active Transport | Low → high | Needs energy |
+| Mitosis | Identical cells | Used for growth and repair |
+
+---
+
+## Symbols and Units
+
+| Symbol | Meaning | Unit |
+|--------|--------|------|
+| mm | millimetre | mm |
+| μm | micrometre | μm |
+| nm | nanometre | nm |
+
+---
+
+# Biology 1: Cell Biology
 
 ---
 
 ## 1. The Big Idea (30 seconds)
 
+**Cells are the basic building blocks of all living things, and their structure is matched to their job.**
+
 - All living things are made of cells  
-- Cells are the basic building blocks of life  
-- Different cells have different structures depending on their job  
-- Cells come from pre-existing cells  
+- Cells specialise depending on their role  
+- Substances move in and out of cells constantly  
+- Cells divide to grow and repair  
+
+Think of it like this:  
+Different jobs need different tools. Cells are built the same way.
 
 ---
 
-## 2. Cell Types
+## 2. Animal and Plant Cells
 
-There are two main types of cells:
+There are two main types you need to know.
 
-**Animal cells**
+### Animal cells
+- No cell wall  
+- No chloroplasts  
+- Flexible shape  
 
-- Found in animals (including humans)  
-- Do not have a cell wall or chloroplasts  
+### Plant cells
+- Cell wall (rigid support)  
+- Chloroplasts (photosynthesis)  
+- Vacuole (keeps shape)
 
-**Plant cells**
-
-- Found in plants  
-- Have extra structures for support and photosynthesis  
-
----
-
-## 3. Animal Cell Structure
-
-- **Nucleus**  
-  - Contains genetic material (DNA)  
-  - Controls cell activities  
-
-- **Cytoplasm**  
-  - Where most chemical reactions happen  
-
-- **Cell membrane**  
-  - Controls what enters and leaves the cell  
-
-- **Mitochondria**  
-  - Where respiration happens  
-  - Releases energy  
-
-- **Ribosomes**  
-  - Site of protein synthesis  
+**Key idea:**  
+Plant cells are more structured because they need support.
 
 ---
 
-## 4. Plant Cell Structure
+## 3. Cell Structure (what actually matters)
 
-Plant cells contain everything an animal cell has, plus:
+Focus on the function, not just the name.
 
-- **Cell wall (cellulose)**  
-  - Strengthens the cell  
+- **Nucleus** → controls the cell, contains DNA  
+- **Cytoplasm** → where reactions happen  
+- **Cell membrane** → controls entry and exit  
+- **Mitochondria** → releases energy  
+- **Ribosomes** → make proteins  
 
-- **Chloroplasts**  
-  - Contain chlorophyll  
-  - Site of photosynthesis  
+Plant-only:
 
-- **Permanent vacuole**  
-  - Contains cell sap  
-  - Helps keep the cell rigid  
+- **Cell wall** → strength  
+- **Chloroplasts** → photosynthesis  
+- **Vacuole** → keeps cell rigid  
+
+#### Plant Cell
+
+![Plant cell](../images/biology1_plant_cell.svg)
+
+#### Animal Cell
+
+![Animal cell](../images/biology1_animal_cell.svg)
+
+**Key idea:**  
+If you know the job, you can work out the structure.
 
 ---
 
-## 5. Specialised Cells
+## 4. Specialised Cells
 
-Cells are adapted to do specific jobs.
-
-**Examples:**
+Cells are adapted for specific roles.
 
 - **Sperm cell**  
   - Tail for movement  
-  - Lots of mitochondria for energy  
+  - Lots of mitochondria  
 
-- **Nerve cell (neurone)**  
-  - Long structure to carry signals  
+- **Nerve cell**  
+  - Long to carry signals  
 
 - **Muscle cell**  
-  - Can contract to create movement  
+  - Contracts to create movement  
 
-- **Root hair cell (plant)**  
-  - Large surface area for absorbing water and minerals  
+- **Root hair cell**  
+  - Large surface area for absorption  
 
----
-
-## 6. Microscopes and Magnification
-
-- Microscopes allow us to see cells  
-- Two types:
-  - Light microscope  
-  - Electron microscope (much higher detail)  
-
-**Magnification formula:**
-
-Magnification = Image size ÷ Real size  
-
-Key idea:
-
-- Higher magnification does not always mean clearer image (resolution matters)  
+**Key idea:**  
+Structure matches function every time.
 
 ---
 
-## 7. Cell Division (Mitosis)
+## 5. Microscopes and Magnification
 
-- Cells divide to:
-  - Grow  
-  - Repair  
-  - Replace damaged cells  
+- Light microscope → basic detail  
+- Electron microscope → much higher detail  
 
-Process:
-
-- DNA is copied  
-- Cell splits into two identical cells  
-
-Key idea:
-
-- Mitosis produces **genetically identical** cells  
-
----
-
-## 8. Stem Cells
-
-- Stem cells can turn into different types of cells  
-
-Types:
-
-- **Embryonic stem cells**  
-  - Can become any cell type  
-
-- **Adult stem cells**  
-  - Limited range of cell types  
-
-Uses:
-
-- Potential to treat diseases (e.g. paralysis, diabetes)  
-
----
-
-## 9. Diffusion
-
-- Movement of particles from high concentration to low concentration  
-
-Key idea:
-
-- Passive process (no energy required)  
+**Magnification = image size ÷ real size**
 
 Example:
+- Image = 10 mm  
+- Real size = 0.01 mm  
+- Magnification = 1000  
 
-- Oxygen moving into cells from the blood  
-
----
-
-## 10. Osmosis
-
-- Movement of water across a partially permeable membrane  
-- From dilute solution to more concentrated solution  
-
-Key idea:
-
-- Only water moves  
+**Key idea:**  
+Magnification is not the same as clarity. That is resolution.
 
 ---
 
-## 11. Active Transport
+## 6. Mitosis (Cell Division)
 
-- Movement of substances from low to high concentration  
+Used for:
+- Growth  
+- Repair  
 
-Key idea:
+Process:
+- DNA copied  
+- Cell splits  
 
+Result:
+- Two identical cells  
+
+**Key idea:**  
+Mitosis produces identical cells.
+
+---
+
+## 7. Stem Cells
+
+- Can turn into other cell types  
+
+Types:
+- Embryonic → any cell  
+- Adult → limited range  
+
+Used in:
+- Potential treatments (e.g. damaged tissue)
+
+---
+
+## 8. Diffusion
+
+- Movement from high to low concentration  
+- No energy needed  
+
+Example:
+- Oxygen moving into cells  
+
+**Key idea:**  
+Particles spread out naturally.
+
+---
+
+## 9. Osmosis
+
+- Movement of water only  
+- Across a partially permeable membrane  
+- From dilute to concentrated  
+
+![Osmosis](../images/biology1_osmosis.svg)
+
+**Key idea:**  
+Water moves to where there is less water.
+
+---
+
+## 10. Active Transport
+
+- Movement from low to high concentration  
 - Requires energy  
 
 Example:
+- Plants absorbing minerals from soil  
 
-- Absorbing minerals from soil into root cells  
+**Key idea:**  
+This goes against the gradient, so it needs energy.
+
+---
+
+## Common Mistakes
+
+- Mixing up diffusion and osmosis (osmosis is water only)  
+- Forgetting active transport needs energy  
+- Thinking mitosis produces different cells  
+- Not linking structure to function  
 
 ---
 
 ## Check Your Understanding
 
-- What is the function of the nucleus? (Controls cell activities, contains DNA)  
-- Name one structure found only in plant cells (Cell wall / Chloroplast / Vacuole)  
-- What is diffusion? (Movement from high to low concentration)  
-- Which process requires energy: diffusion or active transport? (Active transport)  
+- What is the role of the nucleus? (Controls the cell and contains DNA)  
+- Name one structure only found in plant cells (Cell wall / chloroplast / vacuole)  
+- What direction does diffusion move? (High to low concentration)  
+- What moves in osmosis? (Water only)  
+- Why do specialised cells have different shapes? (To do specific jobs)  
 - What does mitosis produce? (Two identical cells)  
 
 ---
 
-## Watch (Cognito)
+## Useful Videos
 
-- https://www.youtube.com/watch?v=8IlzKri08kk  
-- https://www.youtube.com/watch?v=GZ9G2z0E7ZE  
-- https://www.youtube.com/watch?v=J0M2b3Zp2z8  
-
----
+- [Cells](https://youtu.be/qHkUOlC8Nbo?si=-kczW8h7cLPj7EMS)
+- [Differentiation and Specialised Cells](https://youtu.be/LNLz7mswPkQ?si=5PJ8ug--rFdRdfq7)
+- [Active Transport](https://youtu.be/tM0bGaaQ2jY?si=pQfwoUdMUbsccJVN)

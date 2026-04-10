@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- filename: biology1_plant_cell.svg -->
+
+<svg
+   width="560"
+   height="380"
+   viewBox="0 0 560 380"
+   version="1.1"
+   id="svg42"
+   sodipodi:docname="biology1_plant_cell.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs46">
+    <rect
+       x="56.164306"
+       y="146.7754"
+       width="7.4805706"
+       height="47.288945"
+       id="rect318" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview44"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.3107143"
+     inkscape:cx="280"
+     inkscape:cy="189.98454"
+     inkscape:window-width="2560"
+     inkscape:window-height="1414"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg42" />
+  <style
+     id="style2">
+    .label { font: 14px Arial, sans-serif; fill: #111; }
+    .line { stroke: #111; stroke-width: 2; }
+    .wall { fill: none; stroke: #111; stroke-width: 3; }
+    .membrane { fill: none; stroke: #111; stroke-width: 2; }
+    .org { fill: none; stroke: #111; stroke-width: 2; }
+  </style>
+  <!-- Cell wall -->
+  <rect
+     x="90"
+     y="60"
+     width="360"
+     height="240"
+     class="wall"
+     id="rect4" />
+  <!-- Cell membrane -->
+  <rect
+     x="110"
+     y="80"
+     width="320"
+     height="200"
+     class="membrane"
+     id="rect6" />
+  <!-- Nucleus -->
+  <circle
+     cx="170"
+     cy="135"
+     r="28"
+     class="org"
+     id="circle8" />
+  <line
+     x1="195"
+     y1="125"
+     x2="285"
+     y2="95"
+     class="line"
+     id="line10" />
+  <text
+     x="290"
+     y="100"
+     class="label"
+     id="text12">Nucleus</text>
+  <!-- Vacuole -->
+  <rect
+     x="245"
+     y="125"
+     width="125"
+     height="95"
+     class="org"
+     id="rect14" />
+  <line
+     x1="370"
+     y1="172"
+     x2="455"
+     y2="172"
+     class="line"
+     id="line16" />
+  <text
+     x="460"
+     y="177"
+     class="label"
+     id="text18">Vacuole</text>
+  <!-- Chloroplasts -->
+  <ellipse
+     cx="165"
+     cy="225"
+     rx="16"
+     ry="11"
+     class="org"
+     id="ellipse20" />
+  <ellipse
+     cx="210"
+     cy="225"
+     rx="16"
+     ry="11"
+     class="org"
+     id="ellipse22" />
+  <ellipse
+     cx="190"
+     cy="255"
+     rx="16"
+     ry="11"
+     class="org"
+     id="ellipse24" />
+  <line
+     x1="201.01009"
+     y1="267.71024"
+     x2="286.0101"
+     y2="307.71024"
+     class="line"
+     id="line26" />
+  <text
+     x="289.44809"
+     y="316.13058"
+     class="label"
+     id="text28"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:normal;font-family:Arial, sans-serif">Chloroplasts</text>
+  <!-- Cytoplasm -->
+  <line
+     x1="135.97656"
+     y1="259.58066"
+     x2="50.976559"
+     y2="314.58066"
+     class="line"
+     id="line30" />
+  <text
+     x="21.170109"
+     y="329.34424"
+     class="label"
+     id="text32"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:normal;font-family:Arial, sans-serif">Cytoplasm</text>
+  <!-- Cell membrane label -->
+  <line
+     x1="109.96434"
+     y1="90.222099"
+     x2="33.669094"
+     y2="96.607704"
+     class="line"
+     id="line34" />
+  <text
+     x="5"
+     y="100"
+     class="label"
+     id="text36"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:normal;font-family:Arial, sans-serif"><tspan
+       sodipodi:role="line"
+       id="tspan310"
+       x="5"
+       y="100">Cell</tspan><tspan
+       sodipodi:role="line"
+       x="5"
+       y="117.5"
+       id="tspan314">membrane</tspan></text>
+  <!-- Cell wall label -->
+  <line
+     x1="90"
+     y1="70"
+     x2="25"
+     y2="35"
+     class="line"
+     id="line38" />
+  <text
+     x="5"
+     y="30"
+     class="label"
+     id="text40">Cell wall</text>
+  <text
+     xml:space="preserve"
+     id="text316"
+     style="fill:#000000;white-space:pre;shape-inside:url(#rect318)" />
+</svg>
