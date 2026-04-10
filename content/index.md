@@ -20,8 +20,7 @@ Built to work from any device, so you can get up to speed wherever you are.
 
 ## Get started
 
-Access all available courses here:  
-https://payhip.com/gcsesfordads
+[Access all available courses here](https://payhip.com/gcsesfordads)
 
 ---
 
@@ -96,7 +95,7 @@ Full Biology course coming shortly
 
 Start here and see how it works:
 
-- [Sample Lessons](demo/index.md)
+[Sample Lessons](demo/index.md)
 
 ---
 
@@ -119,6 +118,7 @@ I found it frustrating that my son would guess his way through questions, and th
 Trying to get ahead, I would be sat in a dark car with textbooks and a phone trying to understand Biology or Chemistry while he played football. It never really worked.
 
 ![GCSEs for Dads](images/dadnexttopitch.png)
+
 
 Even finding short educational videos can be hit and miss, often involving time spent searching, only to land on a set of slides with a teacher reading them out.
 
