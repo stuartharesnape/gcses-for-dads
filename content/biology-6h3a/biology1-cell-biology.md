@@ -139,15 +139,18 @@ Magnification is not the same as clarity. That is resolution.
 
 ## 6. Mitosis (Cell Division)
 
-Used for:
+Used for
+
 - Growth  
 - Repair  
 
-Process:
+Process
+
 - DNA copied  
 - Cell splits  
 
-Result:
+Result
+
 - Two identical cells  
 
 **Key idea:**  
@@ -159,11 +162,13 @@ Mitosis produces identical cells.
 
 - Can turn into other cell types  
 
-Types:
+Types
+
 - Embryonic → any cell  
 - Adult → limited range  
 
-Used in:
+Used in
+
 - Potential treatments (e.g. damaged tissue)
 
 ---
