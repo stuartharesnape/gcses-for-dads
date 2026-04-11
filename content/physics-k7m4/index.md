@@ -10,14 +10,14 @@ Start at the beginning or jump to the topic you need. Work in short bursts and f
 
 ## Chapters
 
-- [Physics 1: Energy](physics-k7m4/physics1-energy.md)
-- [Physics 2: Electricity](physics-k7m4/physics2-electricity.md)
-- [Physics 3: Particle Model of Matter](physics-k7m4/physics3-particle-model-of-matter.md)
-- [Physics 4: Atomic Structure and Radiation](physics-k7m4/physics4-atomic-structure-and-radiation.md)
-- [Physics 5: Forces](physics-k7m4/physics5-forces.md)
-- [Physics 6: Waves](physics-k7m4/physics6-waves.md)
-- [Physics 7: Magnetism and Electromagnetism](physics-k7m4/physics7-magnetism-and-electromagnetism.md)
-- [Physics 8: Space Physics](physics-k7m4/physics8-space-physics.md)
+- [Physics 1: Energy](physics1-energy.md)
+- [Physics 2: Electricity](physics2-electricity.md)
+- [Physics 3: Particle Model of Matter](physics3-particle-model-of-matter.md)
+- [Physics 4: Atomic Structure and Radiation](physics4-atomic-structure-and-radiation.md)
+- [Physics 5: Forces](physics5-forces.md)
+- [Physics 6: Waves](physics6-waves.md)
+- [Physics 7: Magnetism and Electromagnetism](physics7-magnetism-and-electromagnetism.md)
+- [Physics 8: Space Physics](physics8-space-physics.md)
 
 ---
 
