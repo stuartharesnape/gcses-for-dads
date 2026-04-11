@@ -1,60 +1,223 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520">
-  <defs>
-    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
-      <path d="M0,0 L10,5 L0,10 Z" fill="#2c3e50"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- filename: physics1_contact_and_non_contact_forces.svg -->
+
+<svg
+   width="980"
+   height="420"
+   viewBox="0 0 980 420"
+   version="1.1"
+   id="svg55"
+   sodipodi:docname="physics5_contact_noncontact_forces.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview57"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.3204082"
+     inkscape:cx="490"
+     inkscape:cy="209.78362"
+     inkscape:window-width="2560"
+     inkscape:window-height="1374"
+     inkscape:window-x="2560"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg55" />
+  <style
+     id="style2">
+    .title { font: bold 28px Arial, sans-serif; fill: #222; }
+    .heading { font: bold 22px Arial, sans-serif; fill: #222; }
+    .label { font: 18px Arial, sans-serif; fill: #222; }
+    .small { font: 16px Arial, sans-serif; fill: #333; }
+    .line { stroke: #333; stroke-width: 2.5; fill: none; }
+    .thick { stroke: #333; stroke-width: 3.5; fill: none; }
+    .box { fill: none; stroke: #333; stroke-width: 2.5; }
+    .panel { fill: none; stroke: #333; stroke-width: 2.5; }
+    .arrow { stroke: #333; stroke-width: 3; fill: none; marker-end: url(#arrowhead); }
+    .ground { stroke: #333; stroke-width: 3; }
+    .earth { fill: none; stroke: #333; stroke-width: 2.5; }
+    .land { fill: #ddd; stroke: #333; stroke-width: 1.5; }
+  </style>
+  <defs
+     id="defs7">
+    <marker
+       id="arrowhead"
+       markerWidth="10"
+       markerHeight="10"
+       refX="8"
+       refY="5"
+       orient="auto">
+      <path
+         d="M0,0 L10,5 L0,10 Z"
+         fill="#333"
+         id="path4" />
     </marker>
-    <style>
-      .title { font: 700 28px Arial, sans-serif; fill: #1f2937; }
-      .subtitle { font: 700 20px Arial, sans-serif; fill: #1f2937; }
-      .label { font: 16px Arial, sans-serif; fill: #1f2937; }
-      .small { font: 14px Arial, sans-serif; fill: #374151; }
-      .panel { fill: #f8fafc; stroke: #cbd5e1; stroke-width: 2; rx: 18; }
-      .box { fill: #dbeafe; stroke: #2563eb; stroke-width: 2; }
-      .floor { stroke: #6b7280; stroke-width: 4; }
-      .earth { fill: #93c5fd; stroke: #2563eb; stroke-width: 2; }
-      .land { fill: #34d399; }
-      .arrow { stroke: #2c3e50; stroke-width: 4; marker-end: url(#arrow); fill: none; }
-      .support { stroke: #059669; stroke-width: 4; marker-end: url(#arrow); fill: none; }
-      .weight { stroke: #dc2626; stroke-width: 4; marker-end: url(#arrow); fill: none; }
-      .push { stroke: #2563eb; stroke-width: 4; marker-end: url(#arrow); fill: none; }
-      .friction { stroke: #ea580c; stroke-width: 4; marker-end: url(#arrow); fill: none; }
-    </style>
   </defs>
-
-  <text x="500" y="40" text-anchor="middle" class="title">Contact and Non-contact Forces</text>
-
-  <rect x="40" y="70" width="430" height="400" class="panel"/>
-  <rect x="530" y="70" width="430" height="400" class="panel"/>
-
-  <text x="255" y="105" text-anchor="middle" class="subtitle">Contact forces</text>
-  <line x1="100" y1="350" x2="410" y2="350" class="floor"/>
-  <rect x="180" y="270" width="120" height="80" rx="8" class="box"/>
-
-  <line x1="110" y1="310" x2="170" y2="310" class="push"/>
-  <text x="78" y="303" class="label">push</text>
-
-  <line x1="370" y1="310" x2="310" y2="310" class="friction"/>
-  <text x="373" y="303" class="label">friction</text>
-
-  <line x1="240" y1="230" x2="240" y2="265" class="weight"/>
-  <text x="252" y="228" class="label">weight</text>
-
-  <line x1="240" y1="390" x2="240" y2="355" class="support"/>
-  <text x="252" y="405" class="label">support force</text>
-
-  <circle cx="95" cy="305" r="22" fill="#fde68a" stroke="#d97706" stroke-width="2"/>
-  <rect x="74" y="317" width="38" height="20" rx="8" fill="#fde68a" stroke="#d97706" stroke-width="2"/>
-
-  <text x="255" y="435" text-anchor="middle" class="small">Objects touch, so the forces are contact forces.</text>
-
-  <text x="745" y="105" text-anchor="middle" class="subtitle">Non-contact forces</text>
-  <circle cx="745" cy="360" r="95" class="earth"/>
-  <path d="M690 340 C720 300, 760 310, 790 335 C770 355, 735 362, 700 355 Z" class="land"/>
-  <path d="M760 385 C785 365, 815 373, 830 395 C800 410, 775 410, 760 385 Z" class="land"/>
-
-  <circle cx="745" cy="180" r="28" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
-  <line x1="745" y1="215" x2="745" y2="255" class="weight"/>
-  <text x="760" y="240" class="label">gravity</text>
-
-  <text x="745" y="435" text-anchor="middle" class="small">Gravity acts at a distance without touching.</text>
+  <text
+     x="490"
+     y="36"
+     text-anchor="middle"
+     class="title"
+     id="text9">Contact and Non-contact Forces</text>
+  <!-- Left panel -->
+  <rect
+     x="40"
+     y="70"
+     width="420"
+     height="300"
+     class="panel"
+     id="rect11" />
+  <text
+     x="250"
+     y="102"
+     text-anchor="middle"
+     class="heading"
+     id="text13">Contact forces</text>
+  <!-- Ground -->
+  <line
+     x1="100"
+     y1="280"
+     x2="400"
+     y2="280"
+     class="ground"
+     id="line15" />
+  <!-- Box -->
+  <rect
+     x="190"
+     y="200"
+     width="120"
+     height="80"
+     class="box"
+     id="rect17" />
+  <!-- Push -->
+  <line
+     x1="120"
+     y1="240"
+     x2="180"
+     y2="240"
+     class="arrow"
+     id="line19" />
+  <text
+     x="138"
+     y="234"
+     text-anchor="end"
+     class="label"
+     id="text21"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:normal;font-family:Arial, sans-serif">push</text>
+  <!-- Friction -->
+  <line
+     x1="380"
+     y1="240"
+     x2="320"
+     y2="240"
+     class="arrow"
+     id="line23" />
+  <text
+     x="364"
+     y="234"
+     class="label"
+     id="text25"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:normal;font-family:Arial, sans-serif">friction</text>
+  <!-- Weight -->
+  <line
+     x1="250"
+     y1="145"
+     x2="250"
+     y2="192"
+     class="arrow"
+     id="line27" />
+  <text
+     x="264"
+     y="164"
+     class="label"
+     id="text29">weight</text>
+  <!-- Support -->
+  <line
+     x1="250"
+     y1="330"
+     x2="250"
+     y2="288"
+     class="arrow"
+     id="line31" />
+  <text
+     x="268"
+     y="304"
+     class="label"
+     id="text33"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:normal;font-family:Arial, sans-serif">support force</text>
+  <text
+     x="250"
+     y="345"
+     text-anchor="middle"
+     class="small"
+     id="text35">
+    Contact forces happen when objects touch.
+  </text>
+  <!-- Right panel -->
+  <rect
+     x="520"
+     y="70"
+     width="420"
+     height="300"
+     class="panel"
+     id="rect37" />
+  <text
+     x="730"
+     y="102"
+     text-anchor="middle"
+     class="heading"
+     id="text39">Non-contact forces</text>
+  <!-- Earth -->
+  <circle
+     cx="731.08966"
+     cy="254.95332"
+     class="earth"
+     id="circle41"
+     r="57.761219" />
+  <path
+     d="M680 255            C700 235, 735 236, 760 252            C742 268, 710 272, 680 255 Z"
+     class="land"
+     id="path43" />
+  <path
+     d="m 743.20614,278.07712 c 25,-13 55,-6 67,16 -26,9 -54,5 -67,-16 z"
+     class="land"
+     id="path45" />
+  <!-- Object above Earth -->
+  <circle
+     cx="730"
+     cy="155"
+     r="18"
+     class="line"
+     id="circle47" />
+  <!-- Gravity arrow -->
+  <line
+     x1="730"
+     y1="174"
+     x2="730"
+     y2="226"
+     class="arrow"
+     id="line49" />
+  <text
+     x="762"
+     y="190"
+     class="label"
+     id="text51"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:normal;font-family:Arial, sans-serif">gravity</text>
+  <text
+     x="730"
+     y="345"
+     text-anchor="middle"
+     class="small"
+     id="text53">
+    Gravity acts at a distance without touching.
+  </text>
 </svg>

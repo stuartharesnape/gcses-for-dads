@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- filename: biology2_digestive_system.svg -->
+
+<svg
+   width="720"
+   height="520"
+   viewBox="0 0 720 520"
+   version="1.1"
+   id="svg43"
+   sodipodi:docname="biology2_digestive_system.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview45"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.7972222"
+     inkscape:cx="360"
+     inkscape:cy="259.84544"
+     inkscape:window-width="2560"
+     inkscape:window-height="1374"
+     inkscape:window-x="2560"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg43" />
+  <style
+     id="style2">
+    .organ { fill: none; stroke: #111; stroke-width: 3; }
+    .label { font: 18px Arial, sans-serif; fill: #111; }
+    .small { font: 15px Arial, sans-serif; fill: #333; }
+    .line { stroke: #111; stroke-width: 2.5; }
+    .arrow { stroke: #111; stroke-width: 2.5; fill: none; marker-end: url(#arrow); }
+  </style>
+  <defs
+     id="defs7">
+    <marker
+       id="arrow"
+       markerWidth="10"
+       markerHeight="10"
+       refX="8"
+       refY="5"
+       orient="auto">
+      <polygon
+         points="0,0 10,5 0,10"
+         fill="#111"
+         id="polygon4" />
+    </marker>
+  </defs>
+  <!-- Mouth -->
+  <ellipse
+     cx="360"
+     cy="60"
+     rx="30"
+     ry="15"
+     class="organ"
+     id="ellipse9" />
+  <text
+     x="335.18335"
+     y="66.69857"
+     class="label"
+     id="text11"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:normal;font-family:Arial, sans-serif">Mouth</text>
+  <!-- Oesophagus -->
+  <line
+     x1="360"
+     y1="75"
+     x2="360"
+     y2="150"
+     class="organ"
+     id="line13" />
+  <text
+     x="377.41769"
+     y="130.0899"
+     class="label"
+     id="text15"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:normal;font-family:Arial, sans-serif">Oesophagus</text>
+  <!-- Stomach -->
+  <path
+     d="M340 150 C420 150, 430 240, 360 260 C300 270, 280 210, 300 170 C310 155, 320 150, 340 150 Z"
+     class="organ"
+     id="path17" />
+  <text
+     x="322.95877"
+     y="215.58931"
+     class="label"
+     id="text19"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:normal;font-family:Arial, sans-serif">Stomach</text>
+  <!-- Liver -->
+  <ellipse
+     cx="250"
+     cy="180"
+     rx="55"
+     ry="30"
+     class="organ"
+     id="ellipse21" />
+  <text
+     x="222.02179"
+     y="187.1467"
+     class="label"
+     id="text23"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:normal;font-family:Arial, sans-serif">Liver</text>
+  <!-- Pancreas -->
+  <ellipse
+     cx="250"
+     cy="240"
+     rx="45"
+     ry="15"
+     class="organ"
+     id="ellipse25" />
+  <text
+     x="210.20172"
+     y="243.88724"
+     class="label"
+     id="text27"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:normal;font-family:Arial, sans-serif">Pancreas</text>
+  <!-- Small intestine (coiled) -->
+  <path
+     d="M320 290            C280 300, 280 350, 320 360            C380 380, 440 360, 420 320            C400 290, 350 290, 320 290 Z"
+     class="organ"
+     id="path29" />
+  <text
+     x="296.7485"
+     y="334.95087"
+     class="label"
+     id="text31"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:normal;font-family:Arial, sans-serif">Small intestine</text>
+  <!-- Large intestine (outer loop) -->
+  <rect
+     x="280"
+     y="270"
+     width="180"
+     height="130"
+     class="organ"
+     id="rect33" />
+  <text
+     x="335.31653"
+     y="393.45984"
+     class="label"
+     id="text35"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:normal;font-family:Arial, sans-serif">Large intestine</text>
+  <!-- Flow arrows -->
+  <line
+     x1="360"
+     y1="90"
+     x2="360"
+     y2="140"
+     class="arrow"
+     id="line37" />
+  <line
+     x1="360"
+     y1="260"
+     x2="360"
+     y2="290"
+     class="arrow"
+     id="line39" />
+  <!-- Key idea -->
+  <text
+     x="366.1749"
+     y="430.00323"
+     text-anchor="middle"
+     class="label"
+     id="text41"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:normal;font-family:Arial, sans-serif"><tspan
+       sodipodi:role="line"
+       id="tspan307"
+       x="366.1749"
+       y="430.00323">Food moves through the digestive</tspan><tspan
+       sodipodi:role="line"
+       id="tspan309"
+       x="366.1749"
+       y="452.50323">system and is broken down and absorbed</tspan></text>
+</svg>

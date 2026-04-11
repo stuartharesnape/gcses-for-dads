@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- filename: biology2_double_circulation.svg -->
+
+<svg
+   width="820"
+   height="320"
+   viewBox="0 0 820 320"
+   version="1.1"
+   id="svg41"
+   sodipodi:docname="biology2_double_circulation.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview43"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.5780488"
+     inkscape:cx="410"
+     inkscape:cy="159.69088"
+     inkscape:window-width="2560"
+     inkscape:window-height="1374"
+     inkscape:window-x="2560"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg41" />
+  <style
+     id="style2">
+    .box { fill: none; stroke: #111; stroke-width: 2.5; rx: 12; ry: 12; }
+    .label { font: 18px Arial, sans-serif; fill: #111; }
+    .small { font: 15px Arial, sans-serif; fill: #333; }
+    .arrow { stroke: #111; stroke-width: 2.5; fill: none; marker-end: url(#arrow); }
+  </style>
+  <defs
+     id="defs7">
+    <marker
+       id="arrow"
+       markerWidth="10"
+       markerHeight="10"
+       refX="8"
+       refY="5"
+       orient="auto">
+      <polygon
+         points="0,0 10,5 0,10"
+         fill="#111"
+         id="polygon4" />
+    </marker>
+  </defs>
+  <rect
+     x="70"
+     y="110"
+     width="140"
+     height="80"
+     class="box"
+     id="rect9" />
+  <text
+     x="140"
+     y="145"
+     text-anchor="middle"
+     class="label"
+     id="text11">Heart</text>
+  <rect
+     x="340"
+     y="45"
+     width="140"
+     height="80"
+     class="box"
+     id="rect13" />
+  <text
+     x="410"
+     y="80"
+     text-anchor="middle"
+     class="label"
+     id="text15">Lungs</text>
+  <text
+     x="410"
+     y="102"
+     text-anchor="middle"
+     class="small"
+     id="text17">gas exchange</text>
+  <rect
+     x="340"
+     y="195"
+     width="140"
+     height="80"
+     class="box"
+     id="rect19" />
+  <text
+     x="410"
+     y="230"
+     text-anchor="middle"
+     class="label"
+     id="text21">Body</text>
+  <text
+     x="410"
+     y="252"
+     text-anchor="middle"
+     class="small"
+     id="text23">cells and organs</text>
+  <line
+     x1="210"
+     y1="125"
+     x2="340"
+     y2="85"
+     class="arrow"
+     id="line25" />
+  <text
+     x="221.46848"
+     y="99.653526"
+     class="small"
+     id="text27"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:normal;font-family:Arial, sans-serif">to lungs</text>
+  <line
+     x1="340"
+     y1="125"
+     x2="210"
+     y2="175"
+     class="arrow"
+     id="line29" />
+  <text
+     x="312.40924"
+     y="148.03085"
+     class="small"
+     id="text31"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:normal;font-family:Arial, sans-serif">back to heart</text>
+  <line
+     x1="210"
+     y1="175"
+     x2="340"
+     y2="215"
+     class="arrow"
+     id="line33" />
+  <text
+     x="280.86145"
+     y="191.58083"
+     class="small"
+     id="text35"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:normal;font-family:Arial, sans-serif">to body</text>
+  <line
+     x1="340"
+     y1="255"
+     x2="210"
+     y2="205"
+     class="arrow"
+     id="line37" />
+  <text
+     x="246.54443"
+     y="269.0567"
+     class="small"
+     id="text39"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:normal;font-family:Arial, sans-serif">back to heart</text>
+</svg>

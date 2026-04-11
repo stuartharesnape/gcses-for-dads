@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- filename: biology2_plant_transport.svg -->
+
+<svg
+   width="620"
+   height="420"
+   viewBox="0 0 620 420"
+   version="1.1"
+   id="svg39"
+   sodipodi:docname="biology2_plant_transport.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview41"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.0870968"
+     inkscape:cx="310"
+     inkscape:cy="209.8609"
+     inkscape:window-width="2560"
+     inkscape:window-height="1374"
+     inkscape:window-x="2560"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg39" />
+  <style
+     id="style2">
+    .line { stroke: #111; stroke-width: 2.5; fill: none; }
+    .label { font: 18px Arial, sans-serif; fill: #111; }
+    .small { font: 15px Arial, sans-serif; fill: #333; }
+    .arrow { stroke: #111; stroke-width: 2.5; fill: none; marker-end: url(#arrow); }
+  </style>
+  <defs
+     id="defs7">
+    <marker
+       id="arrow"
+       markerWidth="10"
+       markerHeight="10"
+       refX="8"
+       refY="5"
+       orient="auto">
+      <polygon
+         points="0,0 10,5 0,10"
+         fill="#111"
+         id="polygon4" />
+    </marker>
+  </defs>
+  <line
+     x1="310"
+     y1="110"
+     x2="310"
+     y2="320"
+     class="line"
+     id="line9" />
+  <ellipse
+     cx="250"
+     cy="90"
+     rx="70"
+     ry="30"
+     class="line"
+     id="ellipse11" />
+  <ellipse
+     cx="370"
+     cy="90"
+     rx="70"
+     ry="30"
+     class="line"
+     id="ellipse13" />
+  <line
+     x1="310"
+     y1="320"
+     x2="270"
+     y2="390"
+     class="line"
+     id="line15" />
+  <line
+     x1="310"
+     y1="320"
+     x2="350"
+     y2="390"
+     class="line"
+     id="line17" />
+  <line
+     x1="310"
+     y1="320"
+     x2="220"
+     y2="390"
+     class="line"
+     id="line19" />
+  <line
+     x1="310"
+     y1="320"
+     x2="400"
+     y2="390"
+     class="line"
+     id="line21" />
+  <line
+     x1="285"
+     y1="310"
+     x2="285"
+     y2="140"
+     class="arrow"
+     id="line23" />
+  <text
+     x="180"
+     y="210"
+     class="label"
+     id="text25">Xylem</text>
+  <text
+     x="169.97884"
+     y="230.97713"
+     class="small"
+     id="text27"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:normal;font-family:Arial, sans-serif"><tspan
+       sodipodi:role="line"
+       id="tspan303"
+       x="169.97884"
+       y="230.97713">water and</tspan><tspan
+       sodipodi:role="line"
+       id="tspan305"
+       x="169.97884"
+       y="249.72713">minerals up</tspan></text>
+  <line
+     x1="335"
+     y1="140"
+     x2="335"
+     y2="310"
+     class="arrow"
+     id="line29" />
+  <text
+     x="390"
+     y="210"
+     class="label"
+     id="text31">Phloem</text>
+  <text
+     x="378.16495"
+     y="230.59302"
+     class="small"
+     id="text33"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:normal;font-family:Arial, sans-serif"><tspan
+       sodipodi:role="line"
+       id="tspan307"
+       x="378.16495"
+       y="230.59302">sugars around</tspan><tspan
+       sodipodi:role="line"
+       id="tspan309"
+       x="378.16495"
+       y="249.34302">plant</tspan></text>
+  <text
+     x="255"
+     y="35"
+     class="label"
+     id="text35">Leaves</text>
+  <text
+     x="298"
+     y="410"
+     class="label"
+     id="text37">Roots</text>
+</svg>
