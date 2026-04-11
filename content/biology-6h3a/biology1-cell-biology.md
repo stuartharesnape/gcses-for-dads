@@ -102,17 +102,17 @@ If you know the job, you can work out the structure.
 
 Cells are adapted for specific roles.
 
-- **Sperm cell**  
+**Sperm cell**  
   - Tail for movement  
   - Lots of mitochondria  
 
-- **Nerve cell**  
+**Nerve cell**  
   - Long to carry signals  
 
-- **Muscle cell**  
+**Muscle cell**  
   - Contracts to create movement  
 
-- **Root hair cell**  
+**Root hair cell**  
   - Large surface area for absorption  
 
 **Key idea:**  
@@ -127,12 +127,14 @@ Structure matches function every time.
 
 **Magnification = image size ÷ real size**
 
-Example:
+Example
+
 - Image = 10 mm  
 - Real size = 0.01 mm  
 - Magnification = 1000  
 
 **Key idea:**  
+
 Magnification is not the same as clarity. That is resolution.
 
 ---
