@@ -1,6 +1,39 @@
-<svg width="900" height="520" viewBox="0 0 900 520" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="900"
+   height="520"
+   viewBox="0 0 900 520"
+   version="1.1"
+   id="svg105"
+   sodipodi:docname="parallel-house-circuits.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview107"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.4377778"
+     inkscape:cx="450"
+     inkscape:cy="260.12365"
+     inkscape:window-width="2560"
+     inkscape:window-height="1374"
+     inkscape:window-x="2560"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg105" />
+  <defs
+     id="defs7">
+    <style
+       id="style2">
       .title { font: bold 28px Arial, sans-serif; fill: #111; }
       .label { font: 20px Arial, sans-serif; fill: #111; }
       .small { font: 17px Arial, sans-serif; fill: #111; }
@@ -11,74 +44,338 @@
       .good { fill: #0a7a0a; font: bold 18px Arial, sans-serif; }
       .bad { fill: #b00020; font: bold 18px Arial, sans-serif; }
     </style>
-    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
-      <path d="M0,0 L10,5 L0,10 Z" fill="#111"/>
+    <marker
+       id="arrow"
+       markerWidth="10"
+       markerHeight="10"
+       refX="8"
+       refY="5"
+       orient="auto">
+      <path
+         d="M0,0 L10,5 L0,10 Z"
+         fill="#111"
+         id="path4" />
     </marker>
   </defs>
-
-  <text x="450" y="40" text-anchor="middle" class="title">Why House Circuits Are Wired in Parallel</text>
-
+  <text
+     x="450"
+     y="40"
+     text-anchor="middle"
+     class="title"
+     id="text9">Why House Circuits Are Wired in Parallel</text>
   <!-- Supply rails -->
-  <line x1="120" y1="90" x2="120" y2="390" class="wire"/>
-  <line x1="780" y1="90" x2="780" y2="390" class="wire"/>
-
+  <line
+     x1="120"
+     y1="90"
+     x2="120"
+     y2="390"
+     class="wire"
+     id="line11" />
+  <line
+     x1="780"
+     y1="90"
+     x2="780"
+     y2="390"
+     class="wire"
+     id="line13" />
   <!-- Top and bottom connectors -->
-  <line x1="120" y1="90" x2="780" y2="90" class="wire"/>
-  <line x1="120" y1="390" x2="780" y2="390" class="wire"/>
-
+  <line
+     x1="120"
+     y1="90"
+     x2="780"
+     y2="90"
+     class="wire"
+     id="line15" />
+  <line
+     x1="120"
+     y1="390"
+     x2="780"
+     y2="390"
+     class="wire"
+     id="line17" />
   <!-- AC supply -->
-  <circle cx="70" cy="240" r="32" stroke="#111" stroke-width="3" fill="white"/>
-  <text x="70" y="247" text-anchor="middle" class="label">AC</text>
-  <line x1="102" y1="240" x2="120" y2="240" class="wire"/>
-  <text x="35" y="292" class="small">230 V</text>
-
+  <circle
+     cx="70"
+     cy="240"
+     r="32"
+     stroke="#111"
+     stroke-width="3"
+     fill="white"
+     id="circle19" />
+  <text
+     x="70"
+     y="247"
+     text-anchor="middle"
+     class="label"
+     id="text21">AC</text>
+  <line
+     x1="102"
+     y1="240"
+     x2="120"
+     y2="240"
+     class="wire"
+     id="line23" />
+  <text
+     x="35"
+     y="292"
+     class="small"
+     id="text25">230 V</text>
   <!-- Branch 1 -->
-  <line x1="120" y1="150" x2="250" y2="150" class="wire"/>
-  <line x1="650" y1="150" x2="780" y2="150" class="wire"/>
-  <line x1="250" y1="150" x2="290" y2="150" class="switch"/>
-  <line x1="290" y1="150" x2="315" y2="135" class="switch"/>
-  <circle cx="320" cy="150" r="4" fill="#111"/>
-  <rect x="340" y="125" width="180" height="50" class="device"/>
-  <text x="430" y="157" text-anchor="middle" class="label">Lamp</text>
-  <line x1="520" y1="150" x2="650" y2="150" class="wire"/>
-  <text x="210" y="135" class="small">Switch</text>
-  <text x="355" y="110" class="good">Full voltage across lamp</text>
-
+  <line
+     x1="120"
+     y1="150"
+     x2="250"
+     y2="150"
+     class="wire"
+     id="line27" />
+  <line
+     x1="650"
+     y1="150"
+     x2="780"
+     y2="150"
+     class="wire"
+     id="line29" />
+  <line
+     x1="250"
+     y1="150"
+     x2="290"
+     y2="150"
+     class="switch"
+     id="line31" />
+  <line
+     x1="290"
+     y1="150"
+     x2="315"
+     y2="135"
+     class="switch"
+     id="line33" />
+  <circle
+     cx="320"
+     cy="150"
+     r="4"
+     fill="#111"
+     id="circle35" />
+  <rect
+     x="340"
+     y="125"
+     width="180"
+     height="50"
+     class="device"
+     id="rect37" />
+  <text
+     x="430"
+     y="157"
+     text-anchor="middle"
+     class="label"
+     id="text39">Lamp</text>
+  <line
+     x1="520"
+     y1="150"
+     x2="650"
+     y2="150"
+     class="wire"
+     id="line41" />
+  <text
+     x="210"
+     y="135"
+     class="small"
+     id="text43">Switch</text>
+  <text
+     x="355"
+     y="110"
+     class="good"
+     id="text45">Full voltage across lamp</text>
   <!-- Branch 2 -->
-  <line x1="120" y1="240" x2="250" y2="240" class="wire"/>
-  <line x1="650" y1="240" x2="780" y2="240" class="wire"/>
-  <line x1="250" y1="240" x2="290" y2="240" class="switch"/>
-  <line x1="290" y1="240" x2="315" y2="225" class="switch"/>
-  <circle cx="320" cy="240" r="4" fill="#111"/>
-  <rect x="340" y="215" width="180" height="50" class="device"/>
-  <text x="430" y="247" text-anchor="middle" class="label">TV</text>
-  <line x1="520" y1="240" x2="650" y2="240" class="wire"/>
-  <text x="210" y="225" class="small">Switch</text>
-  <text x="550" y="228" class="good">Works independently</text>
-
+  <line
+     x1="120"
+     y1="240"
+     x2="250"
+     y2="240"
+     class="wire"
+     id="line47" />
+  <line
+     x1="650"
+     y1="240"
+     x2="780"
+     y2="240"
+     class="wire"
+     id="line49" />
+  <line
+     x1="250"
+     y1="240"
+     x2="290"
+     y2="240"
+     class="switch"
+     id="line51" />
+  <line
+     x1="290"
+     y1="240"
+     x2="315"
+     y2="225"
+     class="switch"
+     id="line53" />
+  <circle
+     cx="320"
+     cy="240"
+     r="4"
+     fill="#111"
+     id="circle55" />
+  <rect
+     x="340"
+     y="215"
+     width="180"
+     height="50"
+     class="device"
+     id="rect57" />
+  <text
+     x="430"
+     y="247"
+     text-anchor="middle"
+     class="label"
+     id="text59">TV</text>
+  <line
+     x1="520"
+     y1="240"
+     x2="650"
+     y2="240"
+     class="wire"
+     id="line61" />
+  <text
+     x="210"
+     y="225"
+     class="small"
+     id="text63">Switch</text>
+  <text
+     x="550"
+     y="228"
+     class="good"
+     id="text65">Works independently</text>
   <!-- Branch 3 broken -->
-  <line x1="120" y1="330" x2="250" y2="330" class="wire"/>
-  <line x1="650" y1="330" x2="780" y2="330" class="wire"/>
-  <line x1="250" y1="330" x2="290" y2="330" class="switch"/>
-  <line x1="290" y1="330" x2="315" y2="315" class="switch"/>
-  <circle cx="320" cy="330" r="4" fill="#111"/>
-  <rect x="340" y="305" width="180" height="50" class="device"/>
-  <text x="430" y="337" text-anchor="middle" class="label">Kettle</text>
-  <line x1="520" y1="330" x2="585" y2="330" class="wire"/>
-  <line x1="600" y1="315" x2="635" y2="345" stroke="#b00020" stroke-width="4"/>
-  <line x1="600" y1="345" x2="635" y2="315" stroke="#b00020" stroke-width="4"/>
-  <line x1="635" y1="330" x2="650" y2="330" class="wire"/>
-  <text x="210" y="315" class="small">Switch</text>
-  <text x="548" y="315" class="bad">Fault here</text>
-  <text x="548" y="352" class="good">Other branches still work</text>
-
+  <line
+     x1="120"
+     y1="330"
+     x2="250"
+     y2="330"
+     class="wire"
+     id="line67" />
+  <line
+     x1="650"
+     y1="330"
+     x2="780"
+     y2="330"
+     class="wire"
+     id="line69" />
+  <line
+     x1="250"
+     y1="330"
+     x2="290"
+     y2="330"
+     class="switch"
+     id="line71" />
+  <line
+     x1="290"
+     y1="330"
+     x2="315"
+     y2="315"
+     class="switch"
+     id="line73" />
+  <circle
+     cx="320"
+     cy="330"
+     r="4"
+     fill="#111"
+     id="circle75" />
+  <rect
+     x="340"
+     y="305"
+     width="180"
+     height="50"
+     class="device"
+     id="rect77" />
+  <text
+     x="430"
+     y="337"
+     text-anchor="middle"
+     class="label"
+     id="text79">Kettle</text>
+  <line
+     x1="520"
+     y1="330"
+     x2="585"
+     y2="330"
+     class="wire"
+     id="line81" />
+  <line
+     x1="600"
+     y1="315"
+     x2="635"
+     y2="345"
+     stroke="#b00020"
+     stroke-width="4"
+     id="line83" />
+  <line
+     x1="600"
+     y1="345"
+     x2="635"
+     y2="315"
+     stroke="#b00020"
+     stroke-width="4"
+     id="line85" />
+  <line
+     x1="635"
+     y1="330"
+     x2="650"
+     y2="330"
+     class="wire"
+     id="line87" />
+  <text
+     x="210"
+     y="315"
+     class="small"
+     id="text89">Switch</text>
+  <text
+     x="556"
+     y="307"
+     class="bad"
+     id="text91"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:normal;font-family:Arial, sans-serif">Fault here</text>
+  <text
+     x="423.5249"
+     y="381.487"
+     class="good"
+     id="text93"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:normal;font-family:Arial, sans-serif">Other branches still work</text>
   <!-- Callout box -->
-  <rect x="560" y="415" width="290" height="85" rx="12" ry="12" fill="#f8f8f8" stroke="#111" stroke-width="2"/>
-  <text x="580" y="442" class="note">Why parallel is used in homes:</text>
-  <text x="580" y="466" class="note">• Each appliance gets full voltage</text>
-  <text x="580" y="488" class="note">• Each branch works separately</text>
-
+  <rect
+     x="560"
+     y="415"
+     width="290"
+     height="85"
+     rx="12"
+     ry="12"
+     fill="#f8f8f8"
+     stroke="#111"
+     stroke-width="2"
+     id="rect95" />
+  <text
+     x="580"
+     y="442"
+     class="note"
+     id="text97">Why parallel is used in homes:</text>
+  <text
+     x="580"
+     y="466"
+     class="note"
+     id="text99">• Each appliance gets full voltage</text>
+  <text
+     x="580"
+     y="488"
+     class="note"
+     id="text101">• Each branch works separately</text>
   <!-- Arrow to show one failure doesn't stop others -->
-  <path d="M710 405 C710 375, 690 360, 635 340" class="wire" marker-end="url(#arrow)"/>
-
+  <path
+     d="M710 405 C710 375, 690 360, 635 340"
+     class="wire"
+     marker-end="url(#arrow)"
+     id="path103" />
 </svg>
