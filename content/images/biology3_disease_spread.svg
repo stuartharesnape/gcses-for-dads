@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- filename: biology3_disease_spread.svg -->
+
+<svg
+   width="700"
+   height="300"
+   viewBox="0 0 700 300"
+   version="1.1"
+   id="svg29"
+   sodipodi:docname="biology3_disease_spread.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview31"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.8485714"
+     inkscape:cx="350"
+     inkscape:cy="149.84544"
+     inkscape:window-width="2560"
+     inkscape:window-height="1374"
+     inkscape:window-x="2560"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg29" />
+  <style
+     id="style2">
+    .label { font: 16px Arial; fill: #111; }
+    .line { stroke: #111; stroke-width: 2.5; }
+    .arrow { stroke: #111; stroke-width: 2.5; fill: none; marker-end: url(#arrow); }
+  </style>
+  <defs
+     id="defs7">
+    <marker
+       id="arrow"
+       markerWidth="10"
+       markerHeight="10"
+       refX="8"
+       refY="5"
+       orient="auto">
+      <polygon
+         points="0,0 10,5 0,10"
+         fill="#111"
+         id="polygon4" />
+    </marker>
+  </defs>
+  <circle
+     cx="100"
+     cy="150"
+     r="30"
+     class="line"
+     id="circle9" />
+  <text
+     x="75"
+     y="200"
+     class="label"
+     id="text11">Person</text>
+  <circle
+     cx="350"
+     cy="150"
+     r="30"
+     class="line"
+     id="circle13" />
+  <text
+     x="325"
+     y="200"
+     class="label"
+     id="text15">Person</text>
+  <circle
+     cx="600"
+     cy="150"
+     r="30"
+     class="line"
+     id="circle17" />
+  <text
+     x="575"
+     y="200"
+     class="label"
+     id="text19">Person</text>
+  <line
+     x1="130"
+     y1="150"
+     x2="320"
+     y2="150"
+     class="arrow"
+     id="line21" />
+  <line
+     x1="380"
+     y1="150"
+     x2="570"
+     y2="150"
+     class="arrow"
+     id="line23" />
+  <text
+     x="232"
+     y="112"
+     class="label"
+     id="text25"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:Arial">Droplets / contact</text>
+  <text
+     x="492"
+     y="112"
+     class="label"
+     id="text27"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:Arial">Spread continues</text>
+</svg>

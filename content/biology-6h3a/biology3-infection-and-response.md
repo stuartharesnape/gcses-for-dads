@@ -1,13 +1,55 @@
-# GCSE Biology (Combined)  
-## Chapter 3: Infection and Response
+<!-- filename: biology3_infection-and-response.md -->
+
+# GCSEs for Dads – Biology 3: Infection and Response
+
+You don’t need to memorise everything here.
+
+Get the core ideas clear first. That’s enough to handle most questions.
+
+Scroll down to start.
+
+---
+
+## Key Ideas
+
+| Quantity | Key Idea | Meaning |
+|----------|----------|---------|
+| Pathogen | Causes disease | Microorganism that makes you ill |
+| Antibody | Specific defence | Targets a specific pathogen |
+| Vaccine | Builds immunity | Prepares the immune system |
+| Antibiotic | Kills bacteria | Does not work on viruses |
+| Vector | Carries disease | Spreads pathogens between hosts |
+
+---
+
+## Symbols and Units
+
+| Symbol | Meaning | Unit |
+|--------|---------|------|
+| °C | Temperature | degrees Celsius |
+| mm | millimetre | mm |
+| μm | micrometre | μm |
+| O₂ | Oxygen | no unit |
+| CO₂ | Carbon dioxide | no unit |
+
+---
+
+# Biology 3: Infection and Response
 
 ---
 
 ## 1. The Big Idea (30 seconds)
 
-- Pathogens cause infectious diseases  
-- The body has natural defences against infection  
-- Medicines and vaccines help protect us  
+**Disease is caused by pathogens, and the body has systems to detect and destroy them.**
+
+- Pathogens enter the body  
+- The body tries to stop them getting in  
+- If they get in, the immune system attacks  
+- Medicines and vaccines help  
+
+Think of it like this:
+
+Your body is a security system. Barriers first, then targeted response.
 
 ---
 
@@ -17,92 +59,119 @@ Pathogens are microorganisms that cause disease.
 
 Main types:
 
-- **Bacteria**  
-  - Single-celled organisms  
-  - Can reproduce rapidly  
+- **Bacteria**
+  - Living cells
+  - Reproduce quickly
 
-- **Viruses**  
-  - Much smaller than bacteria  
-  - Reproduce inside cells  
+- **Viruses**
+  - Much smaller
+  - Only reproduce inside cells
 
-- **Fungi**  
-  - Can be multicellular or single-celled  
-  - Often affect plants  
+- **Fungi**
+  - Can be multicellular
+  - Often infect plants
 
-- **Protists**  
-  - Single-celled organisms  
-  - Often live in water  
+- **Protists**
+  - Single-celled organisms
+  - Often spread in water or by vectors
+
+**Key idea:**
+
+Different pathogens behave differently, so they need different treatments.
 
 ---
 
 ## 3. Bacterial Diseases
 
-Example:
+Example: **Salmonella**
 
-- **Salmonella**  
-  - Causes food poisoning  
-  - Spread through contaminated food  
+- Causes food poisoning  
+- Spread through contaminated food  
 
-Key idea:
+What bacteria do:
 
-- Bacteria damage cells and produce toxins  
+- Reproduce quickly  
+- Produce toxins that damage cells  
+
+**Key idea:**
+
+Bacteria damage the body directly and through toxins.
 
 ---
 
 ## 4. Viral Diseases
 
-Example:
+Example: **Measles**
 
-- **Measles**  
-  - Spread by droplets from coughs and sneezes  
-  - Can cause serious complications  
+- Spread by droplets from coughs and sneezes  
+- Can cause serious illness  
 
-Key idea:
+What viruses do:
 
-- Viruses live and reproduce inside host cells  
+- Enter cells  
+- Take over the cell  
+- Make copies of themselves  
+
+**Key idea:**
+
+Viruses damage cells by using them to reproduce.
 
 ---
 
 ## 5. Fungal and Protist Diseases
 
-- **Fungal example:**  
-  - Rose black spot (plants)  
+Examples:
+
+- **Fungal:** Rose black spot  
+  - Affects plants  
   - Reduces photosynthesis  
 
-- **Protist example:**  
-  - Malaria  
+- **Protist:** Malaria  
   - Spread by mosquitoes  
+  - Affects blood cells  
+
+**Key idea:**
+
+Some diseases are spread by vectors, not direct contact.
 
 ---
 
 ## 6. How Diseases Spread
 
-- Air (droplets from coughs and sneezes)  
+Pathogens can spread in different ways:
+
+- Air (droplets from coughing and sneezing)  
 - Water or food  
 - Direct contact  
-- Vectors (e.g. mosquitoes)  
+- Vectors (e.g. mosquitoes)
 
-Key idea:
+![Disease transmission](../images/biology3_disease_spread.svg)
 
-- Good hygiene reduces spread  
+**Key idea:**
+
+Breaking the chain of transmission reduces disease spread.
 
 ---
 
-## 7. The Body’s Defences
+## 7. The Body’s First Line of Defence
 
-First line of defence:
+These stop pathogens getting in:
 
-- Skin (physical barrier)  
-- Nose hairs and mucus (trap pathogens)  
-- Stomach acid (kills pathogens)  
+- Skin → physical barrier  
+- Nose hairs and mucus → trap pathogens  
+- Stomach acid → kills pathogens  
+
+**Key idea:**
+
+Prevention is easier than fighting infection.
 
 ---
 
 ## 8. The Immune System
 
-If pathogens get inside:
+If pathogens enter the body:
 
-- **White blood cells** defend the body  
+White blood cells respond.
 
 They:
 
@@ -110,44 +179,71 @@ They:
 - Produce antibodies  
 - Produce antitoxins  
 
-Key idea:
+![Immune response](../images/biology3_immune_response.svg)
 
-- Antibodies are specific to each pathogen  
+**Key idea:**
+
+Antibodies are specific. Each one targets one pathogen.
 
 ---
 
 ## 9. Vaccination
 
-- Uses a harmless form of a pathogen  
+Vaccines contain a harmless form of a pathogen.
 
 This causes the body to:
 
 - Produce antibodies  
-- Build immunity  
+- Create memory cells  
 
-Key idea:
+Next time:
 
-- Memory cells allow faster response in future  
+- Faster response  
+- Illness prevented or reduced  
+
+![Vaccination](../images/biology3_vaccination.svg)
+
+**Key idea:**
+
+Vaccines train the immune system before real infection.
 
 ---
 
 ## 10. Antibiotics and Painkillers
 
-- **Antibiotics**  
+- **Antibiotics**
   - Kill bacteria  
   - Do not work on viruses  
 
-- **Painkillers**  
+- **Painkillers**
   - Reduce symptoms  
   - Do not kill pathogens  
 
-Key idea:
+**Key idea:**
 
-- Overuse of antibiotics can lead to resistance  
+Wrong treatment = no effect.
 
 ---
 
-## 11. Drug Development
+## 11. Antibiotic Resistance
+
+Overuse of antibiotics can lead to resistance.
+
+What happens:
+
+- Some bacteria survive  
+- They reproduce  
+- The population becomes resistant  
+
+![Antibiotic resistance](../images/biology3_antibiotic_resistance.svg)
+
+**Key idea:**
+
+Antibiotics become less effective over time if overused.
+
+---
+
+## 12. Drug Development
 
 Steps:
 
@@ -155,26 +251,41 @@ Steps:
 - Testing (lab and clinical trials)  
 - Approval  
 
-Key idea:
+Drugs must be:
 
-- Drugs must be safe and effective  
+- Safe  
+- Effective  
+- Correct dosage  
+
+**Key idea:**
+
+New drugs take years to develop.
+
+---
+
+## Common Mistakes
+
+- Thinking antibiotics work on viruses  
+- Mixing up bacteria and viruses  
+- Forgetting antibodies are specific  
+- Not understanding how vaccines work  
+- Ignoring how diseases spread  
 
 ---
 
 ## Check Your Understanding
 
-- What is a pathogen? (Microorganism that causes disease)  
-- Name one type of pathogen (Bacteria / Virus / Fungi / Protist)  
+- What is a pathogen? (A microorganism that causes disease)  
 - Why don’t antibiotics work on viruses? (They only target bacteria)  
 - What do antibodies do? (Target specific pathogens)  
-- What is vaccination? (Using harmless pathogen to build immunity)  
+- How do vaccines work? (Train the immune system using a harmless form)  
+- What is a vector? (An organism that spreads disease)  
+- Why is antibiotic resistance a problem? (Bacteria become harder to kill)  
 
 ---
 
-## Watch (Cognito)
+## Useful Videos
 
 - https://www.youtube.com/watch?v=Q4Yl0vLr4Qk  
 - https://www.youtube.com/watch?v=3GZ8aYvX0zA  
 - https://www.youtube.com/watch?v=5q9p5L8bWn8  
-
----

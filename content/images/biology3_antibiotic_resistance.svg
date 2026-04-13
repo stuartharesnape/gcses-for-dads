@@ -1,0 +1,20 @@
+<!-- filename: biology3_antibiotic_resistance.svg -->
+<svg width="700" height="300" viewBox="0 0 700 300" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .label { font: 16px Arial; fill: #111; }
+    .dot { fill: #111; }
+  </style>
+
+  <!-- Before -->
+  <circle cx="150" cy="120" r="5" class="dot"/>
+  <circle cx="170" cy="140" r="5" class="dot"/>
+  <circle cx="190" cy="120" r="5" class="dot"/>
+  <circle cx="210" cy="140" r="5" class="dot"/>
+  <text x="130" y="180" class="label">Bacteria</text>
+
+  <!-- After -->
+  <circle cx="500" cy="120" r="5" class="dot"/>
+  <circle cx="520" cy="140" r="5" class="dot"/>
+  <circle cx="540" cy="120" r="5" class="dot"/>
+  <text x="460" y="180" class="label">Resistant bacteria</text>
+</svg>
