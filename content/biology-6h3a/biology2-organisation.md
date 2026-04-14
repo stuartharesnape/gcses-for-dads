@@ -55,19 +55,7 @@ One brick does not make a house. One cell does not make a body.
 
 ## 2. Levels of Organisation
 
-In multicellular organisms, there is a clear order.
-
-- **Cells** → the basic units  
-- **Tissues** → groups of similar cells  
-- **Organs** → groups of different tissues  
-- **Organ systems** → groups of organs  
-- **Organism** → the whole living thing  
-
-Example:
-
-- Muscle cells form muscle tissue  
-- Muscle tissue is part of the stomach  
-- The stomach is part of the digestive system  
+- **Cells → Tissues → Organs → Organ systems → Organism**
 
 ![Levels of organisation](../images/biology2_levels_of_organisation.svg)
 
@@ -77,256 +65,223 @@ Each level depends on the one below it.
 
 ---
 
-## 3. Animal Tissues
-
-A tissue is a group of similar cells working together.
-
-Three important examples:
-
-- **Muscle tissue**
-  - Contracts to create movement
-
-- **Glandular tissue**
-  - Makes and releases substances such as enzymes and hormones
-
-- **Epithelial tissue**
-  - Covers surfaces and lines organs
-
-Example:
-
-- The stomach contains muscle tissue to churn food
-- It also contains glandular tissue to release digestive juices
-
----
-
-## 4. Organs and Organ Systems
-
-An organ is made from different tissues working together.
-
-Example: the stomach
-
-- Muscle tissue churns food
-- Glandular tissue releases enzymes
-- Epithelial tissue covers and protects surfaces
-
-An organ system is a group of organs working together.
-
-Example: the digestive system
-
-- Mouth
-- Oesophagus
-- Stomach
-- Small intestine
-- Large intestine
-- Liver
-- Pancreas
+## 3. Organs and the Digestive System
 
 ![Digestive system](../images/biology2_digestive_system.svg)
 
-**Key idea:**
+Main organs:
 
-Organs do not work alone. They are part of larger systems.
-
----
-
-## 5. The Digestive System
-
-The digestive system breaks large food molecules into smaller ones that can be absorbed into the blood.
-
-Main jobs:
-
-- Break food down
-- Absorb useful molecules
-- Remove waste
-
-Key parts:
-
-- **Mouth** → starts mechanical digestion
-- **Stomach** → churns food and adds digestive juices
-- **Small intestine** → where most digestion and absorption happen
-- **Large intestine** → absorbs water
-- **Liver** → makes bile
-- **Pancreas** → makes digestive enzymes
+- Mouth  
+- Oesophagus  
+- Stomach  
+- Small intestine  
+- Large intestine  
+- Liver  
+- Pancreas  
 
 **Key idea:**
 
-Digestion turns food into small soluble molecules that can pass into the blood.
+The system breaks food into small molecules that can be absorbed.
 
 ---
 
-## 6. The Heart and Circulatory System
+## 4. What Happens in Digestion
 
-The heart pumps blood around the body.
+- Food is broken down into:
+  - Glucose (carbohydrates)  
+  - Amino acids (proteins)  
+  - Fatty acids and glycerol (fats)  
 
-Humans have a **double circulatory system**:
+These are used for:
+- Energy  
+- Growth  
+- Repair  
 
-- Heart → lungs → heart
-- Heart → body → heart
+---
 
-That means blood passes through the heart twice in one full circuit.
+## 5. Enzymes in Digestion
+
+Three key enzymes:
+
+- **Carbohydrase**
+  - Breaks carbohydrates → sugars  
+
+- **Protease**
+  - Breaks proteins → amino acids  
+
+- **Lipase**
+  - Breaks fats → fatty acids + glycerol  
+
+Where they are made:
+
+- Mouth → amylase  
+- Stomach → protease  
+- Pancreas → all three  
+- Small intestine → all three  
+
+**Key idea:**
+
+Different enzymes break down different food types.
+
+---
+
+## 6. Lock and Key Theory
+
+- Enzymes have a specific shape  
+- The substrate fits into the active site  
+- Reaction happens → products released  
+
+Think:
+
+Key fits lock. Wrong shape = no reaction.
+
+---
+
+## 7. Factors Affecting Enzymes
+
+### Temperature
+- Higher = faster (up to optimum)  
+- Too high = enzyme denatures (shape changes)  
+
+### pH
+- Each enzyme has an optimum pH  
+- Wrong pH = shape changes = slower or stops  
+
+**Key idea:**
+
+Shape controls function.
+
+---
+
+## 8. Bile
+
+- Made in the liver  
+- Stored in the gall bladder  
+- Released into the small intestine  
+
+What it does:
+
+- Neutralises stomach acid  
+- Breaks fat into small droplets (emulsification)  
+
+**Key idea:**
+
+Bile helps enzymes work faster on fats.
+
+---
+
+## 9. Food Tests (Required Practical)
+
+- **Starch**
+  - Iodine → blue-black  
+
+- **Glucose**
+  - Benedict’s + heat → green/yellow/red  
+
+- **Protein**
+  - Biuret → purple  
+
+- **Lipids**
+  - Ethanol → cloudy (milky)  
+
+**Key idea:**
+
+Each food type has a specific test.
+
+---
+
+## 10. Enzyme Required Practical
+
+Used to measure how fast digestion happens.
+
+Basic idea:
+
+- Mix enzyme with substrate  
+- Take samples over time  
+- Test for product  
+
+Example:
+- Amylase breaking down starch  
+- Use iodine to test  
+
+**Key idea:**
+
+Rate of reaction = how fast product forms or substrate disappears.
+
+---
+
+## 11. Circulatory System
 
 ![Double circulatory system](../images/biology2_double_circulation.svg)
 
-**Key idea:**
+- Heart → lungs → heart → body  
 
-One side sends blood to the lungs. The other sends blood to the rest of the body.
+Blood vessels:
 
----
-
-## 7. Blood Vessels
-
-There are three main types.
-
-- **Arteries**
-  - Carry blood away from the heart
-  - Thick, strong walls
-  - High pressure
-
-- **Veins**
-  - Carry blood back to the heart
-  - Have valves
-  - Lower pressure
-
-- **Capillaries**
-  - Very small
-  - Thin walls
-  - Allow exchange of substances
-
-**Key idea:**
-
-Arteries carry blood away. Veins carry blood back.
+- Arteries → away from heart  
+- Veins → to heart  
+- Capillaries → exchange  
 
 ---
 
-## 8. Blood Components
+## 12. Blood
 
-Blood has four main parts.
-
-- **Red blood cells**
-  - Carry oxygen
-  - Contain haemoglobin
-
-- **White blood cells**
-  - Fight infection
-
-- **Platelets**
-  - Help blood clot
-
-- **Plasma**
-  - Liquid that carries cells, nutrients, hormones, carbon dioxide and urea
-
-**Key idea:**
-
-Blood is a transport system, not just a red liquid.
+- Red blood cells → carry oxygen  
+- White blood cells → fight infection  
+- Platelets → clotting  
+- Plasma → transport  
 
 ---
 
-## 9. Plant Organisation
+## 13. Plant Organisation
 
-Plants also have tissues, organs and transport systems.
-
-Examples of plant organs:
-
-- **Roots**
-  - Absorb water and minerals
-
-- **Stem**
-  - Supports the plant
-  - Transports substances
-
-- **Leaves**
-  - Main site of photosynthesis
-
-Just like in animals, structure matches function.
+- Roots → absorb water  
+- Stem → transport  
+- Leaves → photosynthesis  
 
 ---
 
-## 10. Transport in Plants
-
-Plants use two transport tissues.
-
-- **Xylem**
-  - Moves water and minerals from roots to leaves
-
-- **Phloem**
-  - Moves sugars around the plant
+## 14. Transport in Plants
 
 ![Plant transport](../images/biology2_plant_transport.svg)
 
-**Key idea:**
-
-Xylem mostly moves up. Phloem moves food where it is needed.
+- **Xylem** → water and minerals up  
+- **Phloem** → sugars around  
 
 ---
 
-## 11. The Lungs and Gas Exchange
-
-The lungs are designed for gas exchange.
-
-In the lungs:
-
-- Oxygen moves into the blood
-- Carbon dioxide moves out of the blood
-
-This happens in the **alveoli**, which are tiny air sacs.
-
-Alveoli are effective because they have:
-
-- Large surface area
-- Thin walls
-- Good blood supply
+## 15. Gas Exchange
 
 ![Alveoli gas exchange](../images/biology2_alveoli.svg)
 
-**Key idea:**
+- Oxygen enters blood  
+- Carbon dioxide leaves  
 
-The structure of the alveoli makes gas exchange fast.
-
----
-
-## 12. Enzymes (Introduction)
-
-Enzymes are biological catalysts.
-
-That means:
-
-- They speed up reactions
-- They are not used up in the reaction
-
-Examples in digestion:
-
-- **Amylase** breaks down starch
-- **Protease** breaks down proteins
-- **Lipase** breaks down fats
-
-Each enzyme has a specific shape that matches its substrate.
-
-**Key idea:**
-
-The wrong shape means the enzyme will not work properly.
+Alveoli:
+- Large surface area  
+- Thin walls  
+- Good blood supply  
 
 ---
 
 ## Common Mistakes
 
-- Mixing up tissues and organs
-- Thinking the stomach is a tissue instead of an organ
-- Forgetting arteries carry blood away from the heart
-- Mixing up xylem and phloem
-- Thinking alveoli are the same as the whole lung
-- Forgetting enzymes are specific to their substrate
+- Mixing up enzymes and food types  
+- Thinking enzymes work at any temperature  
+- Forgetting bile is not an enzyme  
+- Mixing up food test colours  
+- Confusing arteries and veins  
 
 ---
 
 ## Check Your Understanding
 
-- What is the difference between a tissue and an organ? (A tissue is a group of similar cells, while an organ is made of different tissues working together)
-- Why is the stomach an organ and not a tissue? (Because it contains different tissues working together)
-- Which blood vessels carry blood away from the heart? (Arteries)
-- What is the job of red blood cells? (To carry oxygen)
-- What does xylem transport? (Water and minerals)
-- Why are alveoli good at gas exchange? (Large surface area, thin walls and good blood supply)
-- What is an enzyme? (A biological catalyst that speeds up reactions)
+- What does protease break down? (Proteins into amino acids)  
+- Why does high temperature stop enzymes working? (They denature and change shape)  
+- What is the role of bile? (Neutralises acid and emulsifies fats)  
+- What colour shows a positive test for starch? (Blue-black)  
+- Where are enzymes produced? (Mouth, stomach, pancreas, small intestine)  
+- What do capillaries do? (Allow exchange of substances)  
 
 ---
 
