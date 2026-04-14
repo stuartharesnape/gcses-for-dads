@@ -21,12 +21,12 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.80875"
-     inkscape:cx="800"
-     inkscape:cy="489.64451"
+     inkscape:zoom="4.9149404"
+     inkscape:cx="402.24292"
+     inkscape:cy="453.92208"
      inkscape:window-width="2560"
      inkscape:window-height="1374"
-     inkscape:window-x="0"
+     inkscape:window-x="2560"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2130" />
@@ -898,7 +898,8 @@
   </g>
   <!-- Placeholders for La/Ac in main table -->
   <g
-     id="g1394">
+     id="g1394"
+     transform="translate(-30.490567,-21.162101)">
     <text
        x="300"
        y="455"
@@ -1771,11 +1772,6 @@
        class="name"
        id="text1734">Barium</text>
     <text
-       x="270"
-       y="433"
-       class="num"
-       id="text1736">57</text>
-    <text
        x="300"
        y="451"
        class="symbol"
@@ -2041,11 +2037,6 @@
        y="529"
        class="name"
        id="text1842">Radium</text>
-    <text
-       x="270"
-       y="491"
-       class="num"
-       id="text1844">89</text>
     <text
        x="300"
        y="509"
@@ -2762,7 +2753,7 @@
      transform="rotate(-90,65.402408,379.61428)"><tspan
        x="48.823444"
        y="369.59744"
-       id="tspan2977">Periods (Rows)</tspan></text>
+       id="tspan1204">Periods (Rows)</tspan></text>
   <text
      xml:space="preserve"
      style="fill:#000000"
