@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- filename: chemistry1_group7_halogens.svg -->
+
+<svg
+   width="1000"
+   height="620"
+   viewBox="0 0 1000 620"
+   version="1.1"
+   id="svg83"
+   sodipodi:docname="chemistry1_group7_halogens.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview85"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.294"
+     inkscape:cx="500"
+     inkscape:cy="309.89181"
+     inkscape:window-width="2560"
+     inkscape:window-height="1374"
+     inkscape:window-x="2560"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg83" />
+  <defs
+     id="defs7">
+    <style
+       id="style2">
+      .title { font: 700 30px Arial, sans-serif; fill: #111827; }
+      .subtitle { font: 700 20px Arial, sans-serif; fill: #1f2937; }
+      .label { font: 16px Arial, sans-serif; fill: #1f2937; }
+      .small { font: 14px Arial, sans-serif; fill: #374151; }
+      .tiny { font: 12px Arial, sans-serif; fill: #4b5563; }
+      .box { fill: #f9fafb; stroke: #cbd5e1; stroke-width: 2; rx: 16; }
+      .cell { fill: #ffffff; stroke: #94a3b8; stroke-width: 2; rx: 14; }
+      .arrow { stroke: #334155; stroke-width: 3; fill: none; marker-end: url(#arrowhead); }
+      .note { fill: #eef2ff; stroke: #c7d2fe; stroke-width: 2; rx: 14; }
+      .rule { fill: #f0fdf4; stroke: #86efac; stroke-width: 2; rx: 14; }
+    </style>
+    <marker
+       id="arrowhead"
+       markerWidth="10"
+       markerHeight="10"
+       refX="8"
+       refY="5"
+       orient="auto">
+      <path
+         d="M0,0 L10,5 L0,10 Z"
+         fill="#334155"
+         id="path4" />
+    </marker>
+  </defs>
+  <text
+     x="407.70108"
+     y="53.926037"
+     text-anchor="middle"
+     class="title"
+     id="text9"
+     style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:30px;line-height:normal;font-family:Arial, sans-serif">Group 7: Halogens</text>
+  <text
+     x="407.70108"
+     y="83.926041"
+     text-anchor="middle"
+     class="small"
+     id="text11"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:normal;font-family:Arial, sans-serif">Reactive non-metals that gain 1 electron to form -1 ions</text>
+  <!-- Main panel -->
+  <rect
+     x="60.104855"
+     y="105.12362"
+     width="769.15375"
+     height="359.7283"
+     class="box"
+     id="rect13" />
+  <!-- Periodic table style column -->
+  <text
+     x="120"
+     y="145"
+     class="subtitle"
+     id="text15">Group 7 column</text>
+  <rect
+     x="110"
+     y="170"
+     width="120"
+     height="62"
+     class="cell"
+     id="rect17" />
+  <text
+     x="125"
+     y="192"
+     class="tiny"
+     id="text19">9</text>
+  <text
+     x="170"
+     y="208"
+     text-anchor="middle"
+     style="font:700 28px Arial, sans-serif; fill:#111827;"
+     id="text21">F</text>
+  <text
+     x="170"
+     y="226"
+     text-anchor="middle"
+     class="tiny"
+     id="text23">Fluorine</text>
+  <rect
+     x="110"
+     y="240"
+     width="120"
+     height="62"
+     class="cell"
+     id="rect25" />
+  <text
+     x="125"
+     y="262"
+     class="tiny"
+     id="text27">17</text>
+  <text
+     x="170"
+     y="278"
+     text-anchor="middle"
+     style="font:700 28px Arial, sans-serif; fill:#111827;"
+     id="text29">Cl</text>
+  <text
+     x="170"
+     y="296"
+     text-anchor="middle"
+     class="tiny"
+     id="text31">Chlorine</text>
+  <rect
+     x="110"
+     y="310"
+     width="120"
+     height="62"
+     class="cell"
+     id="rect33" />
+  <text
+     x="125"
+     y="332"
+     class="tiny"
+     id="text35">35</text>
+  <text
+     x="170"
+     y="348"
+     text-anchor="middle"
+     style="font:700 28px Arial, sans-serif; fill:#111827;"
+     id="text37">Br</text>
+  <text
+     x="170"
+     y="366"
+     text-anchor="middle"
+     class="tiny"
+     id="text39">Bromine</text>
+  <rect
+     x="110"
+     y="380"
+     width="120"
+     height="62"
+     class="cell"
+     id="rect41" />
+  <text
+     x="125"
+     y="402"
+     class="tiny"
+     id="text43">53</text>
+  <text
+     x="170"
+     y="418"
+     text-anchor="middle"
+     style="font:700 28px Arial, sans-serif; fill:#111827;"
+     id="text45">I</text>
+  <text
+     x="170"
+     y="436"
+     text-anchor="middle"
+     class="tiny"
+     id="text47">Iodine</text>
+  <!-- Reactivity arrow -->
+  <line
+     x1="275"
+     y1="410"
+     x2="275"
+     y2="190"
+     class="arrow"
+     id="line49" />
+  <text
+     x="295"
+     y="250"
+     class="label"
+     id="text51">Reactivity increases</text>
+  <text
+     x="295"
+     y="272"
+     class="small"
+     id="text53">as you go up</text>
+  <!-- Right side notes -->
+  <rect
+     x="468.03748"
+     y="165.03748"
+     width="312.22562"
+     height="87.976273"
+     class="note"
+     id="rect55" />
+  <text
+     x="482"
+     y="192"
+     class="subtitle"
+     id="text57"
+     style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:20px;line-height:normal;font-family:Arial, sans-serif">What they all have in common</text>
+  <text
+     x="482"
+     y="218"
+     class="label"
+     id="text59"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:Arial, sans-serif">• 7 electrons in the outer shell</text>
+  <text
+     x="482"
+     y="240"
+     class="label"
+     id="text61"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:Arial, sans-serif">• Need to gain 1 electron</text>
+  <rect
+     x="468.03748"
+     y="275.00781"
+     width="312.22562"
+     height="69.981133"
+     class="note"
+     id="rect63" />
+  <text
+     x="482"
+     y="302"
+     class="subtitle"
+     id="text65"
+     style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:20px;line-height:normal;font-family:Arial, sans-serif">Ion formed</text>
+  <text
+     x="482"
+     y="328"
+     class="label"
+     id="text67"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:Arial, sans-serif">Halogens form -1 ions</text>
+  <rect
+     x="468.03748"
+     y="364.98355"
+     width="312.22562"
+     height="77.978973"
+     class="rule"
+     id="rect69" />
+  <text
+     x="482"
+     y="392"
+     class="subtitle"
+     id="text71"
+     style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:20px;line-height:normal;font-family:Arial, sans-serif">Rule to remember</text>
+  <text
+     x="482"
+     y="418"
+     class="label"
+     id="text73"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:Arial, sans-serif">Reactivity decreases down the group</text>
+  <!-- Bottom example -->
+  <rect
+     x="59.935719"
+     y="490.01608"
+     width="769.08557"
+     height="92.048225"
+     class="rule"
+     id="rect75" />
+  <text
+     x="85"
+     y="520"
+     class="subtitle"
+     id="text77">Displacement example</text>
+  <text
+     x="85"
+     y="548"
+     class="label"
+     id="text79">Chlorine displaces bromine because chlorine is more reactive.</text>
+  <text
+     x="85"
+     y="572"
+     class="label"
+     id="text81">More reactive halogen wins.</text>
+</svg>

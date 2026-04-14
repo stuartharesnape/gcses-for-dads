@@ -27,6 +27,7 @@ You don’t need to memorise these straight away. Just get familiar with what th
 | Ar | Relative atomic mass | no unit |
 
 ![Periodic Table](../images/chemistry0_periodic_table_modern_gcse.svg)
+
 ---
 
 # Chemistry 1: Atomic Structure and the Periodic Table
@@ -123,20 +124,6 @@ Key ideas:
 - Elements in the same group have similar properties  
 - They have the same number of outer shell electrons  
 
-Examples:
-
-- Group 1 (alkali metals)  
-  - All have 1 electron in outer shell  
-  - Very reactive  
-
-- Group 7 (halogens)  
-  - All have 7 electrons in outer shell  
-  - Want to gain 1 electron  
-
-- Group 0 (noble gases)  
-  - Full outer shell  
-  - Very unreactive  
-
 ---
 
 ## 6. Groups You Must Know (GCSE Core)
@@ -169,7 +156,35 @@ Group 0 (noble gases):
 
 ---
 
-## 7. Isotopes
+## 7. Group 7 (Halogens) – What You Actually Need for Questions
+
+- Halogens are reactive non-metals  
+- They exist as diatomic molecules (Cl₂, Br₂, etc.)
+
+### Reactivity trend
+
+- Reactivity decreases down the group  
+  - This is because you have more shells so it's further away from the positive nucleus
+- Top = most reactive  
+- Bottom = least reactive  
+- Fluorine → Chlorine → Bromine → Iodine  
+
+### Displacement reactions
+
+- A more reactive halogen displaces a less reactive halogen from a compound  
+
+Example:
+
+- Chlorine displaces bromine  
+
+Rule to remember:
+
+- More reactive halogen wins  
+
+![Group 7 Halogens](../images/chemistry1_group7_halogens.svg)
+---
+
+## 8. Isotopes
 
 Isotopes are atoms of the same element with different numbers of neutrons.
 
@@ -179,28 +194,23 @@ This took me a while to get into my head too. Chemistry is so abstract. Hopefull
 
 Example: Lithium
 
-- Lithium-6, Lithium-7, Lithium-8
-- All lithium → all have 3 protons
-- The number of neutrons is different
+- Lithium-6, Lithium-7, Lithium-8  
+- All lithium → all have 3 protons  
+- The number of neutrons is different  
 
 Think of it like golf clubs:
 
-- 1 wood, 3 wood, 5 wood
-- All woods
-- Slightly different versions
+- 1 wood, 3 wood, 5 wood  
+- All woods  
+- Slightly different versions  
 
-Simple summary
+Simple summary:
 
 - The periodic table shows **one box per element**  
 - That box does **not show a single atom**  
 - It shows an **average of all versions of that element**  
 
 Example: Lithium
-
-- There are a few different Lithium isotopes. Such as Lithium-6, 7 and 8.
-- Atomic number = 3 → always 3 protons  
-
-Lithium exists as two main versions:
 
 - Lithium-6 → 3 protons, 3 neutrons  
 - Lithium-7 → 3 protons, 4 neutrons  
@@ -210,25 +220,22 @@ The number on top ≈ 7
 - That “7” is **not Lithium-7 specifically**  
 - It means most lithium atoms are around mass 7  
 
-The versions are called isotopes.  
+The versions are called isotopes  
 
 ---
 
 ## The key idea (this is the line to remember)
 
 - Same number of protons = same element  
-- Different number of neutrons (than the other isotopes) = different isotope  
-- Isotopes are like a subset of elements. 
+- Different number of neutrons = different isotope  
 
 #### One-line version (for exams)
 
-- Isotopes are atoms of the same element with the same number of protons but the number of neutrons differs in each isotope.
-
-What a headache. Anyway, you're doing great, grab a beer. 
+- Isotopes are atoms of the same element with the same number of protons but different numbers of neutrons  
 
 ---
 
-## 8. Development of the Periodic Table
+## 9. Development of the Periodic Table
 
 Early scientists tried to organise elements by properties.
 
@@ -245,7 +252,7 @@ Modern periodic table:
 
 ---
 
-## 9. Check Your Understanding
+## 10. Check Your Understanding
 
 - What is the charge of a proton? ( +1 )  
 - Which particle has almost no mass? ( electron )  
@@ -258,10 +265,12 @@ Modern periodic table:
 
 ---
 
-## 10. Useful Videos
+## 11. Useful Videos
 
 - [Atomic Structure](https://youtu.be/GTpo1nAZqFE?si=sas08r1QnP1GJayL)  
 
 - [The Periodic Table](https://youtu.be/NVnnIjUbXNQ?si=rRuXmgDTherAi-Of) 
 
 - [Isotopes](https://youtu.be/GTpo1nAZqFE?si=l_n4wTu8JAjJBGXT)  
+
+- [Group 7 and 0 Elements](https://youtu.be/uYubwlPRdCs?si=s9K9EkHHFEtGv6ys)
