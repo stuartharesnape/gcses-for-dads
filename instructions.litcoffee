@@ -100,6 +100,7 @@ STYLE RULES (NON-NEGOTIABLE)
 FORMATTING RULES
 
 - Clean markdown only
+- Present in a markdown block
 - Use proper symbols (× ÷ etc.)
 - Use consistent headings (## only for sections)
 - Use spacing like the reference chapter
@@ -115,6 +116,7 @@ HARD FAIL CONDITIONS (DO NOT DO THESE)
 - Do NOT produce a “short version” or summary
 - Do NOT collapse sections
 - Do NOT change tone to “teacher voice”
+- Do not change existing youtube links
 
 ---
 

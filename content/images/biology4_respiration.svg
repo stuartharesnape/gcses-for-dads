@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- filename: biology4_respiration.svg -->
+
+<svg
+   width="880"
+   height="360"
+   viewBox="0 0 880 360"
+   version="1.1"
+   id="svg49"
+   sodipodi:docname="biology4_respiration.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview51"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.4704545"
+     inkscape:cx="440"
+     inkscape:cy="180.21638"
+     inkscape:window-width="2560"
+     inkscape:window-height="1374"
+     inkscape:window-x="2560"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg49" />
+  <style
+     id="style2">
+    .title { font: bold 24px Arial, sans-serif; fill: #111; }
+    .label { font: 18px Arial, sans-serif; fill: #111; }
+    .small { font: 15px Arial, sans-serif; fill: #333; }
+    .line { stroke: #111; stroke-width: 2.5; fill: none; }
+    .arrow { stroke: #111; stroke-width: 2.5; fill: none; marker-end: url(#arrow); }
+    .box { fill: none; stroke: #111; stroke-width: 2.5; rx: 12; ry: 12; }
+  </style>
+  <defs
+     id="defs7">
+    <marker
+       id="arrow"
+       markerWidth="10"
+       markerHeight="10"
+       refX="8"
+       refY="5"
+       orient="auto">
+      <polygon
+         points="0,0 10,5 0,10"
+         fill="#111"
+         id="polygon4" />
+    </marker>
+  </defs>
+  <text
+     x="440"
+     y="35"
+     text-anchor="middle"
+     class="title"
+     id="text9">Respiration</text>
+  <!-- Cell box -->
+  <rect
+     x="300"
+     y="80"
+     width="260"
+     height="180"
+     class="box"
+     id="rect11" />
+  <text
+     x="430"
+     y="105"
+     text-anchor="middle"
+     class="label"
+     id="text13">Cell</text>
+  <!-- Mitochondria -->
+  <ellipse
+     cx="430"
+     cy="170"
+     rx="70"
+     ry="35"
+     class="line"
+     id="ellipse15" />
+  <path
+     d="M380 170 Q430 140 480 170 Q430 200 380 170"
+     class="line"
+     id="path17" />
+  <text
+     x="430"
+     y="225"
+     text-anchor="middle"
+     class="small"
+     id="text19">Mitochondria</text>
+  <!-- Inputs -->
+  <line
+     x1="150"
+     y1="140"
+     x2="300"
+     y2="140"
+     class="arrow"
+     id="line21" />
+  <text
+     x="155"
+     y="130"
+     class="label"
+     id="text23">Glucose in</text>
+  <line
+     x1="150"
+     y1="200"
+     x2="300"
+     y2="200"
+     class="arrow"
+     id="line25" />
+  <text
+     x="165"
+     y="230"
+     class="label"
+     id="text27">O₂ in</text>
+  <!-- Outputs -->
+  <line
+     x1="560"
+     y1="140"
+     x2="720"
+     y2="140"
+     class="arrow"
+     id="line29" />
+  <text
+     x="725"
+     y="145"
+     class="label"
+     id="text31">CO₂ out</text>
+  <line
+     x1="560"
+     y1="200"
+     x2="720"
+     y2="200"
+     class="arrow"
+     id="line33" />
+  <text
+     x="725"
+     y="205"
+     class="label"
+     id="text35">Water out</text>
+  <!-- Energy -->
+  <line
+     x1="430"
+     y1="260"
+     x2="430"
+     y2="310"
+     class="arrow"
+     id="line37" />
+  <text
+     x="450.94455"
+     y="299.98553"
+     class="label"
+     id="text39"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:normal;font-family:Arial, sans-serif">Energy released</text>
+  <!-- Energy use -->
+  <text
+     x="90"
+     y="266"
+     class="small"
+     id="text41"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:normal;font-family:Arial, sans-serif">Movement</text>
+  <text
+     x="90"
+     y="286"
+     class="small"
+     id="text43"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:normal;font-family:Arial, sans-serif">Keeping warm</text>
+  <text
+     x="90"
+     y="306"
+     class="small"
+     id="text45"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:normal;font-family:Arial, sans-serif">Building molecules</text>
+  <!-- Bottom equation -->
+  <text
+     x="440"
+     y="347"
+     text-anchor="middle"
+     class="label"
+     id="text47"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:normal;font-family:Arial, sans-serif">Glucose + oxygen → carbon dioxide + water + energy</text>
+</svg>

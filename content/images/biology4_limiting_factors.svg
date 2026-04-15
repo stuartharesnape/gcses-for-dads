@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- filename: biology4_limiting_factors.svg -->
+
+<svg
+   width="820"
+   height="380"
+   viewBox="0 0 820 380"
+   version="1.1"
+   id="svg26"
+   sodipodi:docname="biology4_limiting_factors.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs30" />
+  <sodipodi:namedview
+     id="namedview28"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.5780488"
+     inkscape:cx="410"
+     inkscape:cy="190.10819"
+     inkscape:window-width="2560"
+     inkscape:window-height="1374"
+     inkscape:window-x="2560"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg26" />
+  <style
+     id="style2">
+    .title { font: bold 24px Arial, sans-serif; fill: #111; }
+    .label { font: 18px Arial, sans-serif; fill: #111; }
+    .small { font: 15px Arial, sans-serif; fill: #333; }
+    .axis { stroke: #111; stroke-width: 2.5; fill: none; }
+    .curve { stroke: #111; stroke-width: 3; fill: none; }
+    .dash { stroke: #111; stroke-width: 2; fill: none; stroke-dasharray: 7 6; }
+  </style>
+  <text
+     x="410"
+     y="35"
+     text-anchor="middle"
+     class="title"
+     id="text4">Limiting factors</text>
+  <!-- Axes -->
+  <line
+     x1="110"
+     y1="300"
+     x2="710"
+     y2="300"
+     class="axis"
+     id="line6" />
+  <line
+     x1="110"
+     y1="300"
+     x2="110"
+     y2="70"
+     class="axis"
+     id="line8" />
+  <!-- Labels -->
+  <text
+     x="410"
+     y="335"
+     text-anchor="middle"
+     class="label"
+     id="text10"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:normal;font-family:Arial, sans-serif">Light intensity</text>
+  <text
+     x="-195"
+     y="83"
+     transform="rotate(-90)"
+     text-anchor="middle"
+     class="label"
+     id="text12"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:normal;font-family:Arial, sans-serif">Rate of photosynthesis</text>
+  <!-- Curve -->
+  <path
+     d="M110 300            C180 250, 240 205, 300 175            C360 150, 430 135, 520 130            C600 128, 665 128, 710 128"
+     class="curve"
+     id="path14" />
+  <!-- Plateau guide -->
+  <line
+     x1="520"
+     y1="128"
+     x2="520"
+     y2="300"
+     class="dash"
+     id="line16" />
+  <!-- Annotations -->
+  <text
+     x="180"
+     y="120"
+     class="small"
+     id="text18">Light is limiting</text>
+  <text
+     x="535"
+     y="92"
+     class="small"
+     id="text20"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:normal;font-family:Arial, sans-serif">Another factor is now limiting</text>
+  <text
+     x="540"
+     y="114"
+     class="small"
+     id="text22"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:normal;font-family:Arial, sans-serif">(e.g. CO₂ or temperature)</text>
+  <!-- Plateau label -->
+  <text
+     x="575"
+     y="153"
+     class="small"
+     id="text24"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:normal;font-family:Arial, sans-serif">Rate levels off</text>
+</svg>
