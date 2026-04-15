@@ -2,6 +2,8 @@ GCSEs for Dads Instruction Block (STRICT)
 
 You must follow this exactly. Do not improvise structure.
 
+The output must be in a codeblock.
+
 GOAL:
 Produce a complete GCSEs for Dads chapter matching the established standard.
 

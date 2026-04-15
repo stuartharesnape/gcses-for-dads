@@ -1,19 +1,22 @@
+<!-- filename: physics3_particle-model-of-matter.md -->
+
 # GCSEs for Dads – Physics 3: Particle Model of Matter
 
-**Don’t worry about reading the formulas now. Just know they’re at the top if you need them. Scroll down to start.**
+**Don’t worry about reading the formulas now. Just know they’re here at the top if you need them. Scroll down to start.**
 
-You don’t need to memorise these formulas. Just know where to find them.
+You don’t need to memorise these straight away. Just get familiar with what they look like.
 
 ---
 
+## Particle Model – Key Ideas
 
-## Particle Model Formulas
-
-| Quantity | Formula | Meaning |
-|----------|---------|---------|
-| Density | ρ = m ÷ V | density = mass ÷ volume |
-| Specific Heat Capacity | E = mcΔT | energy needed to change temperature |
-| Gas Pressure | Pressure increases when particles collide more often | faster particles = higher pressure |
+| Quantity | Key Idea | Meaning |
+|----------|----------|---------|
+| Particle model | Matter made of particles | Tiny particles always moving |
+| Density | How packed particles are | Mass per volume |
+| Internal energy | Total energy in particles | Kinetic + potential energy |
+| Specific heat capacity | Energy to heat a substance | Energy per kg per °C |
+| Gas pressure | Particle collisions | Force from particles hitting walls |
 
 ## Symbols and Units
 
@@ -26,97 +29,76 @@ You don’t need to memorise these formulas. Just know where to find them.
 | ρ | Density | kg/m³ |
 | V | Volume | m³ |
 
-
-
 ---
 
 # Physics 3: Particle Model of Matter
 
+---
+
 ## 1. The Big Idea (30 seconds)
 
-All matter is made of tiny particles.
+**Everything is made of tiny moving particles, and how they move explains almost everything.**
 
-These particles are always moving.
+- Solids, liquids, gases are just different particle behaviours  
+- Temperature = how fast particles move  
+- Pressure = particles hitting surfaces  
+- Changing state = changing movement, not particles  
 
-The way they move explains:
-- states of matter
-- temperature
-- pressure
-- changes of state
-
-The particle model is one of the most useful ideas in physics.
+Think of it like this:  
+Same “stuff”, different movement patterns.
 
 ---
 
 ## 2. States of Matter
 
-Matter exists in three main states.
-
 | State | Particle Behaviour | Shape |
 |-------|--------------------|-------|
-| Solid | particles tightly packed and vibrate | fixed shape |
-| Liquid | particles close but able to slide past each other | takes shape of container |
-| Gas | particles far apart moving fast | fills container |
+| Solid | tightly packed, vibrating | fixed |
+| Liquid | close, sliding past each other | takes container shape |
+| Gas | far apart, moving fast | fills container |
 
-Solid particles are:
-- tightly packed
-- arranged in a regular structure
-- vibrating in place
-
-Example: ice, rock, metal.
-
-Solids keep their shape and volume.
-
-Liquid particles are:
-- still close together
-- able to move past each other
+Solids:
+- particles tightly packed
+- fixed positions
+- only vibrate
 
 Liquids:
+- particles still close
+- can move past each other
 - flow
-- take the shape of their container
-- keep the same volume
-
-Example: water.
-
-Gas particles are:
-- far apart
-- moving quickly in random directions
 
 Gases:
-- expand to fill any container
-- can be compressed easily
+- particles far apart
+- move quickly in random directions
+- easily compressed
 
-Example: air.
+Key idea:
+- The **spacing and movement** of particles explains everything
 
 ---
 
 ## 3. Density
 
-Density describes how tightly packed particles are.
+Density tells you how tightly packed particles are.
 
-The equation is:
+Equation:
+ρ = m ÷ V
 
-**ρ = m ÷ V**
-
-Where:
 - ρ = density
 - m = mass
 - V = volume
 
 Example:
-A metal block has a mass of 6 kg and a volume of 2 m³
+6 kg in 2 m³  
+ρ = 6 ÷ 2 = 3 kg/m³
 
-- ρ = 6 ÷ 2 = 3 kg/m³
-
-Key GCSE idea:
-- solids usually have higher density because particles are tightly packed
-- gases have very low density because particles are far apart
+Key idea:
+- solids = high density  
+- gases = very low density  
 
 ---
 
 ## 4. Changes of State
-
-Matter can change state when energy is added or removed.
 
 | Change | Direction |
 |--------|-----------|
@@ -127,122 +109,110 @@ Matter can change state when energy is added or removed.
 
 ![Changes of state diagram](../images/states_of_matter_change.svg)
 
-The particles do not change, only their movement and spacing.
+- particles do not change  
+- only movement and spacing change  
+
+Key idea:
+- energy changes how particles move, not what they are  
 
 ---
 
 ## 5. Internal Energy
 
-Internal energy is the total energy inside a substance.
+Internal energy = total energy in a substance.
 
-It is made of two things:
-- kinetic energy - energy of moving particles
-- potential energy - energy stored due to particle positions
+Made of:
+- kinetic energy (movement)
+- potential energy (position)
 
-When you heat something:
+Heating:
 - particles move faster
 - internal energy increases
 
-Example:
-Heating water increases the motion of the particles.
+Key idea:
+- hotter = more internal energy  
 
 ---
 
 ## 6. Specific Heat Capacity
 
-Different substances require different amounts of energy to heat up.
+Different substances heat up differently.
 
-This is measured using specific heat capacity.
+Equation:
+E = m × c × ΔT
 
-The equation is:
-
-**E = mcΔT**
-
-Where:
-- E = energy transferred (J)
+- E = energy (J)
 - m = mass (kg)
 - c = specific heat capacity
 - ΔT = temperature change (°C)
 
 Example:
-- heating 1 kg of water by 1°C requires about 4200 J
+Water needs ~4200 J to heat 1 kg by 1°C
 
-This is why:
-- water heats slowly
-- oceans help stabilise climate
+Key idea:
+- high c = heats slowly  
 
 ---
 
 ## 7. Gas Pressure and Temperature
 
-Gas pressure is caused by collisions between gas particles and the container walls.
+Gas pressure comes from particle collisions.
 
-When particles hit the walls, they produce force.
+- particles hit container walls
+- each collision = force
 
-Pressure depends on:
-- number of particles
-- particle speed
-- volume of container
-
-When temperature increases:
-- particles move faster
-- collisions happen more often
-- pressure increases
-
-Example:
-A sealed aerosol can becomes dangerous if heated.
+Pressure increases when:
+- particles move faster  
+- more collisions happen  
 
 ![Gas pressure diagram](../images/gas_pressure.svg)
 
-Gas pressure is the force per unit area caused by particle collisions with the container walls.
+Heating a gas:
+- particles speed up  
+- collisions increase  
+- pressure increases  
+
+Key idea:
+- faster particles = higher pressure  
 
 ---
 
 ## 8. Real Life Example
 
-Why does a bike pump get warm when you compress air?
+Bike pump gets warm because:
 
-When air is compressed:
-- particles collide more often
-- internal energy increases
-- temperature rises
-
-This is why pumps feel warm.
+- air is compressed  
+- particles collide more  
+- internal energy increases  
+- temperature rises  
 
 ---
 
-## 9. 15-Minute Learning Mode
+## 9. Common Mistakes
 
-Watch two short videos:
-
-Particle model of matter:
-https://youtu.be/zjkBMk5d3tM
-
-Gas pressure and temperature:
-https://youtu.be/eHizt31t1rs
+- Thinking particles expand (they don’t, spacing changes)  
+- Mixing up mass and density  
+- Forgetting gases are mostly empty space  
+- Thinking temperature changes particles themselves  
+- Forgetting pressure depends on collisions  
 
 ---
+
 ## 10. Check Your Understanding
 
-- Why are solids difficult to compress? (particles are tightly packed with almost no gaps)
-- Why can gases be compressed easily? (particles are far apart with large gaps between them)
-- What happens to particle movement when temperature increases? (particles move faster)
-- What happens to gas pressure when temperature increases in a sealed container? (pressure increases because particles collide more often and with more force)
-- What is the equation for density? (ρ = m ÷ V)
-- What two types of energy make up internal energy? (kinetic energy and potential energy)
-- Why does water take a long time to heat up? (it has a high specific heat capacity)
-- What happens to particles during a change of state? (their movement and spacing change, but the particles themselves do not change)
+- Why are solids hard to compress? (particles are tightly packed with almost no gaps)  
+- Why are gases easy to compress? (particles are far apart with large gaps)  
+- What happens to particles when temperature increases? (they move faster)  
+- What happens to pressure when a gas is heated in a sealed container? (pressure increases)  
+- What is the equation for density? (ρ = m ÷ V)  
+- What makes up internal energy? (kinetic and potential energy)  
+- Why does water heat slowly? (high specific heat capacity)  
+- What changes during a change of state? (movement and spacing, not particles)  
 
 ---
 
-### Question - Real Life Application
+## 11. Useful Videos
 
-Why should tyre pressure normally be checked when tyres are cold?
+[Particle Theory and States of Matter](https://youtu.be/zjkBMk5d3tM?si=tVjV6vPEYuMGpyr7)
 
-**Answer:**
-
-- Heating increases the kinetic energy of gas particles.
-- Particles move faster.
-- They collide with the tyre walls more often and with greater force.
-- This increases the pressure.
-- If tyres are checked when hot, the reading will be higher and the tyre may end up under-inflated once it cools.
+[Gas pressure](https://youtu.be/eHizt31t1rs?si=A0-EeDoa4M9_OTry)
