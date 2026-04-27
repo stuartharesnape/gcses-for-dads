@@ -116,8 +116,8 @@ The periodic table is arranged by atomic number.
 
 - Each element is placed in order of increasing number of protons  
 
-Rows = periods  
-Columns = groups  
+Rows (periods)  
+Columns (groups)  
 
 Key ideas:
 
@@ -232,6 +232,29 @@ The versions are called isotopes
 #### One-line version (for exams)
 
 - Isotopes are atoms of the same element with the same number of protons but different numbers of neutrons  
+
+### Relative Atomic Mass (Ar)
+
+The number you see on most periodic tables is the relative atomic mass.
+
+This is an average.
+
+Why?
+
+Because most elements exist as a mixture of isotopes.
+
+Example: Lithium
+
+- Lithium-6  
+- Lithium-7  
+
+Most lithium atoms are Lithium-7, so the average is close to 7.
+
+That is why the periodic table shows a number around 7 instead of a whole number.
+
+#### The key idea
+
+- Relative atomic mass is a weighted average of isotopes
 
 ---
 
