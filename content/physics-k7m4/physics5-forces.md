@@ -330,9 +330,25 @@ Things that increase braking distance:
 - heavier vehicles
 
 ### Important GCSE point
+
 Speed affects stopping distance a lot.
 
 The faster a car is going, the much longer it takes to stop.
+
+This is because kinetic energy increases much faster than speed.
+
+The key relationship is:
+
+Ek = ½mv²
+
+That little v² is the important part.
+
+If speed doubles:
+- kinetic energy becomes 4 times larger
+- the brakes must remove far more energy
+- braking distance increases massively
+
+That is why high-speed crashes are so dangerous.
 
 ![Stopping distance diagram](../images/physics5_stopping_distance.svg)
 
