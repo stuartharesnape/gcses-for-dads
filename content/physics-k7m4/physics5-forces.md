@@ -396,6 +396,10 @@ That is why high-speed crashes are so dangerous.
 - **Moment distance must be perpendicular**  
   It is not just any distance from the pivot.
 
+- **Speed vs velocity**
+  Speed tells you how fast something moves (20 m/s on its own is speed)
+  Velocity includes both speed and direction (20 m/s east is a velocity)
+
 ---
 
 ## 13. Quick Memory Hooks
